@@ -202,11 +202,15 @@ body {
 ====================================== */
 .side-nav {
   width: 5%;
-  display: inline-block;
   float: left;
   background-color: #1f115d;
   position: fixed;
   z-index: 111;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .content-area {
@@ -218,11 +222,9 @@ body {
 .side-nav .navbar-brand {
   padding: 20px 12px;
   margin-right: 0;
-  height: 20vh;
   cursor: pointer;
 }
 .side-nav .navbar-links {
-  height: 80vh;
   display: flex;
   justify-content: end;
   align-items: flex-end;
@@ -259,7 +261,6 @@ body {
 .toggle-btn {
   display: inline-block;
   width: 23px;
-  margin-top: 30px;
   transition: 0.5s ease;
   cursor: pointer;
 }
@@ -288,7 +289,7 @@ body {
   top: 0;
   background: #dd4d3a;
   z-index: 11;
-  height: 100%;
+  height: 100vh;
   -webkit-transform: translate3d(-100%, 0, 0);
   transform: translate3d(-100%, 0, 0);
   -webkit-transition: -webkit-transform 0.5s ease;
@@ -559,6 +560,8 @@ body {
 }
 
 .overlay-inner {
+  background-repeat: no-repeat;
+  background-size: cover;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -1123,6 +1126,7 @@ body {
   .side-menu {
     left: 0;
     width: 100%;
+    min-width: 100%;
   }
   .upper-nav .navbar-brand {
     width: 35px;
