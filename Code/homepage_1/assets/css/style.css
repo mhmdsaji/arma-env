@@ -10,10 +10,18 @@
     Google font
 ====================================== */
 @import url("https://fonts.googleapis.com/css?family=Montserrat:300,500,700&display=swap");
-@import url("https://db.onlinewebfonts.com/c/1c6b6cddab6609324d9016562358e0cd?family=Biome"); /* @TODO : Local font */
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
+
+@font-face {
+  font-family: 'Biome';
+  src: url('../fonts/biome.woff2') format('woff2'),
+       url('../fonts/biome.woff') format('woff'),
+       url('../fonts/biome.ttf') format('truetype');
+       url('../fonts/biome.svg#Biome') format('svg');
+}
 
 body {
-    font-family: "Biome", sans-serif;
+    font-family: "Biome", "Source Sans Pro", sans-serif;
 }
 
 /* ===================================
