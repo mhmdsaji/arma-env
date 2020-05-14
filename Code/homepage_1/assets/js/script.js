@@ -18,8 +18,8 @@ jQuery(function($) {
         Side Menu
     ====================================== */
 
-  if ($(".toggle-btn").length) {
-    $(".toggle-btn").on("click", function() {
+  if ($(".side-menu-toggle").length) {
+    $(".side-menu-toggle").on("click", function() {
       $(".pushwrap").toggleClass("active");
       $(".side-menu").addClass("side-menu-active"),
         $("#close_side_menu").fadeIn(700);
@@ -53,10 +53,13 @@ jQuery(function($) {
   /* =====================================
          Side modal close
       ====================================== */
-  $(".content-area").on("click", function() {
-    $(".side-menu").removeClass("side-menu-active");
-    // $(this).fadeOut(200);
-    $(".pushwrap").removeClass("active");
+  $(".content-area").on("click", function(event) {
+    var $target = $(event.target);
+    if (!$target.hasClass("side-menu-toggle")) {
+      $(".side-menu").removeClass("side-menu-active");
+      // $(this).fadeOut(200);
+      $(".pushwrap").removeClass("active");
+    }
   });
   /* =====================================
             header appear
