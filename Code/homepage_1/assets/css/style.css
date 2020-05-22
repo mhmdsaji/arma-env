@@ -9,19 +9,10 @@
 /* ===================================
     Google font
 ====================================== */
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300,500,700&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
-
-@font-face {
-  font-family: 'Biome';
-  src: url('../fonts/biome.woff2') format('woff2'),
-       url('../fonts/biome.woff') format('woff'),
-       url('../fonts/biome.ttf') format('truetype');
-       url('../fonts/biome.svg#Biome') format('svg');
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
 body {
-    font-family: "Biome", "Source Sans Pro", sans-serif;
+    font-family: "Montserrat", "Source Sans Pro", sans-serif;
 }
 
 /* ===================================
@@ -504,9 +495,10 @@ body {
 }
 
 .side-nav-menu .navbar-nav .nav-item .menu-children h6 {
-    color: #1f115d;
     margin: 10px 0;
-    font-size: 1rem;
+    font-size: 1.1rem;
+    color: #fff;
+    opacity: .8;
 }
 
 .side-nav-menu .navbar-nav .nav-link {
