@@ -15,6 +15,10 @@ body {
     font-family: "Montserrat", "Source Sans Pro", sans-serif;
 }
 
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+}
+
 /* ===================================
     Scrollbar
 ====================================== */
@@ -497,6 +501,7 @@ body {
 .side-nav-menu .navbar-nav .nav-item .menu-children h6 {
     margin: 10px 0;
     font-size: 1.1rem;
+    font-weight: 400;
     color: #fff;
     opacity: .8;
 }
