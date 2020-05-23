@@ -231,6 +231,7 @@ body {
     margin-right: auto;
     padding-left: 0;
     text-align: center;
+    margin-bottom: 0;
 }
 
 .side-nav .side-nav-icons li {
@@ -242,10 +243,10 @@ body {
 }
 
 .side-nav .side-nav-icons li a i {
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
     color: #ffffff;
-    font-size: 28px;
+    font-size: 20px;
     margin-bottom: 10px;
     display: flex;
     justify-content: center;
