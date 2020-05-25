@@ -9,7 +9,7 @@
 /* ===================================
     Google font
 ====================================== */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700;900&display=swap');
 
 body {
     font-family: "Montserrat", "Source Sans Pro", sans-serif;
@@ -499,12 +499,15 @@ body {
     font-size: 1.1rem;
 }
 
-.side-nav-menu .navbar-nav .nav-item .menu-children h6 {
+.side-nav-menu .navbar-nav .nav-item .menu-children h6 span {
     margin: 10px 0;
-    font-size: 1.1rem;
+    font-size: 1.0rem;
     font-weight: 400;
     color: #fff;
-    opacity: .8;
+    opacity: .6;
+    border-bottom: 2px solid white;
+    padding-bottom: 5px;
+    display:inline-block;
 }
 
 .side-nav-menu .navbar-nav .nav-link {
@@ -514,11 +517,15 @@ body {
     color: #ffffff;
     padding: 2px 0 3px 0 !important;
     font-size: 1.5rem;
-    font-weight: 300;
+    font-weight: 400;
     line-height: normal;
     position: relative;
     border-radius: 0;
     text-decoration: none;
+}
+
+.side-nav-menu .navbar-nav .nav-link.title {
+    font-weight: 500;
 }
 
 .side-nav-menu .navbar-nav .nav-link::after {
