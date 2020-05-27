@@ -13,6 +13,7 @@
 
 body {
     font-family: "Montserrat", "Source Sans Pro", sans-serif;
+    overflow-y: hidden;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
@@ -1402,4 +1403,42 @@ body {
     position: absolute;
     right: 50px;
     top: 40px;
+}
+
+.footer-news {
+    position: fixed;
+    bottom: 5%;
+    left: 5%;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.arma-news .slick-arrow {
+    display: none !important;
+}
+
+.arma-news {
+    margin-bottom: 0;
+    width: 45%;
+}
+
+.arma-news li a {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.news-heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: #dd4d3a;
+    padding-right: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    line-height: 1;
+    margin: 0;
 }
