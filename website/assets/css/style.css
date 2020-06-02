@@ -633,6 +633,12 @@ body {
     display: none !important;
 }
 
+.bg-secondary {
+    opacity: 0.6;
+    background: rgb(7, 7, 51);
+    background: linear-gradient(225deg, rgba(7, 7, 51, 1) 0%, rgba(53, 53, 133, 1) 75%, rgba(53, 53, 133, 1) 100%);
+}
+
 /* ===================================
         map sec
 ====================================== */
@@ -1238,6 +1244,11 @@ body {
 /***********************************/
 /**************Custom*************/
 /***********************************/
+#page-wrapper {
+    width: 100vw;
+    height: 100vh;
+}
+
 .logo {
     z-index: 1;
     max-width: 150px;
@@ -1293,6 +1304,43 @@ body {
 }
 .footer-news:hover .news-heading {
     background-color: #dd4d3a;
+}
+
+.page {
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+}
+
+.breadcrumb {
+    background: transparent;
+    padding-left: 0;
+}
+
+.breadcrumb a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.breadcrumb a:hover {
+    color: #dd4d3a;
+}
+
+li.breadcrumb-item.active {
+    color: #fff;
+}
+
+.page-title {
+    color: #dd4d3a;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.content-wrapper {
+    font-size: 16px;
+    color:#fff;
 }
 
 /* ===================================

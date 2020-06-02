@@ -83,4 +83,19 @@ jQuery(function ($) {
     autoplaySpeed: 2000,
     vertical: true
   });
+
+  /* =====================================
+            Site navigation
+         ====================================== */
+  $(".menu-child").click(function (e) {
+    e.preventDefault();
+    var pageUrl = $(this).attr("href");
+    $.ajax({
+      url: pageUrl,
+      success: function (newPageHtml) {
+        $("#page-wrapper").empty().append(newPageHtml);
+      }
+    });
+  })
+
 });
