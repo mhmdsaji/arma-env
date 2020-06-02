@@ -633,6 +633,12 @@ body {
     display: none !important;
 }
 
+.bg-secondary {
+    opacity: 0.6;
+    background: rgb(7, 7, 51);
+    background: linear-gradient(225deg, rgba(7, 7, 51, 1) 0%, rgba(53, 53, 133, 1) 75%, rgba(53, 53, 133, 1) 100%);
+}
+
 /* ===================================
         map sec
 ====================================== */
@@ -1234,6 +1240,109 @@ body {
     font-weight: 500;
 }
 
+
+/***********************************/
+/**************Custom*************/
+/***********************************/
+#page-wrapper {
+    width: 100vw;
+    height: 100vh;
+}
+
+.logo {
+    z-index: 1;
+    max-width: 150px;
+    position: absolute;
+    right: 50px;
+    top: 40px;
+}
+
+.footer-news {
+    position: fixed;
+    bottom: 5%;
+    left: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.arma-news .slick-arrow {
+    display: none !important;
+}
+
+.arma-news {
+    margin-bottom: 0;
+    width: 42%;
+}
+
+.arma-news li a {
+    color: white;
+    font-size: 1rem;
+    text-decoration: none;
+    font-weight: 500;
+    line-height: 1;
+    opacity: 0.7;
+    padding: 5px 0;
+}
+
+.arma-news li a:hover {
+    opacity: 1;
+}
+
+.news-heading {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+    background-color: #1f115d;
+    border-radius: 3px;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    line-height: 1;
+    margin: 0 15px 0 0;
+}
+.footer-news:hover .news-heading {
+    background-color: #dd4d3a;
+}
+
+.page {
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+}
+
+.breadcrumb {
+    background: transparent;
+    padding-left: 0;
+}
+
+.breadcrumb a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.breadcrumb a:hover {
+    color: #dd4d3a;
+}
+
+li.breadcrumb-item.active {
+    color: #fff;
+}
+
+.page-title {
+    color: #dd4d3a;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.content-wrapper {
+    font-size: 16px;
+    color:#fff;
+}
+
 /* ===================================
     Media Queries
    ====================================== */
@@ -1320,6 +1429,13 @@ body {
         padding-left: 18px;
         padding-right: 18px;
     }
+
+    /***********************************/
+    /**************Custom*************/
+    /***********************************/
+    .arma-news {
+        width: 85%;
+    }
 }
 
 @media screen and (max-width: 767px) {
@@ -1392,64 +1508,14 @@ body {
     .services-sec .our-services > div:last-child .service-card {
         margin-bottom: 0;
     }
-}
 
-/***********************************/
-/**************Custom*************/
-/***********************************/
-.logo {
-    z-index: 1;
-    max-width: 150px;
-    position: absolute;
-    right: 50px;
-    top: 40px;
-}
-
-.footer-news {
-    position: fixed;
-    bottom: 5%;
-    left: 5%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.arma-news .slick-arrow {
-    display: none !important;
-}
-
-.arma-news {
-    margin-bottom: 0;
-    width: 42%;
-}
-
-.arma-news li a {
-    color: white;
-    font-size: 1rem;
-    text-decoration: none;
-    font-weight: 500;
-    line-height: 1;
-    opacity: 0.7;
-    padding: 5px 0;
-}
-
-.arma-news li a:hover {
-    opacity: 1;
-}
-
-.news-heading {
-    font-size: 1rem;
-    font-weight: 500;
-    color: #fff;
-    background-color: #1f115d;
-    border-radius: 3px;
-    text-align: center;
-    padding: 10px;
-    text-transform: uppercase;
-    letter-spacing: 0;
-    line-height: 1;
-    margin: 0 15px 0 0;
-}
-.footer-news:hover .news-heading {
-    background-color: #dd4d3a;
+    /***********************************/
+    /**************Custom*************/
+    /***********************************/
+    .logo {
+        display: none;
+    }
+    .footer-news {
+        display: none;
+    }
 }
