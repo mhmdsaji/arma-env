@@ -222,6 +222,7 @@ body {
     padding: 20px 12px;
     margin-right: 0;
     cursor: pointer;
+    max-width: 65px;
 }
 
 .side-nav .navbar-links {
@@ -1319,7 +1320,7 @@ body {
 .page {
     width: 100%;
     align-items: center;
-    padding-top: 15rem;
+    padding-top: 10rem;
     padding-bottom: 8rem;
 }
 
@@ -1344,7 +1345,7 @@ li.breadcrumb-item.active {
 }
 
 .page-title {
-    color: #dd4d3a;
+    color: #fff;
     margin-bottom: 30px;
     font-weight: bold;
 }
