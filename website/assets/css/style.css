@@ -179,7 +179,7 @@ body {
     color: #ffffff;
     font-size: 16px;
     border: solid 1px #dd4d3a;
-    transition: 0.8s ease;
+    transition: 0.5s ease;
     text-decoration: none;
     border-radius: 100px;
     cursor: pointer;
@@ -1350,13 +1350,27 @@ li.breadcrumb-item.active {
     font-weight: bold;
 }
 
-.content-wrapper {
+.content-wrapper:not(.grid-layout) {
     background: rgba(255, 255, 255, .9);
     font-size: 16px;
     padding: 30px;
     border-radius: 4px;
 }
 
+.card .blue-btn:hover {
+    color: #dd4d3a;
+    border-color: #dd4d3a;
+}
+
+.card-deck.large-right .card:first-child,
+.card-deck.large-left .card:nth-child(2){
+    flex-grow: 2;
+}
+.card-footer {
+    background: transparent;
+    border: 0;
+    padding: 1.25rem;
+}
 /* ===================================
     Media Queries
    ====================================== */
