@@ -191,6 +191,10 @@ body {
     color: #1f115d;
 }
 
+.side-menu-toggle.blue-btn {
+    font-weight: bold;
+}
+
 /* ===================================
         side-nav css
 ====================================== */
@@ -205,7 +209,6 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 0;
 }
 
 .content-area {
@@ -287,6 +290,7 @@ body {
 
 .navbar-toggle {
     padding: 20px;
+    height: 25px;
 }
 
 /* ===================================
