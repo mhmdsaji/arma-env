@@ -172,25 +172,6 @@ body {
     background-position: center center !important;
 }
 
-.blue-btn {
-    background-color: #dd4d3a;
-    padding: 10px 25px;
-    border-radius: 0;
-    color: #ffffff;
-    font-size: 16px;
-    border: solid 1px #dd4d3a;
-    transition: 0.5s ease;
-    text-decoration: none;
-    border-radius: 100px;
-    cursor: pointer;
-}
-
-.blue-btn:hover {
-    background-color: #fff;
-    border-color: #fff;
-    color: #1f115d;
-}
-
 .side-menu-toggle.blue-btn {
     font-weight: bold;
 }
@@ -1351,15 +1332,53 @@ li.breadcrumb-item.active {
 }
 
 .content-wrapper:not(.grid-layout) {
-    background: rgba(255, 255, 255, .9);
-    font-size: 16px;
+    background: rgba(255, 255, 255, .95);
+    font-size: 15px;
     padding: 30px;
     border-radius: 4px;
+    font-weight: normal;
+    border-top: #dd4d3a 5px solid;
+}
+
+
+.blue-btn {
+    background-color: #dd4d3a;
+    padding: 5px 10px;
+    color: #ffffff;
+    font-size: 13px;
+    border: solid 1px #dd4d3a;
+    transition: 0.5s ease;
+    text-decoration: none;
+    border-radius: 100px;
+    cursor: pointer;
+    font-weight: bold;
+    vertical-align: center;
+}
+
+.blue-btn img {
+    height: 18px !important;
+}
+
+.blue-btn:hover {
+    background-color: #fff;
+    border-color: #fff;
+    color: #1f115d;
+}
+
+.card {
+    border-width: 0;
+    background: rgba(255, 255, 255, .9);
 }
 
 .card .blue-btn:hover {
     color: #dd4d3a;
     border-color: #dd4d3a;
+}
+
+.card .card-text {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.5em;
 }
 
 .card-deck.large-right .card:first-child,
@@ -1369,8 +1388,20 @@ li.breadcrumb-item.active {
 .card-footer {
     background: transparent;
     border: 0;
-    padding: 1.25rem;
+    padding: 0 1.25rem 1.25rem 1.25rem;
+    text-align: right;
 }
+
+.text-bloc {
+    margin-bottom: 2rem;
+}
+
+.text-bloc h4 {
+    color: #000;
+    font-weight: bold;
+}
+
+
 /* ===================================
     Media Queries
    ====================================== */
