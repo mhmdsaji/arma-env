@@ -1343,23 +1343,28 @@ li.breadcrumb-item.active {
 
 .blue-btn {
     background-color: #dd4d3a;
-    padding: 5px 10px;
+    padding: 10px 25px;
     color: #ffffff;
-    font-size: 13px;
+    font-size: 16px;
     border: solid 1px #dd4d3a;
     transition: 0.5s ease;
     text-decoration: none;
     border-radius: 100px;
     cursor: pointer;
-    font-weight: bold;
-    vertical-align: center;
 }
 
-.blue-btn img {
-    height: 18px !important;
+.blue-btn.small {
+    padding: 10px 20px;
+    font-size: 14px;
 }
 
-.blue-btn:hover {
+.blue-btn i {
+    font-size: 1rem;
+    margin-right: 5px;
+}
+
+.blue-btn:hover,
+.blue-btn:focus {
     background-color: #fff;
     border-color: #fff;
     color: #1f115d;
@@ -1370,7 +1375,8 @@ li.breadcrumb-item.active {
     background: rgba(255, 255, 255, .9);
 }
 
-.card .blue-btn:hover {
+.card .blue-btn:hover,
+.card .blue-btn:focus {
     color: #dd4d3a;
     border-color: #dd4d3a;
 }
