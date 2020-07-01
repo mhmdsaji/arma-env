@@ -16,14 +16,14 @@
         <!-- End side nav -->
         <div id="page-wrapper">
             <div class="overlay">
-                <div class="overlay-inner" style="background-image: url(assets/img/overlays/1.jpg);">
-                    <img src="assets/img/overlays/1.jpg" alt="background" style="display: none;">
+                <div class="overlay-inner" style="background-image: url(../assets/img/overlays/1.jpg);">
+                    <img src="../assets/img/overlays/1.jpg" alt="background" style="display: none;">
                 </div>
                 <div class="overlay-inner bg-secondary"></div>
             </div>
             <div class="content-area">
                 <div class="logo">
-                    <a href="index.html"><img src="assets/img/logo-light.png" alt="ARMA Environnement"></a>
+                    <a href="index.html"><img src="../assets/img/logo-light.png" alt="ARMA Environnement"></a>
                 </div>
                 <div class="page row no-gutters">
                     <div class="col-md-8 offset-md-1">
@@ -38,7 +38,7 @@
                         <div class="grid-layout content-wrapper">
                             <div class="card-deck large-left mb-4">
                                 <div class="card">
-                                    <a href="#"><img class="card-img-top" src="assets/img/blogs/1.jpg" alt="Card image cap"></a>
+                                    <a href="#"><img class="card-img-top" src="../assets/img/blogs/1.jpg" alt="Card image cap"></a>
                                     <div class="card-body">
                                         <h5 class="card-title">Lorem ipsum</h5>
                                         <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
@@ -53,7 +53,7 @@
                                     </div>
                                 </div>
                                 <div class="card">
-                                    <a href="#"><img class="card-img-top" src="assets/img/blogs/1.jpg" alt="Card image cap"></a>
+                                    <a href="#"><img class="card-img-top" src="../assets/img/blogs/1.jpg" alt="Card image cap"></a>
                                     <div class="card-body">
                                         <h5 class="card-title">Lorem ipsum</h5>
                                         <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
@@ -67,7 +67,7 @@
                             </div>
                             <div class="card-deck large-right mb-4">
                                 <div class="card">
-                                    <a href="#"><img class="card-img-top" src="assets/img/blogs/1.jpg" alt="Card image cap"></a>
+                                    <a href="#"><img class="card-img-top" src="../assets/img/blogs/1.jpg" alt="Card image cap"></a>
                                     <div class="card-body">
                                         <h5 class="card-title">Lorem ipsum</h5>
                                         <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
@@ -79,7 +79,7 @@
                                     </div>
                                 </div>
                                 <div class="card">
-                                    <a href="#"><img class="card-img-top" src="assets/img/blogs/1.jpg" alt="Card image cap"></a>
+                                    <a href="#"><img class="card-img-top" src="../assets/img/blogs/1.jpg" alt="Card image cap"></a>
                                     <div class="card-body">
                                         <h5 class="card-title">Lorem ipsum</h5>
                                         <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
@@ -96,7 +96,7 @@
                             </div>
                             <div class="card-deck mb-4">
                                 <div class="card">
-                                    <a href="#"><img class="card-img-top" src="assets/img/blogs/1.jpg" alt="Card image cap"></a>
+                                    <a href="#"><img class="card-img-top" src="../assets/img/blogs/1.jpg" alt="Card image cap"></a>
                                     <div class="card-body">
                                         <h5 class="card-title">Lorem ipsum</h5>
                                         <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
@@ -108,7 +108,7 @@
                                     </div>
                                 </div>
                                 <div class="card">
-                                    <a href="#"><img class="card-img-top" src="assets/img/blogs/1.jpg" alt="Card image cap"></a>
+                                    <a href="#"><img class="card-img-top" src="../assets/img/blogs/1.jpg" alt="Card image cap"></a>
                                     <div class="card-body">
                                         <h5 class="card-title">Lorem ipsum</h5>
                                         <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
@@ -120,7 +120,7 @@
                                     </div>
                                 </div>
                                 <div class="card">
-                                    <a href="#"><img class="card-img-top" src="assets/img/blogs/1.jpg" alt="Card image cap"></a>
+                                    <a href="#"><img class="card-img-top" src="../assets/img/blogs/1.jpg" alt="Card image cap"></a>
                                     <div class="card-body">
                                         <h5 class="card-title">Lorem ipsum</h5>
                                         <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
