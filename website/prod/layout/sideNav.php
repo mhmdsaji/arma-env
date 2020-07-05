@@ -58,10 +58,10 @@
                         <li class="nav-item"><a class="nav-link menu-child" href="about.php">Qui
                             sommes-nous?</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Nos chiffres clés</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="numbers.php">Nos chiffres clés</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Notre mission</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Nos valeurs</a></li>
+                        <li class="nav-item"><a class="nav-link menu-child" href="mission.php">Notre mission</a></li>
+                        <li class="nav-item"><a class="nav-link menu-child" href="values.php">Nos valeurs</a></li>
                         <li class="nav-item"><a class="nav-link menu-child" href="cards-nopic.php">Appels d'offres</a></li>
                     </ul>
                 </li>
@@ -86,9 +86,9 @@
 
                     <ul class="menu-children">
                         <h6><span>Pour les villes et collectivités</span></h6>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Propreté urbaine</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="citysolutions.php#urbanCleanliness">Propreté urbaine</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Gestion des déchets</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="citysolutions.php#wasteManagement">Gestion des déchets</a>
                         </li>
                         <li class="nav-item"><a class="nav-link menu-child" href="#">Espaces verts</a></li>
                         <li class="nav-item"><a class="nav-link menu-child" href="#">Eau &
