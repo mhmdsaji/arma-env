@@ -57,11 +57,14 @@
                 <div class="footer-news">
                     <h5 class="news-heading"><b>Arma</b><br/>News</h5>
                     <ul class="arma-news" id="arma-news">
-                        <li><a href="#">ARMA Environnement lance une campagne de dépistage massif.</a>
+                        <li>
+                            <a href="#">ARMA Environnement lance une campagne de dépistage Covid-19 massif de ses collaborateurs.</a>
                         </li>
-                        <li><a href="#">ARMA Environnement renforce les mesures d'hygiène et de sensibilisation anti COVID-19 au profit de ses collaborateurs.</a>
+                        <li>
+                            <a href="#">ARMA Environnement renforce les mesures d'hygiène et de sensibilisation anti COVID-19 au profit de ses collaborateurs.</a>
                         </li>
-                        <li><a href="#">ARMA Environnement lance des opérations de désinfection dans les grands villes du Maroc.</a>
+                        <li>
+                            <a href="#">ARMA Environnement lance des opérations de désinfection de grande envérgure dans les grands villes du Maroc.</a>
                         </li>
                     </ul>
                 </div>
