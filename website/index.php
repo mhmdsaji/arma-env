@@ -27,14 +27,14 @@
         <!-- End side nav -->
         <div id="page-wrapper">
             <div class="overlay">
-                <div class="overlay-inner" style="background-image: url(../assets/img/casablanca.jpg);">
-                    <img src="../assets/img/casablanca.jpg" alt="background" style="display: none;">
+                <div class="overlay-inner" style="background-image: url(assets/img/casablanca.jpg);">
+                    <img src="assets/img/casablanca.jpg" alt="background" style="display: none;">
                 </div>
                 <div class="overlay-inner bg-primary"></div>
             </div>
             <div class="content-area">
                 <div class="logo">
-                    <a href="index.php"><img src="../assets/img/logo-light.png" alt="ARMA Environnement"></a>
+                    <a href="index.php"><img src="assets/img/logo-light.png" alt="ARMA Environnement"></a>
                 </div>
                 <div class="row no-gutters">
                     <div class="col-12">

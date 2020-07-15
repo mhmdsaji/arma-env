@@ -10,11 +10,12 @@
 <!-- Page Title -->
 <title><?php echo $pageName ?> | Engagés pour l’avenir de nos villes</title>
 <!-- Favicon -->
-<link rel="shortcut icon" href="../assets/img/favicon.ico?v=2"/>
+<link rel="shortcut icon" href="assets/img/favicon.ico?v=2"/>
 <!-- Bundle -->
-<link href="../vendor/css/bundle.min.css" rel="stylesheet"/>
+<link href="vendor/css/bundle.min.css" rel="stylesheet"/>
 <!-- Plugin Css -->
-<link href="../assets/css/line-awesome.min.css" rel="stylesheet"/>
-<link href="../vendor/css/slick.css" rel="stylesheet"/>
+<link href="assets/css/line-awesome.min.css" rel="stylesheet"/>
+<link href="vendor/css/slick.css" rel="stylesheet"/>
+<link href="vendor/css/animate.min.css" rel="stylesheet"/>
 <!-- Style Sheet -->
-<link href="../assets/css/style.css?v=5" rel="stylesheet"/>
+<link href="assets/css/style.css?v=5" rel="stylesheet"/>

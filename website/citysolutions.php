@@ -16,14 +16,14 @@
             <!-- End side nav -->
             <div id="page-wrapper">
                 <div class="overlay">
-                    <div class="overlay-inner" style="background-image: url(../assets/img/overlays/1.jpg);">
-                        <img src="../assets/img/overlays/1.jpg" alt="background" style="display: none;">
+                    <div class="overlay-inner" style="background-image: url(assets/img/overlays/1.jpg);">
+                        <img src="assets/img/overlays/1.jpg" alt="background" style="display: none;">
                     </div>
                     <div class="overlay-inner bg-secondary"></div>
                 </div>
                 <div class="content-area">
                     <div class="logo">
-                        <a href="index.html"><img src="../assets/img/logo-light.png" alt="ARMA Environnement"></a>
+                        <a href="index.html"><img src="assets/img/logo-light.png" alt="ARMA Environnement"></a>
                     </div>
                     <div class="page row no-gutters">
                         <div class="col-md-8 offset-md-1">

@@ -103,7 +103,23 @@ jQuery(function ($) {
   }
 
 /* =====================================
-          Counting Number Initializing
+      page overlay slider 
+  ====================================== */
+  $(".overlay-inner").slick({
+    autoplay: true,
+    arrows: false,
+    fade: true,
+    pauseOnHover: false,
+    speed: 2000
+  });
+
+  /* =====================================
+      WOW init 
+  ====================================== */
+  new WOW().init();
+
+/* =====================================
+          Smooth scrolling for inner links
       ====================================== */  
 
   // Select all links with hashes

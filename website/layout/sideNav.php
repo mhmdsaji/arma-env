@@ -1,6 +1,6 @@
 <div class="side-nav">
     <a class="navbar-brand" href="index.php">
-        <img src="../assets/img/logo-white-2.png" alt=""/>
+        <img src="assets/img/logo-white-2.png" alt=""/>
     </a>
     <div class="navbar-toggle">
         <a class="side-menu-toggle toggle-btn" id="sidemenu_toggle">
@@ -34,7 +34,7 @@
 </div>
 <div class="upper-nav d-block d-md-none" style="padding: 8px 0;">
     <nav class="navbar">
-        <a class="navbar-brand" href="index.php"><img alt="" src="../assets/img/logo-white.png"/></a>
+        <a class="navbar-brand" href="index.php"><img alt="" src="assets/img/logo-white.png"/></a>
         <ul class="navbar-nav ml-auto">
             <li>
                 <a href="#" class="side-menu-toggle toggle-btn upper-nav-btn white-bg">
