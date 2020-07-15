@@ -4,7 +4,6 @@ Context : It's the same groupe Derichbourg, which is changing its name to ARMA H
 
 Ressources
 
-Inspiration : https://www.averda.com (we spoke about this)
 Logos : attached (with different versions depending on support) - official logos have "OFFICIAL" in the filename.
 Time : We are not in a hurry but the sooner the better
 
