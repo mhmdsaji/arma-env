@@ -41,10 +41,15 @@
                             <h1 class="page-title">Le groupe ARMA</h1>
 
                             <div class="text-bloc content-wrapper no-bg col-md-10">
-                                <p>Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques :</p>
+                                <p>Le groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le groupe ARMA est structuré autour de quatre métiers qui constituent ses marques.</p>
                             </div>
-                            <div class="row content-bloc">
-                                <div class="col-sm-6 wow fadeIn ">
+                            <div class="row content-bloc  wow fadeIn">
+                                <div class="col-sm-6  ">
+                                    <div class="image-holder">
+                                        <img class="image-fluid" src="assets/img/img-1.jpg" alt="Image">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
                                     <div class="small-text-bloc">
                                         <div class="image">
                                             <img src="assets/img/logo-full.png" alt="Arma Env">
@@ -54,22 +59,19 @@
                                             <p>Œuvre chaque jour pour rendre vos villes plus propres, mieux aménagées et tout simplement agréable à vivre pour tous les citoyens.</p> 
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-sm-6 wow fadeIn wow__delay-1">
-
                                     <div class="small-text-bloc">
                                         <div class="image">
                                             <img src="assets/img/arma-water.png" alt="Arma Env">
                                         </div>
                                         <div class="text">
                                             <h4>ARMA WATER</h4>
-                                            <p>Mobilise toute son expérience pouzr proposer des systèmes innovants dans la collecte et la gestion des eaux usées et pluviales.</p>
+                                            <p>Mobilise toute son expérience pour proposer des systèmes innovants dans la collecte et la gestion des eaux usées et pluviales.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="row content-bloc">
-                                <div class="col-sm-6 wow fadeIn wow__delay-2">
+                            <div class="row content-bloc  wow fadeIn wow__delay-2">                                
+                                <div class="col-sm-6">
                                     <div class="small-text-bloc">
                                         <div class="image">
                                             <img src="assets/img/arma-energy.png" alt="Arma Env">
@@ -78,9 +80,7 @@
                                             <h4>Arma Enegry</h4>
                                             <p>Vous conseille et vous accompagne afin d’adopter les meilleures solutions en matière d’éclairage public. Qualité, maintenance et gains énergétiques.</p>
                                         </div>
-                                    </div>                                    
-                                </div>
-                                <div class="col-sm-6 wow fadeIn wow__delay-3">
+                                    </div> 
                                     <div class="small-text-bloc">
                                         <div class="image">
                                             <img src="assets/img/axial-logo.png" alt="Axial Facilities">
@@ -90,6 +90,11 @@
                                             <p>Toujours à l’écoute, AXIAL FACILITIES élabore un projet d’intervention en collaboration avec le client afin de répondre de manière pertinente et spécifique à ses véritables besoins.</p>
                                         </div>
                                     </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="image-holder">
+                                        <img class="image-fluid" src="assets/img/img-2.jpg" alt="Image">
+                                    </div>                                                                       
                                 </div>
                             </div>
                         </div>
