@@ -88,7 +88,7 @@ jQuery(function ($) {
           Counting Number Initializing
       ====================================== */  
 
-  if($(".stats_section").length) {
+  if($(".arma-stats").length) {
     $('.number-scroll').each(function () {
       $(this).prop('Counter',0).animate({
           Counter: $(this).text()

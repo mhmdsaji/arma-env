@@ -15,9 +15,14 @@
             <?php include 'layout/sideNav.php';?>
             <!-- End side nav -->
             <div id="page-wrapper">
-                <div class="overlay">
-                    <div class="overlay-inner" style="background-image: url(assets/img/overlays/1.jpg);">
-                        <img src="assets/img/overlays/1.jpg" alt="background" style="display: none;">
+            <div class="overlay">
+                    <div class="overlay-inner">
+                        <img src="assets/img/overlays/1.jpg" alt="background">
+                        <img src="assets/img/overlays/2.jpg" alt="background">
+                        <img src="assets/img/overlays/3.jpg" alt="background">
+                        <img src="assets/img/overlays/4.jpg" alt="background">
+                        <img src="assets/img/overlays/7.jpg" alt="background">
+                        <img src="assets/img/overlays/10.jpg" alt="background">
                     </div>
                     <div class="overlay-inner bg-secondary"></div>
                 </div>
@@ -34,29 +39,81 @@
                                 </ol>
                             </nav>
                             <h1 class="page-title">Chiffres clés</h1>
-
                             <div class="text-bloc content-wrapper no-bg col-md-10">
-                                <div class="stats_section row">
-                                    <div class="col-md-4 margin_after_tab text-center">
-                                        <div class="stats_section_inner">
-                                            <i class="fa fa-user stats_section_icon" aria-hidden="true"></i>
-                                            <h3 class="stats_section_heading number-scroll">46</h3>
-                                            <p class="small_heading">Clients</p>
+                                <p>ARMA Environnement comprend parfaitement les enjeux auxquels sont confrontées les villes d’aujourd’hui : croissance démographique, accélération de l’urbanisation, défis énergé- tiques et environnementaux, développement industriel et bien d’autres.</p>
+                            </div>
+                            <div class="row content-bloc">
+                                <div class="col-sm-7">
+                                    <div class="arma-stats-group">
+                                        <div class="arma-stats large blue">
+                                            <div class="arma-stats-inner">
+                                                <span class="bold number-scroll">6500</span> Collaborateurs
+                                            </div>
+                                        </div>
+                                        <div class="arma-stats small blue">
+                                            <div class="arma-stats-inner">
+                                                <span class="bold number-scroll">27</span><br> Ville
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-4 margin_after_tab text-center">
-                                        <div class="stats_section_inner">
-                                            <i class="fa fa-handshake stats_section_icon" aria-hidden="true"></i>
-                                            <h3 class="stats_section_heading number-scroll">6500</h3>
-                                            <p class="small_heading">Collaborateurs </p>
+                                </div>
+                                <div class="col-sm-5">
+                                    <div class="arma-stats large red">
+                                        <div class="arma-stats-inner">
+                                            <span class="bold number-scroll">3200</span><span class="light">km<sup>2</sup></span> Superficie entretenue
                                         </div>
                                     </div>
-                                    <div class="col-md-4 margin_after_tab text-center">
-                                        <div class="stats_section_inner">
-                                            <i class="fas fa-city stats_section_icon" aria-hidden="true"></i>
-                                            <h3 class="stats_section_heading number-scroll">27</h3>
-                                            <p class="small_heading">Villes</p>
+                                </div>
+                            </div>
+                            <div class="row content-bloc">
+                                <div class="col-sm-7">
+                                    <div class="image-holder">
+                                    <img class="image-fluid" src="assets/img/overlays/4.jpg" alt="Image" style="height: 295px;">
+                                    </div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <div class="arma-stats large blue mb-4">
+                                        <div class="arma-stats-inner">
+                                            <span class="bold">24</span><span class="light">heures</span><br />7 jours sur sept
                                         </div>
+                                    </div>
+                                    <div class="arma-stats large yellow">
+                                        <div class="arma-stats-inner">                                         
+                                            <span class="bold number-scroll">53000</span><br />Points d’éclairage public
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row content-bloc">
+                                <div class="col-sm-7">
+                                <div class="arma-stats-group mb-4">
+                                        <div class="arma-stats small blue">
+                                            <div class="arma-stats-inner">
+                                                <span class="bold number-scroll">46</span><br /> Clients
+                                            </div>
+                                        </div>
+                                        <div class="arma-stats large green">
+                                            <div class="arma-stats-inner">
+                                                <span class="bold number-scroll">200000</span><br> Usagers assainissement
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="arma-stats-group">                                        
+                                        <div class="arma-stats large red">
+                                            <div class="arma-stats-inner">                                             
+                                                <span class="bold">3</span><span class="light">millions</span><br> Habitants desservis
+                                            </div>
+                                        </div>
+                                        <div class="arma-stats small yellow">
+                                            <div class="arma-stats-inner" style="font-size: 22px;">
+                                                <span class="bold">98</span><sup>%</sup><br /> Taux dispo
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <div class="image-holder">
+                                    <img class="image-fluid" src="assets/img/overlays/10.jpg" alt="Image" style="height: 295px;">
                                     </div>
                                 </div>
                             </div>

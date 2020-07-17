@@ -628,8 +628,8 @@ body {
 .bg-secondary {
     opacity: .8;
     background-color: transparent !important;
-    background: rgb(31,17,93) !important;
-    background: linear-gradient(124deg, rgba(31,17,93,1) 0%, rgba(0,0,0,0) 90%) !important;
+    background: rgb(7, 7, 51) !important;
+    background: linear-gradient(225deg, rgba(7, 7, 51, 1) 0%, rgba(53, 53, 133, 1) 75%, rgba(53, 53, 133, 1) 100%) !important;
 }
 
 /* ===================================
@@ -1531,6 +1531,68 @@ li.breadcrumb-item.active {
     text-transform: uppercase;
     letter-spacing: 0;
 }
+
+/* Arma Stats */
+.arma-stats {
+    font-size: 1.5rem;
+    letter-spacing: .0;
+    font-weight: 300;
+    color: #fff;
+    height: 135px;
+    border-radius: 15px;
+    backdrop-filter: blur(4px);
+    padding: 20px;
+    line-height: 1.1;
+    transition: background .5s ease;
+    opacity: .9;
+    -webkit-backdrop-filter: blur(4px);
+}
+
+.arma-stats.blue {
+    background-color: rgba(19, 9, 105, 1.5);
+}
+
+.arma-stats.large {
+    flex-basis: 65%;
+}
+
+.arma-stats.small {flex-basis: 30%;}
+
+.arma-stats.red {
+    background-color: rgba(255, 0, 0, .9);
+}
+
+.arma-stats-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.arma-stats .bold {
+    font-weight: 400;
+    font-size: 3.875rem;
+}
+
+.arma-stats .light {
+    font-weight: 100;
+    font-size: 3.875rem;
+}
+
+.arma-stats.red:hover {
+    background-color: rgba(255, 0, 0, .8);
+}
+
+.arma-stats.blue:hover {
+    background-color: rgba(19, 9, 105, .8);
+}
+
+.arma-stats.yellow {
+    background-color: rgba(255, 177, 0, .9);
+}
+
+.arma-stats.green {
+    background-color: rgba(44, 216, 199, .9);
+}
+
 
 /*Animate css transition delay*/
 .wow__delay-1 {
