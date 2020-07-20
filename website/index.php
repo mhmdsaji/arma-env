@@ -11,9 +11,14 @@
 <!--START PAGE LOADER-->
 <div id="loader">
     <div class="loader center-block">
+    <!--
         <div class="inner one"></div>
         <div class="inner two"></div>
         <div class="inner three"></div>
+    -->
+        <div class="inner img_rot">
+            <img src="assets/img/logo-white.png" width="64" height="64" alt="" />
+        </div>
     </div>
 </div>
 <!--END PAGE LOADER-->
@@ -43,9 +48,9 @@
                                 <div class="container">
                                     <h1>Engagés pour l’avenir de nos villes</h1>
                                     <p class="sub col-md-8 offset-md-2">
-                                        Depuis sa création, ARMA Environnement a développé une expertise particulière en
-                                        services à la ville. Forte d’un savoir-faire éprouvé sur l’ensemble du
-                                        territoire, ARMA Environnement comprend parfaitement les enjeux auxquels sont
+                                        Depuis la création de ARMA Environnement nous avons développé une expertise particulière en
+                                        services à la ville. Forts d’un savoir-faire éprouvé sur l’ensemble du
+                                        territoire, nous comprenons parfaitement les enjeux auxquels sont
                                         confrontées les villes d’aujourd’hui.
                                     </p>
                                     <a href="#" class="side-menu-toggle btn blue-btn">Découvrir</a>

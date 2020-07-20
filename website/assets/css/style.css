@@ -11,6 +11,10 @@
 ====================================== */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700;900&display=swap');
 
+html {
+    background-color: #1F105E;
+}
+
 body {
     font-family: "Montserrat", "Source Sans Pro", sans-serif;
     overflow: hidden auto;
@@ -49,7 +53,8 @@ body {
     position: fixed;
     width: 100%;
     height: 100vh;
-    background: #ffffff;
+    /*background: #ffffff;*/
+    background: #1F105E;
     z-index: 999;
 }
 
@@ -71,6 +76,22 @@ body {
     width: 100%;
     height: 100%;
     border-radius: 50%;
+}
+
+.inner.img_rot{
+    left: 0%;
+    top: 0%;
+    -webkit-animation: rotation 2s infinite linear;
+    animation: rotation 2s linear infinite;
+}
+
+@-webkit-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(359deg);
+    }
 }
 
 .inner.one {
@@ -668,7 +689,7 @@ body {
 
 .home-banner img {
     max-width: 200px;
-    margin-bottom: 20px;
+    margin-bottom: 19px;
 }
 
 .home-banner h1 {
@@ -1265,7 +1286,7 @@ body {
 
 .arma-news {
     margin-bottom: 0;
-    width: 42%;
+    width: 45%;
 }
 
 .arma-news li a {
