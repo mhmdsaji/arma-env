@@ -28,7 +28,7 @@
                 </div>
                 <div class="content-area">
                     <div class="logo">
-                        <a href="index.html"><img src="assets/img/logo-dark.png" alt="ARMA Environnement"></a>
+                        <a href="index.html"><img src="assets/img/logo-light.png" alt="ARMA Environnement"></a>
                     </div>
                     <div class="page row no-gutters">
                         <div class="col-md-8 offset-md-1">
@@ -55,17 +55,18 @@
                                             <img src="assets/img/logo-full.png" alt="Arma Env">
                                         </div>
                                         <div class="text">
-                                            <h4>ARMA Environnement</h4>
+                                            <h4><b>ARMA Environnement</b></h4>
                                             <p>Œuvre chaque jour pour rendre vos villes plus propres, mieux aménagées et tout simplement agréable à vivre pour tous les citoyens.</p> 
                                         </div>
                                     </div>
+
                                     <div class="small-text-bloc">
                                         <div class="image">
-                                            <img src="assets/img/arma-water.png" alt="Arma Env">
+                                            <img src="assets/img/arma-energy.png" alt="Arma Env">
                                         </div>
                                         <div class="text">
-                                            <h4>ARMA WATER</h4>
-                                            <p>Mobilise toute son expérience pour proposer des systèmes innovants dans la collecte et la gestion des eaux usées et pluviales.</p>
+                                            <h4><b>Arma Enegry</b></h4>
+                                            <p>Vous conseille et vous accompagne afin d’adopter les meilleures solutions en matière d’éclairage public. Qualité, maintenance et gains énergétiques.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -74,20 +75,20 @@
                                 <div class="col-sm-6">
                                     <div class="small-text-bloc">
                                         <div class="image">
-                                            <img src="assets/img/arma-energy.png" alt="Arma Env">
+                                            <img src="assets/img/arma-water.png" alt="Arma Env">
                                         </div>
                                         <div class="text">
-                                            <h4>Arma Enegry</h4>
-                                            <p>Vous conseille et vous accompagne afin d’adopter les meilleures solutions en matière d’éclairage public. Qualité, maintenance et gains énergétiques.</p>
+                                            <h4><b>ARMA WATER</b></h4>
+                                            <p>Mobilise toute son expérience pour proposer des systèmes innovants dans la collecte et la gestion des eaux usées et pluviales.</p>
                                         </div>
-                                    </div> 
+                                    </div>
                                     <div class="small-text-bloc">
                                         <div class="image">
                                             <img src="assets/img/axial-logo.png" alt="Axial Facilities">
                                         </div>
                                         <div class="text">
-                                            <h4>AXIAL FACILITIES</h4>
-                                            <p>Toujours à l’écoute, AXIAL FACILITIES élabore un projet d’intervention en collaboration avec le client afin de répondre de manière pertinente et spécifique à ses véritables besoins.</p>
+                                            <h4><b>AXIAL FACILITIES</b></h4>
+                                            <p>Facility management aux entreprises et industriels. Propose une palette de services qui permet aux entreprises de gagner en performance.</p>
                                         </div>
                                     </div>
                                 </div>

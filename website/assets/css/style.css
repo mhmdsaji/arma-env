@@ -1493,12 +1493,39 @@ li.breadcrumb-item.active {
 }
 
 .small-text-bloc {
-    background: #fff;
+    background: rgba(255,255,255,1);
     padding: 20px;
     border-radius: 10px;
     display: flex;
+    position: relative;
     align-items: center;
     justify-content: space-between;
+    /*border-top: 3px solid white;*/
+}
+
+.small-text-bloc:hover {
+    /*border-top: 3px solid red;*/
+}
+
+.small-text-bloc::after {
+    content: "";
+    position: absolute;
+    background: red;
+    display: inline-block;
+    width: 0;
+    height: 3px;
+    bottom: 0;
+    left: 1%;
+    overflow: hidden;
+    -webkit-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
+    -o-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
+    transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.small-text-bloc:hover::after,
+.small-text-bloc:focus::after,
+.small-text-bloc.active::after {
+    width: 98%;
 }
 
 .small-text-bloc .image {
@@ -1568,7 +1595,7 @@ li.breadcrumb-item.active {
 }
 
 .arma-stats .bold {
-    font-weight: 400;
+    font-weight: 500;
     font-size: 3.875rem;
 }
 

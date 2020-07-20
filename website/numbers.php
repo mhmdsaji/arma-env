@@ -47,7 +47,7 @@
                                     <div class="arma-stats-group">
                                         <div class="arma-stats large blue">
                                             <div class="arma-stats-inner">
-                                                <span class="bold number-scroll">6500</span> Collaborateurs
+                                                <span class="bold number-scroll">6500</span><br> Collaborateurs
                                             </div>
                                         </div>
                                         <div class="arma-stats small blue">
@@ -68,7 +68,7 @@
                             <div class="row content-bloc">
                                 <div class="col-sm-7">
                                     <div class="image-holder">
-                                    <img class="image-fluid" src="assets/img/overlays/4.jpg" alt="Image" style="height: 295px;">
+                                    <img class="image-fluid" src="assets/img/overlays/4_content.jpg" alt="Image" style="height: 295px;">
                                     </div>
                                 </div>
                                 <div class="col-sm-5">
@@ -106,7 +106,7 @@
                                         </div>
                                         <div class="arma-stats small yellow">
                                             <div class="arma-stats-inner" style="font-size: 22px;">
-                                                <span class="bold">98</span><sup>%</sup><br /> Taux dispo
+                                                <span class="bold">98</span><span class="light"><sup>%</sup></span><br /> Taux dispo
                                             </div>
                                         </div>
                                     </div>
