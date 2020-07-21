@@ -1321,6 +1321,7 @@ body {
 }
 
 .page {
+    max-width: 1440px;
     width: 100%;
     align-items: center;
     padding-top: 10rem;
@@ -1582,8 +1583,8 @@ li.breadcrumb-item.active {
 
 /* Arma Stats */
 .arma-stats {
-    font-size: 1.5rem;
-    letter-spacing: .0;
+    font-size: 1.3rem;
+    letter-spacing: 0;
     font-weight: 300;
     color: #fff;
     height: 135px;

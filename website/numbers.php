@@ -40,7 +40,7 @@
                             </nav>
                             <h1 class="page-title">Chiffres clés</h1>
                             <div class="text-bloc content-wrapper no-bg col-md-10">
-                                <p>ARMA Environnement comprend parfaitement les enjeux auxquels sont confrontées les villes d’aujourd’hui : croissance démographique, accélération de l’urbanisation, défis énergé- tiques et environnementaux, développement industriel et bien d’autres.</p>
+                                <p>ARMA Environnement comprend parfaitement les enjeux auxquels sont confrontées les villes d’aujourd’hui : croissance démographique, accélération de l’urbanisation, défis énergétiques et environnementaux, développement industriel et bien d’autres.</p>
                             </div>
                             <div class="row content-bloc">
                                 <div class="col-sm-7">
@@ -52,7 +52,7 @@
                                         </div>
                                         <div class="arma-stats small blue">
                                             <div class="arma-stats-inner">
-                                                <span class="bold number-scroll">27</span><br> Ville
+                                                <span class="bold number-scroll">27</span><br> Villes
                                             </div>
                                         </div>
                                     </div>
@@ -60,7 +60,7 @@
                                 <div class="col-sm-5">
                                     <div class="arma-stats large red">
                                         <div class="arma-stats-inner">
-                                            <span class="bold number-scroll">3200</span><span class="light">km<sup>2</sup></span> Superficie entretenue
+                                            <span class="bold number-scroll">3200</span><span class="light">km<sup><small>2</small></sup></span><br> Superficie entretenue
                                         </div>
                                     </div>
                                 </div>
@@ -74,12 +74,13 @@
                                 <div class="col-sm-5">
                                     <div class="arma-stats large blue mb-4">
                                         <div class="arma-stats-inner">
-                                            <span class="bold">24</span><span class="light">heures</span><br />7 jours sur sept
+                                            <span class="bold">24</span><span class="light">h/24</span><br />7J/7 de disponibilité
                                         </div>
                                     </div>
-                                    <div class="arma-stats large yellow">
-                                        <div class="arma-stats-inner">                                         
-                                            <span class="bold number-scroll">53000</span><br />Points d’éclairage public
+
+                                    <div class="arma-stats large red">
+                                        <div class="arma-stats-inner">
+                                            <span class="bold">3</span><span class="light">millions</span><br> Habitants desservis
                                         </div>
                                     </div>
                                 </div>
@@ -94,19 +95,20 @@
                                         </div>
                                         <div class="arma-stats large green">
                                             <div class="arma-stats-inner">
-                                                <span class="bold number-scroll">200000</span><br> Usagers assainissement
+                                                <span class="bold number-scroll">1250000</span><br> <b>T/An</b> déchets collectés
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="arma-stats-group">                                        
-                                        <div class="arma-stats large red">
-                                            <div class="arma-stats-inner">                                             
-                                                <span class="bold">3</span><span class="light">millions</span><br> Habitants desservis
+                                    <div class="arma-stats-group">
+
+                                        <div class="arma-stats large yellow">
+                                            <div class="arma-stats-inner">
+                                                <span class="bold number-scroll">53000</span><br />Points lumineux
                                             </div>
                                         </div>
                                         <div class="arma-stats small yellow">
                                             <div class="arma-stats-inner" style="font-size: 22px;">
-                                                <span class="bold">98</span><span class="light"><sup>%</sup></span><br /> Taux dispo
+                                                <span class="bold">98</span><span class="light"><sup>%</sup></span><br /> Eclairage
                                             </div>
                                         </div>
                                     </div>
