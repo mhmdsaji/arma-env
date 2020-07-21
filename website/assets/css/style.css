@@ -1514,6 +1514,10 @@ li.breadcrumb-item.active {
     opacity: 1;
 }
 
+.sub-h1 {
+    margin-bottom: 50px;
+}
+
 .small-text-bloc {
     background: rgba(255,255,255,1);
     padding: 20px;

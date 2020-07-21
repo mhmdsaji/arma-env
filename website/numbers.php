@@ -39,7 +39,7 @@
                                 </ol>
                             </nav>
                             <h1 class="page-title">Chiffres clés</h1>
-                            <div class="text-bloc content-wrapper no-bg col-md-10">
+                            <div class="text-bloc content-wrapper no-bg col-md-10 sub-h1">
                                 <p>ARMA Environnement comprend parfaitement les enjeux auxquels sont confrontées les villes d’aujourd’hui : croissance démographique, accélération de l’urbanisation, défis énergétiques et environnementaux, développement industriel et bien d’autres.</p>
                             </div>
                             <div class="row content-bloc">
