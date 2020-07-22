@@ -1488,7 +1488,7 @@ li.breadcrumb-item.active {
     overflow: hidden;
     position: relative;
     border-radius: 10px;
-    height: 100%;
+    max-height: 382px;
 }
 
 .content-bloc .image-holder:hover img {
@@ -1526,23 +1526,18 @@ li.breadcrumb-item.active {
     position: relative;
     align-items: center;
     justify-content: space-between;
-    /*border-top: 3px solid white;*/
-}
-
-.small-text-bloc:hover {
-    /*border-top: 3px solid red;*/
+    overflow: hidden;
 }
 
 .small-text-bloc::after {
     content: "";
     position: absolute;
-    background: red;
+    background: #dd4d3a;
     display: inline-block;
     width: 0;
     height: 3px;
     bottom: 0;
-    left: 1%;
-    overflow: hidden;
+    left: 0;
     -webkit-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
     -o-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
     transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
@@ -1551,7 +1546,7 @@ li.breadcrumb-item.active {
 .small-text-bloc:hover::after,
 .small-text-bloc:focus::after,
 .small-text-bloc.active::after {
-    width: 98%;
+    width: 100%;
 }
 
 .small-text-bloc .image {

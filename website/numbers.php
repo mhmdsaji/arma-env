@@ -68,7 +68,7 @@
                             <div class="row content-bloc">
                                 <div class="col-sm-7">
                                     <div class="image-holder">
-                                    <img class="image-fluid" src="assets/img/overlays/4_content.jpg" alt="Image" style="height: 295px;">
+                                    <img class="image-fluid" src="assets/img/content/1.jpg" alt="Image" style="height: 295px;">
                                     </div>
                                 </div>
                                 <div class="col-sm-5">
@@ -115,7 +115,7 @@
                                 </div>
                                 <div class="col-sm-5">
                                     <div class="image-holder">
-                                    <img class="image-fluid" src="assets/img/overlays/10.jpg" alt="Image" style="height: 295px;">
+                                    <img class="image-fluid" src="assets/img/content/2.jpg" alt="Image" style="height: 295px;">
                                     </div>
                                 </div>
                             </div>
