@@ -31,7 +31,7 @@
                         <a href="index.html"><img src="assets/img/logo-light.png" alt="ARMA Environnement"></a>
                     </div>
                     <div class="page row no-gutters">
-                        <div class="col-md-8 offset-md-1">
+                        <div class="col-md-9 offset-md-1">
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="index.html">ARMA Environnement</a></li>
@@ -40,7 +40,7 @@
                             </nav>
                             <h1 class="page-title">Le groupe ARMA</h1>
 
-                            <div class="text-bloc content-wrapper no-bg col-md-10">
+                            <div class="text-bloc content-wrapper no-bg col-md-10 sub-h1">
                                 <p>Le groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le groupe ARMA est structuré autour de quatre métiers qui constituent ses marques.</p>
                             </div>
                             <div class="row content-bloc  wow fadeIn">
