@@ -52,7 +52,7 @@
                                 <div class="col-sm-6">
                                     <div class="small-text-bloc">
                                         <div class="image">
-                                            <img src="assets/img/logo-full.png" alt="Arma Env">
+                                            <img src="assets/img/small-logos/arma-env.png" alt="Arma Env">
                                         </div>
                                         <div class="text">
                                             <h4><b>ARMA Environnement</b></h4>
@@ -62,7 +62,7 @@
 
                                     <div class="small-text-bloc">
                                         <div class="image">
-                                            <img src="assets/img/arma-energy.png" alt="Arma Env">
+                                            <img src="assets/img/small-logos/arma-energy.png" alt="Arma energy">
                                         </div>
                                         <div class="text">
                                             <h4><b>Arma Enegry</b></h4>
@@ -75,7 +75,7 @@
                                 <div class="col-sm-6">
                                     <div class="small-text-bloc">
                                         <div class="image">
-                                            <img src="assets/img/arma-water.png" alt="Arma Env">
+                                            <img src="assets/img/small-logos/arma-water.png" alt="Arma water">
                                         </div>
                                         <div class="text">
                                             <h4><b>ARMA WATER</b></h4>
@@ -84,7 +84,7 @@
                                     </div>
                                     <div class="small-text-bloc">
                                         <div class="image">
-                                            <img src="assets/img/axial-logo.png" alt="Axial Facilities">
+                                            <img src="assets/img/small-logos/axialfacilities.png" alt="Axial Facilities">
                                         </div>
                                         <div class="text">
                                             <h4><b>AXIAL FACILITIES</b></h4>
