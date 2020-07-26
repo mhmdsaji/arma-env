@@ -44,12 +44,11 @@
                                 <p>Le groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le groupe ARMA est structuré autour de quatre métiers qui constituent ses marques.</p>
                             </div>
                             <div class="row content-bloc  wow fadeIn">
-                                <div class="col-sm-6  ">
-                                    <div class="image-holder">
-                                        <img class="image-fluid" src="assets/img/img-1.jpg" alt="Image">
+                                <div class="col-md-6 matchHeight  ">
+                                    <div class="image-holder" style="background-image: url('assets/img/content/7.jpg');">
                                     </div>
                                 </div>
-                                <div class="col-sm-6">
+                                <div class="col-md-6 matchHeight">
                                     <div class="small-text-bloc">
                                         <div class="image">
                                             <img src="assets/img/small-logos/arma-env.png" alt="Arma Env">
@@ -72,7 +71,7 @@
                                 </div>
                             </div>
                             <div class="row content-bloc  wow fadeIn wow__delay-2">                                
-                                <div class="col-sm-6">
+                                <div class="col-md-6 matchHeight">
                                     <div class="small-text-bloc">
                                         <div class="image">
                                             <img src="assets/img/small-logos/arma-water.png" alt="Arma water">
@@ -92,9 +91,8 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-sm-6">
-                                    <div class="image-holder">
-                                        <img class="image-fluid" src="assets/img/img-2.jpg" alt="Image">
+                                <div class="col-md-6 matchHeight">
+                                    <div class="image-holder" style="background-image: url('assets/img/content/8.jpg');">
                                     </div>                                                                       
                                 </div>
                             </div>

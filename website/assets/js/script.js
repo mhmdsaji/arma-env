@@ -1,6 +1,8 @@
 $(window).on("load", function () {
   "use strict";
 
+  var windowWidth = $(window).width();
+
   /* ===================================
             Loading Timeout
      ====================================== */
@@ -117,6 +119,11 @@ jQuery(function ($) {
       WOW init 
   ====================================== */
   new WOW().init();
+
+  /* =====================================
+      match matchHeight 
+  ====================================== */
+  $('.matchHeight').matchHeight(); 
 
 /* =====================================
           Smooth scrolling for inner links
