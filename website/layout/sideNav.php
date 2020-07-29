@@ -144,7 +144,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link title scroll" href="#">Contact</a>
+                    <a class="nav-link title scroll" href="contact.php">Contact</a>
                 </li>
             </ul>
         </nav>

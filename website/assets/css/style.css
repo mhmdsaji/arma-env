@@ -1491,6 +1491,7 @@ li.breadcrumb-item.active {
     position: relative;
     border-radius: 10px;
     height: 100%;
+    overflow: hidden;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     transition: all 0.3s ease;
