@@ -60,8 +60,7 @@
                         </li>
                         <li class="nav-item"><a class="nav-link menu-child" href="numbers.php">Nos chiffres clés</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="mission.php">Notre mission</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="values.php">Nos valeurs</a></li>
+                        <li class="nav-item"><a class="nav-link menu-child" href="mission.php">Notre mission & valeurs</a></li>
                         <li class="nav-item"><a class="nav-link menu-child" href="cards-nopic.php">Appels d'offres</a></li>
                     </ul>
                 </li>
@@ -69,15 +68,15 @@
                     <button class="nav-link title scroll">Nos forces</button>
 
                     <ul class="menu-children">
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Equipe qualifiée et à
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Equipe qualifiée et à
                             l’écoute</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Organisation dédiée</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Organisation dédiée</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Innovation
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Innovation
                             technologique</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Digitalisation des
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Digitalisation des
                             process</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Gestion optimale des
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Gestion optimale des
                             ressources</a></li>
                     </ul>
                 </li>
@@ -86,16 +85,16 @@
 
                     <ul class="menu-children">
                         <h6><span>Pour les villes et collectivités</span></h6>
-                        <li class="nav-item"><a class="nav-link menu-child" href="citysolutions.php#urbanCleanliness">Propreté urbaine</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté urbaine</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="citysolutions.php#wasteManagement">Gestion des déchets</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Gestion des déchets</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Espaces verts</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Eau &
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Espaces verts</a></li>
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Eau &
                             Assainissement</a>
                         </li>
                         <h6><span>Pour les entreprises et industriels</span></h6>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Gestion des déchets</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Gestion des déchets</a>
                         </li>
                     </ul>
                 </li>
@@ -103,19 +102,19 @@
                     <button class="nav-link title scroll">Nos grands projets</button>
 
                     <ul class="menu-children">
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Propreté et de la ville
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté et de la ville
                             de
                             Rabat</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Propreté de la ville de
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté de la ville de
                             Marrakech</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Propreté de la ville de
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté de la ville de
                             Casablanca</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Propreté de la ville
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté de la ville
                             d’Ifrane</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Propreté de la ville
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté de la ville
                             d’El
                             Jadida</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Propreté de la ville de
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté de la ville de
                             Kénitra</a></li>
                     </ul>
                 </li>
@@ -134,11 +133,11 @@
                     <button class="nav-link title scroll">Carrières</button>
 
                     <ul class="menu-children">
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Notre politique RH</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Notre politique RH</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Nos offres d’emploi</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Nos offres d’emploi</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="#">Candidature
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Candidature
                             spontanée</a>
                         </li>
                     </ul>
