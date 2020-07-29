@@ -1708,7 +1708,7 @@ li.breadcrumb-item.active {
         height: 70px;
         position: fixed;
         z-index: 99;
-        background: #000000;
+        background: rgba(19, 9, 105, 1.5);
         -webkit-animation-name: animationFade;
         animation-name: animationFade;
         -webkit-animation-duration: 1s;
@@ -1868,10 +1868,41 @@ li.breadcrumb-item.active {
     /***********************************/
     /**************Custom*************/
     /***********************************/
+    .page {
+        padding: 5rem 15px;
+    }
+
     .logo {
         display: none;
     }
     .footer-news {
         display: none;
     }
+
+    .overlay-inner {
+        background: rgb(7, 7, 51) url(http://localhost:8080/arma-env/website/assets/img/overlays/1.jpg);
+        background-position: center;
+    }
+
+    .overlay-inner img {
+        display: none;
+    }
+
+    .arma-stats-group {
+        margin-bottom: 20px;
+        display: block;
+    }
+    
+    .arma-stats {
+        margin-bottom: 20px;
+    }
+    
+    .content-bloc {
+        margin-bottom: 0;
+    }
+    
+    .content-bloc .image-holder img {
+        margin: 0 0 20px;
+        height: auto !important;
+    }    
 }
