@@ -1590,12 +1590,13 @@ li.breadcrumb-item.active {
 .small-text-bloc.text-only hr {
     border-top: 3px solid #dd4d3a;
     width: 55px;
-    margin: 0 0 45px 0;
+    margin: 30px 0;
     border-radius: 100px;
 }
 
 .small-text-bloc.text-only .text h4 {
     margin-bottom: 17px;
+    padding-right: 30px;
 }
 
 .small-text-bloc.text-only .text p {
