@@ -48,14 +48,14 @@
                                     <div class="small-text-bloc text-only">
                                         <div class="text">
                                             <h4><b>Des villes plus propres</b>
-                                                <i class="fas fa-adjust"></i>
+                                                <i class="fas fa-truck"></i>
                                             </h4>
                                             <p>Défi majeur pour nos villes, la propreté urbaine ne peut être confiée qu’à un spécialiste. ARMA Environnement s’engage à offrir une prestation de haute qualité pour permettre aux habitants d’évoluer dans un cadre de vie sain.</p> 
                                         </div>
                                         <hr />
                                         <div class="text">
                                             <h4><b>Des villes plus saines</b>
-                                                <i class="fas fa-ambulance"></i>
+                                                <i class="fas fa-tint"></i>
                                             </h4>
                                             <p>Si l’assainissement des eaux et déchets liquides est une nécessité, elle est en outre une formidable opportunité pour produire des énergies renouvelables. ARMA Environnement a mis au point des solutions innovantes en la matière.</p>
                                         </div>

@@ -1,3 +1,6 @@
+/* @override 
+	http://localhost:8888/assets/css/style.css?* */
+
 /* ===================================
     Table of Content
 ====================================== */
@@ -11,8 +14,8 @@
 ====================================== */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700;900&display=swap');
 
-html {
-    background-color: #1F105E;
+html,body {
+    background-color: #F83834;
 }
 
 body {
@@ -1603,7 +1606,26 @@ li.breadcrumb-item.active {
     line-height: 24px;
 }
 
-.small-text-bloc .text h4 i {font-size: 30px;color: #dd4d3a;position: absolute;right: 0;top: -5px;}
+.small-text-bloc .text h4 i {
+	font-size: 24px;
+	color: lightgray;
+	position: absolute;
+	right: 0;
+	top:  0;
+}
+
+.small-text-bloc .text:hover i.fa-truck {
+	color: #dd4d3a !important;
+}
+.small-text-bloc .text:hover i.fa-tint {
+	color: #0FAAE3 !important;
+}
+.small-text-bloc .text:hover i.fa-leaf {
+	color: #72B164 !important;
+}
+.small-text-bloc .text:hover i.fa-lightbulb {
+	color: #FFC400 !important;
+}
 
 
 /* Arma Stats */
