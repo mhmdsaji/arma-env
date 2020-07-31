@@ -18,4 +18,4 @@
 <link href="vendor/css/slick.css" rel="stylesheet"/>
 <link href="vendor/css/animate.min.css" rel="stylesheet"/>
 <!-- Style Sheet -->
-<link href="assets/css/style.css?v=9" rel="stylesheet"/>
+<link href="assets/css/style.css?v=10" rel="stylesheet"/>
