@@ -156,8 +156,8 @@
             </p>
             <p class="rites">
                 <b>Tel.</b> +212 (0) 5 37 63 55 56 <br>
-                <b>Mail.</b> <a href="mailto:contact@arma.ma">contact@arma.ma</a> <br>
-                <b>Address.</b> Avenue Mehdi Ben Barka <br>Lot Soumia, Lot N°5 Souissi, Rabat, Maroc
+                <b>E-mail.</b> <a href="mailto:contact@arma.ma">contact@arma.ma</a> <br>
+                <b>Adresse.</b> Avenue Mehdi Ben Barka <br>Lot Soumia, Lot N°5 Souissi, Rabat, Maroc
             </p>
         </div>
     </div>

@@ -35,7 +35,7 @@
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="index.html">ARMA Environnement</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Notre mission & valeurs</li>
+                                    <li class="breadcrumb-item active" aria-current="page">Notre mission &and; valeurs</li>
                                 </ol>
                             </nav>
                             <h1 class="page-title">Engagés pour l’avenir de nos villes</h1>
@@ -91,7 +91,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="wow fadeIn ">
+                            <div class="wow fadeIn" style="margin-top:80px;">
                                 <h1 class="page-title ">Des valeurs au coeur de notre mission</h1>
 
                                 <div class="text-bloc content-wrapper no-bg col-md-10 sub-h1 ">

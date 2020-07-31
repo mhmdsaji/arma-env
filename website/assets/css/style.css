@@ -1396,7 +1396,7 @@ li.breadcrumb-item.active {
 
 .blue-btn:hover,
 .blue-btn:focus {
-    background-color: #fff;
+    background-color: #eee;
     border-color: #fff;
     color: #1f115d;
 }
@@ -1617,8 +1617,8 @@ li.breadcrumb-item.active {
 	top:  0;
 }
 
-.small-text-bloc .text:hover i.fa-truck {
-	color: #dd4d3a !important;
+.small-text-bloc .text:hover i{
+	color: #dd4d3a;
 }
 .small-text-bloc .text:hover i.fa-tint {
 	color: #0FAAE3 !important;
