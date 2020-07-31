@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <?php $pageName = "Contact us | ARMA Environnement" ?>
+    <?php $pageName = "Contact | ARMA Environnement" ?>
     <?php include 'layout/head.php';?>
 </head>
 
@@ -28,68 +28,73 @@
                 </div>
                 <div class="content-area">
                     <div class="logo">
-                        <a href="index.html"><img src="../assets/img/logo-light.png" alt="ARMA Environnement"></a>
+                        <a href="index.html"><img src="assets/img/logo-light.png" alt="ARMA Environnement"></a>
                     </div>
                     <div class="page row no-gutters">
-                        <div class="col-md-10 offset-md-1">
+                        <div class="col-md-9 offset-md-1">
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="index.html">ARMA Environnement</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Contactez nous</li>
+                                    <li class="breadcrumb-item active" aria-current="page">Contact</li>
                                 </ol>
                             </nav>
-                            <h1 class="page-title">Contactez nous</h1>
+                            <h1 class="page-title">Nous sommes à votre service</h1>
 
-                            <div class="row">
-                                <div class="col-md-8">
-                                    <div class="text-bloc content-wrapper">
-                                        <h2>Lorem ipsum</h2>
-                                        <p>Lorem ipsum dolor sit amet et dolore magna.</p>
-                                        <form>
-                                        <div class="form-group">
-                                                <label for="name">Nom</label>
-                                                <input type="text" class="form-control" id="name" placeholder="Nom">
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="surname">Prénom</label>
-                                                <input type="text" class="form-control" id="surname" placeholder="Prénom">
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="exampleInputEmail1">Email address</label>
-                                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email">
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="phone">Téléphone</label>
-                                                <input type="tel" class="form-control" id="phone" placeholder="Téléphone">
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="cv">Téléphone</label>
-                                                <input type="file" class="form-control-file" id="cv" placeholder="CV">
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="message">Message:</label>
-                                                <textarea class="form-control" name="message" id="message" cols="30" rows="10"></textarea>
-                                            </div>
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                                            </div>
-                                            <div class="text-right">
-                                                <button type="submit" class="btn blue-btn">Envoyer</button>
-                                            </div>
-                                        </form>
+                            <div class="text-bloc content-wrapper no-bg col-md-10 sub-h1">
+                                <p>Le groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le groupe ARMA est structuré autour de quatre métiers qui constituent ses marques.</p>
+                            </div>
+                            <div class="row content-bloc  wow fadeIn">
+                                <div class="col-md-6 matchHeight  ">
+                                    <div class="image-holder" style="background-image: url('assets/img/content/7.jpg');">
                                     </div>
                                 </div>
-                                
-                                <div class="col-md-3">
-                                    <div class="text-bloc content-wrapper">
-                                        <p class="rites">
-                                            <b>Tel.</b> +212 (0) 5 37 63 55 56 <br>
-                                            <b>Mail.</b> <a href="mailto:contact@arma.ma">contact@arma.ma</a> <br>
-                                            <b>Address.</b> Avenue Mehdi Ben Barka <br>Lot Soumia, Lot N°5 Souissi, Rabat, Maroc
-                                        </p>
+                                <div class="col-md-6 matchHeight">
+                                    <div class="small-text-bloc">
+                                        <div class="image">
+                                            <img src="assets/img/small-logos/arma-env.png" alt="Arma Env">
+                                        </div>
+                                        <div class="text">
+                                            <h4><b>ARMA Environnement</b></h4>
+                                            <p>Œuvre chaque jour pour rendre vos villes plus propres, mieux aménagées et tout simplement agréable à vivre pour tous les citoyens.</p> 
+                                        </div>
                                     </div>
-                                </div>                                
+
+                                    <div class="small-text-bloc">
+                                        <div class="image">
+                                            <img src="assets/img/small-logos/arma-energy.png" alt="Arma energy">
+                                        </div>
+                                        <div class="text">
+                                            <h4><b>Arma Enegry</b></h4>
+                                            <p>Vous conseille et vous accompagne afin d’adopter les meilleures solutions en matière d’éclairage public. Qualité, maintenance et gains énergétiques.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row content-bloc  wow fadeIn wow__delay-2">                                
+                                <div class="col-md-6 matchHeight">
+                                    <div class="small-text-bloc">
+                                        <div class="image">
+                                            <img src="assets/img/small-logos/arma-water.png" alt="Arma water">
+                                        </div>
+                                        <div class="text">
+                                            <h4><b>ARMA WATER</b></h4>
+                                            <p>Mobilise toute son expérience pour proposer des systèmes innovants dans la collecte et la gestion des eaux usées et pluviales.</p>
+                                        </div>
+                                    </div>
+                                    <div class="small-text-bloc">
+                                        <div class="image">
+                                            <img src="assets/img/small-logos/axialfacilities.png" alt="Axial Facilities">
+                                        </div>
+                                        <div class="text">
+                                            <h4><b>AXIAL FACILITIES</b></h4>
+                                            <p>Facility management aux entreprises et industriels. Propose une palette de services qui permet aux entreprises de gagner en performance.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 matchHeight">
+                                    <div class="image-holder" style="background-image: url('assets/img/content/8.jpg');">
+                                    </div>                                                                       
+                                </div>
                             </div>
                         </div>
                     </div>

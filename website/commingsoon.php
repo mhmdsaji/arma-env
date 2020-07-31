@@ -35,9 +35,9 @@
                         <div class="home-banner" id="home-banner">
                             <div class="home-banner-wrap">
                                 <div class="container">
-                                    <h1>Cette page est en construction</h1>
+                                    <h1>Cette page est en mise à jour.</h1>
                                     <p class="sub col-md-8 offset-md-2">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                                    Afin de vous proposer la meilleure expérience utilisateur et contenu relatif à ARMA Environnement, notre site est en cours de mise à jour. 
                                     </p>
                                     <a href="index.php" class="toggle btn blue-btn">Accueil</a>
                                 </div>

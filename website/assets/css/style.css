@@ -308,7 +308,7 @@ body {
     position: fixed;
     left: 4%;
     top: 0;
-    background: #dd4d3a;
+    background: #F83834;
     z-index: 11;
     height: 100vh;
     -webkit-transform: translate3d(-100%, 0, 0);
@@ -1294,10 +1294,8 @@ body {
 
 .arma-news li a {
     color: white;
-    font-size: 1rem;
     text-decoration: none;
     font-weight: 500;
-    line-height: 1;
     opacity: 0.7;
     padding: 5px 0;
 }
@@ -1498,10 +1496,15 @@ li.breadcrumb-item.active {
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     transition: all 0.3s ease;
+	box-shadow: 0px 3px 6px #00000029;
 }
 
 .content-bloc .image-holder:hover {
-    opacity: .8;
+	-webkit-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    transform: rotate(2deg);
 }
 
 .content-bloc .image-holder:after {content: "";border: 1px solid rgba(255 , 255, 255, .5);width: 95%;height: 95%;position: absolute;left: 0;top: 0;right: 0;bottom: 0;margin: auto;opacity: 0;border-radius: 10px;transition: all 0.3s ease;}
@@ -1636,12 +1639,12 @@ li.breadcrumb-item.active {
     color: #fff;
     height: 135px;
     border-radius: 15px;
-    backdrop-filter: blur(4px);
     padding: 20px;
     line-height: 1.1;
     transition: background .5s ease;
-    opacity: .9;
-    -webkit-backdrop-filter: blur(4px);
+	opacity: 0.9;
+	backdrop-filter: blur(4px);
+	-webkit-backdrop-filter: blur(4px);
 }
 
 .arma-stats.blue {
