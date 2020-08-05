@@ -1702,6 +1702,59 @@ li.breadcrumb-item.active {
     background-color: rgba(44, 216, 199, .9);
 }
 
+.page-banner {
+    width: 100%;
+    min-height: 215px;
+    border-radius: 10px 10px 10px 0;
+    margin-bottom: 40px;
+}
+
+aside .arma-stats {
+    margin-bottom: 20px;
+}
+
+.negative-mr {
+    margin-top: -167px;
+}
+
+.blog-title {
+    background: rgba(9, 15, 79, .75);
+    font-size: 1.75rem;
+    font-weight: 400;
+    padding: 30px;
+    color: #ffffff;
+    border-top-right-radius: 10px;
+    margin: 0;
+}
+
+.blog-title span {
+    color: #F83834;
+}
+
+.blog-text {
+    background: #fff;
+    padding: 30px;
+    border-radius: 0 0 10px 10px;
+    margin-bottom: 30px;
+}
+
+.small-text-bloc.large {
+    margin: 0;
+    border-radius: 0;
+    padding: 0;
+    padding-bottom: 40px;
+}
+
+.small-text-bloc.large:after {
+    display: none;
+}
+
+.content-bloc.text-bloc-container {
+    background: #fff;
+    border-radius: 10px;
+    padding: 40px 40px 0;
+    margin-bottom: 30px;
+}
 
 /*Animate css transition delay*/
 .wow__delay-1 {
@@ -1723,7 +1776,7 @@ li.breadcrumb-item.active {
     Media Queries
    ====================================== */
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 992px) {
     .standalone-row:not(:last-child) {
         margin-bottom: 3rem;
     }
@@ -1805,16 +1858,9 @@ li.breadcrumb-item.active {
         padding-left: 18px;
         padding-right: 18px;
     }
-
     /***********************************/
     /**************Custom*************/
     /***********************************/
-    .arma-news {
-        width: 85%;
-    }
-}
-
-@media screen and (max-width: 992px) {
     .content-bloc .image-holder {
         background: none !important;
     }
@@ -1827,8 +1873,28 @@ li.breadcrumb-item.active {
     .content-bloc.reverse-mobile {
         flex-direction: column-reverse;
     }
-}
+    
+    .arma-news {
+        width: 85%;
+    }
+    
+    .small-text-bloc {
+        display: block;
+    }
 
+    .small-text-bloc .image {
+        margin-bottom: 20px;
+    }
+    
+    .page-banner {
+        margin: 0;
+        border-radius: 10px 10px 0 0;
+    }
+    
+    .blog-title {
+        border-radius: 0;
+    }
+}
 
 @media screen and (max-width: 767px) {
     .side-nav {
@@ -1935,6 +2001,7 @@ li.breadcrumb-item.active {
     
     .content-bloc {
         margin-bottom: 0;
+        margin-top: 0;
     }
     
     .content-bloc .image-holder img {

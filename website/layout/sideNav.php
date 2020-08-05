@@ -102,19 +102,17 @@
                     <button class="nav-link title scroll">Nos grands projets</button>
 
                     <ul class="menu-children">
-                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté et de la ville
-                            de
-                            Rabat</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté de la ville de
+                        <li class="nav-item"><a class="nav-link menu-child" href="rabat.php">Propreté et de la ville
+                            de Rabat</a></li>
+                        <li class="nav-item"><a class="nav-link menu-child" href="marrakech.php">Propreté de la ville de
                             Marrakech</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté de la ville de
+                        <li class="nav-item"><a class="nav-link menu-child" href="casablanca.php">Propreté de la ville de
                             Casablanca</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté de la ville
+                        <li class="nav-item"><a class="nav-link menu-child" href="ifrane.php">Propreté de la ville
                             d’Ifrane</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté de la ville
-                            d’El
-                            Jadida</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté de la ville de
+                        <li class="nav-item"><a class="nav-link menu-child" href="eljadida.php">Propreté de la ville
+                            d’El Jadida</a></li>
+                        <li class="nav-item"><a class="nav-link menu-child" href="kenitra.php">Propreté de la ville de
                             Kénitra</a></li>
                     </ul>
                 </li>
