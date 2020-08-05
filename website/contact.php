@@ -133,7 +133,7 @@ if (isset($_POST["uid"])) {    // the user has submitted the form
 												<div class="form-group">
 													<?php if ($formok) { ?>
 													<div class="alert alert-success" role="alert">
-														Votre message a été envoyé. Merci de nous avoir contacté. Nous traiteront votre demande dans les plus bref délais. <b>N° demande #<?= $uid ?></b>
+														Votre message a été envoyé. Merci de nous avoir contacté. Nous traiteront votre demande dans les plus brefs délais. <b>N° demande #<?= $uid ?></b>
 													</div>
 													<?php }else{ ?>
 													<div class="alert alert-danger" role="alert">
