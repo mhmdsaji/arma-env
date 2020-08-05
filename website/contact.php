@@ -166,14 +166,14 @@ if (isset($_POST["uid"])) {    // the user has submitted the form
 													
 													<br /><strong>E-mail</strong>: contact@arma.ma
 													
-													<br /><strong>Addresse</strong>: Avenue Mehdi Ben Barka 
+													<br /><strong>Adresse</strong>: Avenue Mehdi Ben Barka 
 													Lot Soumia, Lot N°5 Souissi, Rabat, Maroc</p>
 											</div>
 										</div>
 									</div>
 									
 									<div class="content-bloc" style="height:300px;"><a href="https://goo.gl/maps/bdMm6ZENUuurPq9B9">
-										<div class="image-holder" style="background-image: url('assets/img/content/arma_location.jpg');">&nbsp;</div>
+										<div class="holder-parent"><div class="image-holder" style="background-image: url('assets/img/content/arma_location.jpg');">&nbsp;</div></div>
 									</a></div>
 								</div>
 							</div>

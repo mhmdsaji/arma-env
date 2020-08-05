@@ -1501,11 +1501,20 @@ li.breadcrumb-item.active {
 }
 
 .content-bloc .image-holder:hover {
-	-webkit-transform: rotate(2deg);
-    -moz-transform: rotate(2deg);
-    -ms-transform: rotate(2deg);
-    -o-transform: rotate(2deg);
-    transform: rotate(2deg);
+}
+
+.content-bloc .holder-parent {
+	height: 100%;
+    overflow: hidden;
+	width: auto;
+    border-radius: 10px;
+	-webkit-transform: translateZ(0);
+	transform: translateZ(0);
+}
+
+.content-bloc .holder-parent:hover .image-holder {
+	transform: scale(1.1);
+	
 }
 
 .content-bloc .image-holder:after {content: "";border: 1px solid rgba(255 , 255, 255, .5);width: 95%;height: 95%;position: absolute;left: 0;top: 0;right: 0;bottom: 0;margin: auto;opacity: 0;border-radius: 10px;transition: all 0.3s ease;}
