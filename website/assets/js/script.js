@@ -126,6 +126,14 @@ jQuery(function ($) {
   $('.matchHeight').matchHeight(); 
 
 /* =====================================
+      match matchWidth 
+  ====================================== */
+  if($('.matchWidth').length) {
+    var contentWidth = $('.content-bloc.matchWidth').innerWidth();
+    console.log(contentWidth);
+    $(".blog-title").css("width", contentWidth);    
+  }
+ /* =====================================
           Smooth scrolling for inner links
       ====================================== */  
 

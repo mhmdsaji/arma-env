@@ -36,7 +36,7 @@
 					<img src="assets/img/logo-light.png" alt="ARMA Environnement"></a></div>
 					
 					<div class="page row no-gutters">
-						<div class="col-md-9 offset-md-1">
+						<div class="col-lg-9 offset-lg-1">
 							<nav aria-label="breadcrumb">
 								<ol class="breadcrumb">
 									<li class="breadcrumb-item"><a href="index.html">ARMA Environnement</a></li>
@@ -45,12 +45,15 @@
 							</nav>
 							
 							<h1 class="page-title">Propreté de la ville de Casablanca</h1>
-
-                            <div class="page-banner" style="background-image: url(assets/img/content/casablanca.jpg);"></div>
+                            <div class="page-banner" style="background-image: url(assets/img/content/casablanca.jpg);">
+                                <h2 class="blog-title matchWidth">
+                                    ARMA Environnement assure la propreté  de la métropole de 
+                                    <span>CASABLANCA</span>
+                                </h2>
+                            </div>
                             <div class="row">
-                                <div class="col-md-8">
-                                    <div class="content-bloc text-only negative-mr">
-                                        <h2 class="blog-title">ARMA Environnement assure la propreté  de la métropole de <span>CASABLANCA</span></h2>
+                                <div class="col-lg-8">
+                                    <div class="content-bloc text-only matchWidth negative-mr">                                        
                                         <div class="blog-text">
                                             <p>Depuis son démarrage officiel en 2019, le projet de gestion de la propreté de la ville de Casablanca est certainement l’un des plus grands projets d’ARMA ENVIRONNEMENT, étant donné que la capitale économique est bel et bien la plus grande ville du Maroc.</p>
                                             <p>Avec un effectif global des plus importants ARMA CASABLANCA offre ainsi ses services de propreté urbaine à 4 préfectures d’arrondissements :</p>
@@ -58,14 +61,14 @@
                                         </div>
                                     </div>
                                     <div class="content-bloc row">
-                                        <div class="col-md-6">
+                                        <div class="col-lg-6">
                                             <div class="holder-parent">
                                                 <div class="image-holder">
                                                     <img class="image-fluid" src="assets/img/content/map-casa.jpg" alt="Image">
                                                 </div>
                                             </div>    
                                         </div>
-                                        <div class="col-md-6">
+                                        <div class="col-lg-6">
                                             <div class="holder-parent">
                                                 <div class="image-holder">
                                                     <img class="image-fluid" src="assets/img/content/9.jpg" alt="Image" style="max-height: 335px;">
@@ -103,7 +106,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <aside class="col-md-4">
+                                <aside class="col-lg-4">
                                     <div class="arma-stats large red">
 										<div class="arma-stats-inner"><span class="bold">1,5</span><span class="light">million</span>
 											

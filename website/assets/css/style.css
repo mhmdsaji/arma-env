@@ -1707,6 +1707,8 @@ li.breadcrumb-item.active {
     min-height: 215px;
     border-radius: 10px 10px 10px 0;
     margin-bottom: 40px;
+    display: flex;
+    align-items: flex-end;
 }
 
 aside .arma-stats {
@@ -1714,7 +1716,7 @@ aside .arma-stats {
 }
 
 .negative-mr {
-    margin-top: -167px;
+    margin-top: -40px;
 }
 
 .blog-title {
@@ -1775,6 +1777,15 @@ aside .arma-stats {
 /* ===================================
     Media Queries
    ====================================== */
+@media screen and (max-width: 1440px) {
+    .arma-stats .bold {
+        font-size: 3rem;
+    }
+    
+    .arma-stats .light {
+        font-size: 3rem;
+    }
+}
 
 @media screen and (max-width: 992px) {
     .standalone-row:not(:last-child) {
@@ -1861,6 +1872,10 @@ aside .arma-stats {
     /***********************************/
     /**************Custom*************/
     /***********************************/
+    .page {
+        padding: 10rem 15px;
+    }
+    
     .content-bloc .image-holder {
         background: none !important;
     }
@@ -1893,6 +1908,9 @@ aside .arma-stats {
     
     .blog-title {
         border-radius: 0;
+    }
+    .negative-mr {
+        margin-top: 0;
     }
 }
 
@@ -1973,7 +1991,6 @@ aside .arma-stats {
     .page {
         padding: 5rem 15px;
     }
-
     .logo {
         display: none;
     }
