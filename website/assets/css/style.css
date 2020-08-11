@@ -22,6 +22,7 @@ html,body {
 body {
     font-family: "Montserrat", "Source Sans Pro", sans-serif;
     overflow: hidden auto;
+	font-weight: 400;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
@@ -510,6 +511,7 @@ body {
     display: none;
     list-style: none;
     margin-left: 25px;
+	padding-top: 15px;
 }
 
 .side-nav-menu .navbar-nav .nav-item .menu-children .nav-link {
@@ -539,6 +541,7 @@ body {
     position: relative;
     border-radius: 0;
     text-decoration: none;
+	letter-spacing: normal;
 }
 
 .side-nav-menu .navbar-nav .nav-link.title {
@@ -1575,7 +1578,6 @@ li.breadcrumb-item.active {
 }
 
 .small-text-bloc .text p {
-    font-size: 1rem;
     font-weight: 300;
 }
 
@@ -1649,8 +1651,8 @@ li.breadcrumb-item.active {
     color: #fff;
     height: 135px;
     border-radius: 15px;
-    padding: 20px;
-    line-height: 1.1;
+    padding: 25px;
+    line-height: 1.2;
     transition: background .5s ease;
 	opacity: 0.9;
 	backdrop-filter: blur(4px);
@@ -1658,8 +1660,37 @@ li.breadcrumb-item.active {
 }
 
 .arma-stats.blue {
-    background-color: rgba(19, 9, 105, 1.5);
+    background-color: rgba(19, 9, 105, .7);
 }
+
+.arma-stats.red {
+    background-color: rgba(255, 0, 0, .7);
+}
+
+.arma-stats.yellow {
+    background-color: rgba(255, 177, 0, .7);
+}
+
+.arma-stats.green {
+    background-color: rgba(44, 216, 199, .7);
+}
+
+.arma-stats.blue:hover {
+    background-color: rgba(19, 9, 105, 1);
+}
+
+.arma-stats.red:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.arma-stats.yellow:hover {
+    background-color: rgba(255, 177, 0, 1);
+}
+
+.arma-stats.green:hover {
+    background-color: rgba(44, 216, 199, 1);
+}
+
 
 .arma-stats.large {
     flex-basis: 65%;
@@ -1667,9 +1698,6 @@ li.breadcrumb-item.active {
 
 .arma-stats.small {flex-basis: 30%;}
 
-.arma-stats.red {
-    background-color: rgba(255, 0, 0, .9);
-}
 
 .arma-stats-group {
     display: flex;
@@ -1686,25 +1714,11 @@ li.breadcrumb-item.active {
     font-size: 3.875rem;
 }
 
-.arma-stats.red:hover {
-    background-color: rgba(255, 0, 0, .8);
-}
-
-.arma-stats.blue:hover {
-    background-color: rgba(19, 9, 105, .8);
-}
-
-.arma-stats.yellow {
-    background-color: rgba(255, 177, 0, .9);
-}
-
-.arma-stats.green {
-    background-color: rgba(44, 216, 199, .9);
-}
-
 .page-banner {
+	background-position: center;
+	background-size: cover;
     width: 100%;
-    min-height: 215px;
+    min-height: 350px;
     border-radius: 10px 10px 10px 0;
     margin-bottom: 40px;
     display: flex;
@@ -1727,10 +1741,14 @@ aside .arma-stats {
     color: #ffffff;
     border-top-right-radius: 10px;
     margin: 0;
+	backdrop-filter: blur(2px);
+	-webkit-backdrop-filter: blur(2px);
 }
 
-.blog-title span {
+.blog-title b {
     color: #F83834;
+	font-size: 1.3em;
+	font-weight: 600;
 }
 
 .blog-text {
@@ -1904,6 +1922,8 @@ aside .arma-stats {
     .page-banner {
         margin: 0;
         border-radius: 10px 10px 0 0;
+		background-repeat: no-repeat;
+		background-position: center;
     }
     
     .blog-title {

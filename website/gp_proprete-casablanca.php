@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php $pageName = "Propreté de la ville de Casablanca | ARMA Environnement" ?>
+    <?php $pageName = "Propreté de la métropole Casablanca | ARMA Environnement" ?>
     <?php include 'layout/head.php';?>
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="90">
@@ -45,10 +45,10 @@
 							</nav>
 							
 							<h1 class="page-title">Propreté de la ville de Casablanca</h1>
-                            <div class="page-banner" style="background-image: url(assets/img/content/casablanca.jpg);">
+                            <div class="page-banner" style="background-image: url(assets/img/content/projets/cover-casablanca.jpg);">
                                 <h2 class="blog-title matchWidth">
-                                    ARMA Environnement assure la propreté  de la métropole de 
-                                    <span>CASABLANCA</span>
+                                    ARMA Environnement assure la propreté  de la métropole,  
+                                    <b>Casablanca !</b>
                                 </h2>
                             </div>
                             <div class="row">
@@ -63,46 +63,16 @@
                                     <div class="content-bloc row">
                                         <div class="col-lg-6">
                                             <div class="holder-parent">
-                                                <div class="image-holder">
-                                                    <img class="image-fluid" src="assets/img/content/map-casa.jpg" alt="Image">
-                                                </div>
+                                                    <img class="image-fluid" src="assets/img/content/projets/map-casa.jpg" alt="Image">
                                             </div>    
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="holder-parent">
-                                                <div class="image-holder">
-                                                    <img class="image-fluid" src="assets/img/content/9.jpg" alt="Image" style="max-height: 335px;">
+												<div class="holder-parent">
+                                                <div class="image-holder" style="background-image: url('assets/img/content/projets/img-casablanca.jpg');">
                                                 </div>
+												</div>
                                             </div> 
-                                        </div>
-                                    </div>
-                                    <div class="content-bloc text-bloc-container">
-                                        <div class="small-text-bloc large">
-                                            <div class="image">
-                                                <img src="assets/img/content/prestigia.png" alt="Prestigia">
-                                            </div>
-                                            
-                                            <div class="text">
-                                                <p>Gestion des déchets du projet touristique. Taghazout bay est une station balnéaire située au sud du Maroc. Elle s’étale sur une superficie de 615 Ha en front d’une bande côtière de 4,5 km de plages.</p>
-                                            </div>
-                                        </div>
-                                        <div class="small-text-bloc large">
-                                            <div class="image">
-                                                <img src="assets/img/content/moroccomall.png" alt="Morocco Mall">
-                                            </div>
-                                            
-                                            <div class="text">
-                                                <p>Gestion des déchets du projet touristique. Taghazout bay est une station balnéaire située au sud du Maroc. Elle s’étale sur une superficie de 615 Ha en front d’une bande côtière de 4,5 km de plages.</p>
-                                            </div>
-                                        </div>
-                                        <div class="small-text-bloc large">
-                                            <div class="image">
-                                                <img src="assets/img/content/taghazout.png" alt="Taghazout">
-                                            </div>
-                                            
-                                            <div class="text">
-                                                <p>Gestion des déchets du projet touristique. Taghazout bay est une station balnéaire située au sud du Maroc. Elle s’étale sur une superficie de 615 Ha en front d’une bande côtière de 4,5 km de plages.</p>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -118,13 +88,13 @@
                                             <br>Salariés
                                         </div>
                                     </div>
-                                    <div class="arma-stats large red">
+                                    <div class="arma-stats large blue">
 										<div class="arma-stats-inner"><span class="bold number-scroll">70</span><span class="light">km<sup><small>2</small></sup></span>
 											
 											<br>Superficie desservis
 										</div>
 									</div>
-                                    <div class="arma-stats large green">
+                                    <div class="arma-stats large blue">
                                         <div class="arma-stats-inner"><span class="bold number-scroll">439893</span>
                                             
                                         <br><b>T/An</b> déchets collectés</div>
