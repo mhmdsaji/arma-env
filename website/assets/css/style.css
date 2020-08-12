@@ -1649,14 +1649,13 @@ li.breadcrumb-item.active {
     letter-spacing: 0;
     font-weight: 300;
     color: #fff;
-    height: 135px;
     border-radius: 15px;
-    padding: 25px;
-    line-height: 1.2;
+    line-height: 1;
     transition: background .5s ease;
 	opacity: 0.9;
 	backdrop-filter: blur(4px);
 	-webkit-backdrop-filter: blur(4px);
+	padding: 20px 25px;
 }
 
 .arma-stats.blue {
@@ -1747,8 +1746,12 @@ aside .arma-stats {
 
 .blog-title b {
     color: #F83834;
-	font-size: 1.3em;
+	font-size: 1.2em;
 	font-weight: 600;
+}
+
+.blog-title b.normal {
+    color: #fff;
 }
 
 .blog-text {

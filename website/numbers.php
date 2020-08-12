@@ -141,9 +141,9 @@
 								
 								<div class="col-sm-5">
 									<div class="holder-parent">
-									<div class="image-holder">
-										<img class="image-fluid" src="assets/img/content/2.jpg" alt="Image" style="height: 295px;">
-									</div>
+										<div class="image-holder">
+											<img class="image-fluid" src="assets/img/content/2.jpg" alt="Image" style="height: 295px;">
+										</div>
 									</div>
 								</div>
 							</div>
