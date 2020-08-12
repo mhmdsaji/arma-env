@@ -1503,7 +1503,8 @@ li.breadcrumb-item.active {
 	box-shadow: 0px 3px 6px #00000029;
 }
 
-.content-bloc .image-holder:hover {
+.content-bloc .image-holder img {
+    display: none;
 }
 
 .content-bloc .holder-parent {
@@ -1894,10 +1895,6 @@ aside .arma-stats {
         padding: 10rem 15px;
     }
     
-    .content-bloc .image-holder {
-        background: none !important;
-    }
-    
     .content-bloc .image-holder img {
         width: 100%;
         margin: 30px 0;
@@ -1913,6 +1910,7 @@ aside .arma-stats {
     
     .small-text-bloc {
         display: block;
+        margin: 0 0 30px;
     }
 
     .small-text-bloc .image {
@@ -1929,6 +1927,7 @@ aside .arma-stats {
     .blog-title {
         border-radius: 0;
     }
+
     .negative-mr {
         margin-top: 0;
     }
@@ -2041,8 +2040,14 @@ aside .arma-stats {
         margin-top: 0;
     }
     
+    .content-bloc .image-holder {
+        background: none !important;
+    }
+    
     .content-bloc .image-holder img {
-        margin: 0 0 20px;
+        display: block;
+        margin: 0 0 30px;
         height: auto !important;
+        border-radius: 10px;
     }    
 }
