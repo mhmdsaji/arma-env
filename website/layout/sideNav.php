@@ -129,7 +129,7 @@
                     </ul>
                 </li>-->
 
-                <!--<li class="nav-item menu-parent">
+                <li class="nav-item menu-parent">
                     <button class="nav-link title scroll">Carrières</button>
 
                     <ul class="menu-children">
@@ -141,7 +141,7 @@
                             spontanée</a>
                         </li>
                     </ul>
-                </li>-->
+                </li>
 
                 <li class="nav-item">
                     <a class="nav-link title scroll" href="contact.php">Contact</a>

@@ -64,9 +64,7 @@
 
 											<div class="col-lg-6">
 												<div class="holder-parent">
-													<div class="holder-parent">
-														<div class="image-holder" style="background-image: url('assets/img/content/projets/img-ifrane.jpg');">
-														</div>
+													<div class="image-holder" style="background-image: url('assets/img/content/projets/img-ifrane.jpg');">
 													</div>
 												</div>
 											</div>

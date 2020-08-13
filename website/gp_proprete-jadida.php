@@ -69,9 +69,7 @@
 
 											<div class="col-lg-6">
 												<div class="holder-parent">
-													<div class="holder-parent">
-														<div class="image-holder" style="background-image: url('assets/img/content/projets/img-jadida.jpg');">
-														</div>
+													<div class="image-holder" style="background-image: url('assets/img/content/projets/img-jadida.jpg');">
 													</div>
 												</div> 
 											</div>
