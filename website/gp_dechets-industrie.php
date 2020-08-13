@@ -78,99 +78,170 @@
 									<div class="content-bloc text-bloc-container">
 										<div class="small-text-bloc large">
 											<div class="image">
-												<img src="assets/img/content/projets/prestigia.png" alt="Prestigia">
+												<img src="assets/img/content/projets/client_mmall.jpg" alt="">
 											</div>
 
 											<div class="text">
-												<p>Gestion des déchets du projet touristique. Taghazout bay est une station balnéaire située au sud du Maroc. Elle s’étale sur une superficie de 615 Ha en front d’une bande côtière de 4,5 km de plages.</p>
-											</div>
-										</div>
-
-										<div class="small-text-bloc large">
-											<div class="image">
-												<img src="assets/img/content/projets/moroccomall.png" alt="Morocco Mall">
+												<p>Gestion des déchets du plus grand centre commercial d’Afrique.
+													Plus de 250 000 m2 de superficie totale dont 70 000 m2 de superficie commerciale. 350 boutiques et 50 restaurants.</p>
+												</div>
 											</div>
 
-											<div class="text">
-												<p>Gestion des déchets du projet touristique. Taghazout bay est une station balnéaire située au sud du Maroc. Elle s’étale sur une superficie de 615 Ha en front d’une bande côtière de 4,5 km de plages.
-												</p>
-											</div>
-										</div>
+											<div class="small-text-bloc large">
+												<div class="image">
+													<img src="assets/img/content/projets/client_prestigia.jpg" alt="">
+												</div>
 
-										<div class="small-text-bloc large">
-											<div class="image">
-												<img src="assets/img/content/projets/taghazout.png" alt="Taghazout">
+												<div class="text">
+													<p>Gestion des déchets des projets Prestigia Bouskoura et Casa Greentown dans la ville verte de la région du Grand Casablanca.
+													</p>
+												</div>
 											</div>
 
-											<div class="text">
-												<p>
-													Gestion des déchets du projet touristique. Taghazout bay est une station balnéaire située au sud du Maroc. Elle s’étale sur une superficie de 615 Ha en front d’une bande côtière de 4,5 km de plages.
-												</p>
+											<div class="small-text-bloc large">
+												<div class="image">
+													<img src="assets/img/content/projets/client_taghazout.jpg" alt="">
+												</div>
+
+												<div class="text">
+													<p>
+														Gestion des déchets du projet touristique. Taghazout bay est une station balnéaire située au sud du Maroc. Elle s’étale sur une superficie de 615Ha en front d’une bande côtière de 4,5 km de plages.
+													</p>
+												</div>
 											</div>
+
+											<div class="small-text-bloc large">
+												<div class="image">
+													<img src="assets/img/content/projets/client_cosumar.jpg" alt="">
+												</div>
+
+												<div class="text">
+													<p>
+														Cosumar, leader de la
+														production du sucre blanc.
+														Gestion des déchets de l’usine de production à Casablanca et de la plateforme de stockage à Tanger.
+													</p>
+												</div>
+											</div>
+
+											<div class="small-text-bloc large">
+												<div class="image">
+													<img src="assets/img/content/projets/client_dari.jpg" alt="">
+												</div>
+
+												<div class="text">
+													<p>
+														Dari Couspate : leader
+														marocain en couscous et pâtes alimentaires.
+														Gestion des déchets du principal site de production.
+													</p>
+												</div>
+											</div>
+
+											<div class="small-text-bloc large">
+												<div class="image">
+													<img src="assets/img/content/projets/client_sonasid.jpg" alt="Taghazout">
+												</div>
+
+												<div class="text">
+													<p>
+														Premier producteur marocain
+														de rond-à-béton et fil machine destinés au BTP et à l'industrie.
+														Gestion des déchets industriels de Sonasid, de la Collecte des huiles usagées et déchets valorisables jusqu’à leur transfert vers le centre de traitement.
+													</p>
+												</div>
+											</div>
+
+											<div class="small-text-bloc large">
+												<div class="image">
+													<img src="assets/img/content/projets/client_siemens.jpg" alt="Taghazout">
+												</div>
+
+												<div class="text">
+													<p>
+														Groupe international spécialisé dans les secteurs de l'énergie, de la santé
+														et de l'industrie et du bâtiment.
+														Gestion des déchets du parc éolien de Midelt.
+													</p>
+												</div>
+											</div>
+
+											<div class="small-text-bloc large">
+												<div class="image">
+													<img src="assets/img/content/projets/client_crown.jpg" alt="Taghazout">
+												</div>
+
+												<div class="text">
+													<p>
+														Gestion des déchets de l’usine
+														de fabrication des couvercles métalliques.
+													</p>
+												</div>
+											</div>
+
 										</div>
 									</div>
-								</div>
 
-								<aside class="col-lg-4">
-									<div class="arma-stats large red">
-										<div class="arma-stats-inner">
-											Les <span class="bold">Chiffres</span>
-											<br />ARMA Environnement
+									<aside class="col-lg-4">
+										<div class="arma-stats large red">
+											<div class="arma-stats-inner">
+												Les <span class="bold">Chiffres</span>
+												<br />ARMA Environnement
+											</div>
 										</div>
-									</div>
 
-									<div class="arma-stats large blue">
-										<div class="arma-stats-inner">
-											<span class="bold">+<span class="number-scroll">6500</span></span>
-											<br>Collaborateurs
+										<div class="arma-stats large blue">
+											<div class="arma-stats-inner">
+												<span class="bold">+<span class="number-scroll">6500</span></span>
+												<br>Collaborateurs
+											</div>
 										</div>
-									</div>
 
-									<div class="arma-stats large blue">
-										<div class="arma-stats-inner">
+										<div class="arma-stats large blue">
+											<div class="arma-stats-inner">
 												<span class="bold">27 <span class="light">Villes</span></span>
 												<br/>Et 46 clients
 											</div>
-									</div>
-
-									<div class="arma-stats large blue">
-										<div class="arma-stats-inner"><span class="bold number-scroll">3200</span><span class="light">km<sup><small>2</small></sup></span>
-
-											<br>Superficie desservis
 										</div>
-									</div>
 
-									<div class="arma-stats large blue">
-										<div class="arma-stats-inner">
-											<span class="bold number-scroll">1250000</span>
+										<div class="arma-stats large blue">
+											<div class="arma-stats-inner"><span class="bold number-scroll">3200</span><span class="light">km<sup><small>2</small></sup></span>
 
-											<br><b>T/An</b> déchets collectés
+												<br>Superficie desservis
+											</div>
 										</div>
-									</div>
 
-									<div class="arma-stats large blue">
-										<div class="arma-stats-inner">
-											<span class="bold number-scroll">3</span><span class="light">millions</span>
+										<div class="arma-stats large blue">
+											<div class="arma-stats-inner">
+												<span class="bold number-scroll">1250000</span>
 
-											<br>Habitants desservis
+												<br><b>T/An</b> déchets collectés
+											</div>
 										</div>
-									</div>
 
-									<div class="arma-stats large blue">
-										<div class="arma-stats-inner"> 
-											<span class="bold">24</span><span class="light">h/24</span>
-											<br />7J/7 de disponibilité
+										<div class="arma-stats large blue">
+											<div class="arma-stats-inner">
+												<span class="bold number-scroll">3</span><span class="light">millions</span>
+
+												<br>Habitants desservis
+											</div>
 										</div>
-									</div>
-								</aside>
+
+										<div class="arma-stats large blue">
+											<div class="arma-stats-inner"> 
+												<span class="bold">24</span><span class="light">h/24</span>
+												<br />7J/7 de disponibilité
+											</div>
+										</div>
+									</aside>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
 
-	<?php include 'layout/footer.php';?>
-</body>
-</html>
+		<?php include 'layout/footer.php';?>
+	</body>
+	</html>
