@@ -32,8 +32,8 @@
         <!-- End side nav -->
         <div id="page-wrapper">
             <div class="overlay">
-                <div class="overlay-inner" style="background-image: url(assets/img/jadida.jpg);">
-                    <img src="assets/img/jadida.jpg" alt="background" style="display: none;">
+                <div class="overlay-inner" style="background-image: url(assets/img/home_casablanca.jpg);">
+                    <img src="assets/img/home_casablanca.jpg" alt="background" style="display: none;">
                 </div>
                 <div class="overlay-inner bg-primary"></div>
             </div>
