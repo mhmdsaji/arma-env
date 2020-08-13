@@ -1742,6 +1742,7 @@ aside .arma-stats {
     margin: 0;
 	backdrop-filter: blur(2px);
 	-webkit-backdrop-filter: blur(2px);
+    text-align: center;
 }
 
 .blog-title b {

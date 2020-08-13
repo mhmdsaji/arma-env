@@ -106,7 +106,7 @@
                         <li class="nav-item"><a class="nav-link menu-child" href="gp_proprete-rabat.php">Collecte déchets de la ville de Rabat</a></li>
                         <li class="nav-item"><a class="nav-link menu-child" href="gp_proprete-marrakech.php">Propreté de la ville de Marrakech</a></li>
                         <li class="nav-item"><a class="nav-link menu-child" href="gp_proprete-ifrane.php">Propreté de la province d’Ifrane</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="gp_proprete-eljadida.php">Propreté de la ville d’El Jadida</a></li>
+                        <li class="nav-item"><a class="nav-link menu-child" href="gp_proprete-jadida.php">Propreté de la ville d’El Jadida</a></li>
                         <li class="nav-item"><a class="nav-link menu-child" href="gp_eclairage-rabat.php">Maintenance de l’éclairage public de la ville de Rabat</a></li>
 						<li class="nav-item"><a class="nav-link menu-child" href="gp_dechets-industrie.php">Gestion des déchets industriels</a></li>
 					</ul>

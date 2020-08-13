@@ -32,8 +32,8 @@
         <!-- End side nav -->
         <div id="page-wrapper">
             <div class="overlay">
-                <div class="overlay-inner" style="background-image: url(assets/img/casablanca.jpg);">
-                    <img src="assets/img/casablanca.jpg" alt="background" style="display: none;">
+                <div class="overlay-inner" style="background-image: url(assets/img/jadida.jpg);">
+                    <img src="assets/img/jadida.jpg" alt="background" style="display: none;">
                 </div>
                 <div class="overlay-inner bg-primary"></div>
             </div>
@@ -63,13 +63,13 @@
                     <h5 class="news-heading"><b>Arma</b><br/>News</h5>
                     <ul class="arma-news" id="arma-news">
                         <li>
-                            <a href="#">ARMA Environnement lance une campagne de dépistage Covid-19 massif de ses collaborateurs.</a>
+                            <a href="#">1. ARMA Environnement lance une campagne de dépistage Covid-19 massif de ses collaborateurs.</a>
                         </li>
                         <li>
-                            <a href="#">ARMA Environnement renforce les mesures d'hygiène et de sensibilisation anti COVID-19 au profit de ses collaborateurs.</a>
+                            <a href="#">2. ARMA Environnement renforce les mesures d'hygiène et de sensibilisation anti COVID-19 au profit de ses collaborateurs.</a>
                         </li>
                         <li>
-                            <a href="#">ARMA Environnement lance des opérations de désinfection de grande envérgure dans les grands villes du Maroc.</a>
+                            <a href="#">3. ARMA Environnement lance des opérations de désinfection de grande envérgure dans les grands villes du Maroc.</a>
                         </li>
                     </ul>
                 </div>

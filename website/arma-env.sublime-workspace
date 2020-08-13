@@ -11,7 +11,16 @@
 			"file": "gp_proprete-ifrane.php",
 			"settings":
 			{
-				"buffer_size": 4708,
+				"buffer_size": 4491,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 41385,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -28,6 +37,34 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
 		],
 		"width": 0.0
 	},
@@ -54,6 +91,7 @@
 	[
 		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website",
 		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/css",
 		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/img",
 		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/img/content",
 		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/img/content/projets"
@@ -64,7 +102,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -78,6 +116,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"page-banner"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -104,15 +143,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4708,
+						"buffer_size": 4491,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1600,
-								1600
+								1610,
+								1610
 							]
 						],
 						"settings":
@@ -124,10 +163,40 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 531.0,
+						"translation.y": 352.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35398,
+								35398
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -135,7 +204,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -168,11 +237,15 @@
 	{
 		"height": 0.0
 	},
+	"output.git-fetch":
+	{
+		"height": 120.0
+	},
 	"pinned_build_system": "",
 	"project": "arma-env.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
