@@ -61,7 +61,7 @@
                         <li class="nav-item"><a class="nav-link menu-child" href="numbers.php">Nos chiffres clés</a>
                         </li>
                         <li class="nav-item"><a class="nav-link menu-child" href="mission.php">Notre mission & valeurs</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="cards-nopic.php">Appels d'offres</a></li>
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Appels d'offres</a></li>
                     </ul>
                 </li>
                 <li class="nav-item menu-parent">
@@ -111,12 +111,6 @@
 						<li class="nav-item"><a class="nav-link menu-child" href="gp_dechets-industrie.php">Gestion des déchets industriels</a></li>
 					</ul>
 
-
-
-
-
-
-
                 </li>
                 <!--<li class="nav-item menu-parent">
                     <button class="nav-link title scroll">Nos highlights</button>
@@ -135,9 +129,9 @@
                     <ul class="menu-children">
                         <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Notre politique RH</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Nos offres d’emploi</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="jobs.php">Nos offres d’emploi</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Candidature
+                        <li class="nav-item"><a class="nav-link menu-child" href="jobs_form.php">Candidature
                             spontanée</a>
                         </li>
                     </ul>

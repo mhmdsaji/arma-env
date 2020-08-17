@@ -8,10 +8,19 @@
 	"buffers":
 	[
 		{
-			"file": "gp_proprete-ifrane.php",
+			"file": "layout/sideNav.php",
 			"settings":
 			{
-				"buffer_size": 4491,
+				"buffer_size": 8260,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "jobs.php",
+			"settings":
+			{
+				"buffer_size": 2356,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -20,8 +29,7 @@
 			"file": "assets/css/style.css",
 			"settings":
 			{
-				"buffer_size": 41385,
-				"encoding": "UTF-8",
+				"buffer_size": 41409,
 				"line_ending": "Unix"
 			}
 		}
@@ -37,6 +45,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"",
 				"Arithmetic"
@@ -91,14 +103,25 @@
 	[
 		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website",
 		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets",
-		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/css",
-		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/img",
-		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/img/content",
-		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/img/content/projets"
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/js",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/layout"
 	],
 	"file_history":
 	[
-		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/css/style.css"
+		"/Users/amine/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/css/style.css",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_dechets-industrie.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/index.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/layout/footer.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/layout/head.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/commingsoon.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/numbers.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_proprete-ifrane.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_proprete-casablanca.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_proprete-jadida.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_proprete-marrakech.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_proprete-rabat.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_eclairage-rabat.php"
 	],
 	"find":
 	{
@@ -116,6 +139,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"a {",
+			"></div>",
+			"></div",
+			"red {",
 			"page-banner"
 		],
 		"highlight": true,
@@ -139,31 +166,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "gp_proprete-ifrane.php",
+					"file": "layout/sideNav.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4491,
+						"buffer_size": 8260,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1610,
-								1610
+								6335,
+								6335
 							]
 						],
 						"settings":
 						{
-							"rulers":
-							[
-							],
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 352.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -171,19 +196,49 @@
 				},
 				{
 					"buffer": 1,
-					"file": "assets/css/style.css",
+					"file": "jobs.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41385,
+						"buffer_size": 2356,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								35398,
-								35398
+								1399,
+								1399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 143.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15432,
+								15432
 							]
 						],
 						"settings":
@@ -193,7 +248,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 11360.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -208,7 +263,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -254,6 +309,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"style",
+				"assets/css/style.css"
+			]
 		],
 		"width": 0.0
 	},
@@ -287,7 +346,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 285.0,
+	"side_bar_width": 240.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -22,7 +22,7 @@ if (isset($_POST["uid"])) {    // the user has submitted the form
     $texttomail = "Site: $sitesource\r\nNom: $fullname\r\nNuméro de téléphone: $phone\r\nAdresse: $address\r\n\r\n$messagebody";
     // send mail
     mail($objectemail,$subject,$texttomail,"From: $from\n");
-    error_log("To:$objectemail\r\nMessage: $texttomail", 0);
+    // error_log("To:$objectemail\r\nMessage: $texttomail", 0);
     $formok = true;
   }else{
   	$formok = false;
@@ -80,14 +80,14 @@ if (isset($_POST["uid"])) {    // the user has submitted the form
 							<h1 class="page-title">Nous sommes à votre service</h1>
 							
 							<div class="text-bloc content-wrapper no-bg col-md-10 sub-h1">
-								<p>ARMA Environnement prend très au sérieux les réclamations qui seront faites, et même si nous faisons tout pour fournir un service irréprochable, nous sommes à votre écoute si le moindre problème venait à apparaitre, et nous nous engageons à traiter votre demande le plus rapidement possible..</p>
+								<p>ARMA Environnement prend très au sérieux les réclamations qui seront faites, et même si nous faisons tout pour fournir un service irréprochable, nous sommes à votre écoute si le moindre problème venait à apparaitre, et nous nous engageons à traiter votre demande le plus rapidement possible.</p>
 							</div>
 							
 							<div class="row content-bloc  wow fadeIn">
 								<div class="col-md-8">
 									<div class="small-text-bloc text-only">
 										<div class="text">
-											<h4><b>Nous écrire</b>
+											<h4><b>Nous contacter</b>
                                                 <i class="fas fa-envelope-open"></i></h4>
 											
 											<p>Merci de saisir vos informations ainsi que l'objet de votre message ou réclamation, notre équipe est à votre écoute et fera de son mieux pour satisfaire votre demande.</p>
