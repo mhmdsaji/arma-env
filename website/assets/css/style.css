@@ -1621,6 +1621,14 @@ li.breadcrumb-item.active {
 	line-height: 24px;
 }
 
+.small-text-bloc.text-only .text ul {
+    line-height: 24px;
+    font-weight: 300;
+    font-size: 0.9em;
+    list-style-type: circle;
+    margin-bottom: 0;
+}
+
 .small-text-bloc .text h4 i {
 	font-size: 24px;
 	color: lightgray;
