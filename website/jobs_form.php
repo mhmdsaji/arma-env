@@ -6,7 +6,7 @@ require 'vendor/php/PHPMailer/src/Exception.php';
 require 'vendor/php/PHPMailer/src/PHPMailer.php';
 
 // -----
-$SEND_TO = "amine@azariz.com";
+$SEND_TO = "recrutement@arma.ma";
 
 ?>
 
@@ -17,50 +17,51 @@ if (isset($_POST["uid"])) {    // the user has submitted the form
 	$formsubmit = true;
   // Check if the "from" input field is filled out
 	if ($_POST["messagebody"] && 
-		$_POST["fullname"] && 
-		$_POST["phone"] && 
-		$_POST["objectemail"] && 
-		$_FILES["cvattach"] && 
-		$_POST["address"]) {
+			$_POST["fullname"] && 
+			$_POST["phone"] && 
+			$_POST["objectemail"] && 
+			$_FILES["cvattach"] && 
+			$_POST["address"]) {
 		$uid = uniqid();
-	$subject = "Candidature [$uid] - $objectemail";
-	$messagebody = $_POST["messagebody"];
-	$address = $_POST["address"];
-	$phone = $_POST["phone"];
-	$fullname = $_POST["fullname"];
-	$objectemail = $_POST["objectemail"];
-	$sitesource = $_POST["sitesource"];
-		// message lines should not exceed 70 characters (PHP rule), so wrap it
-	$texttomail = "Offre: $objectemail\r\nSite: $sitesource\r\nNom: $fullname\r\nNuméro de téléphone: $phone\r\nAdresse: $address\r\n\r\n$messagebody";
-		// send mail
+		$objectemail = $_POST["objectemail"];
+		$subject = "Candidature [$uid] - $objectemail";
+		$messagebody = $_POST["messagebody"];
+		$address = $_POST["address"];
+		$phone = $_POST["phone"];
+		$fullname = $_POST["fullname"];
+		$sitesource = $_POST["sitesource"];
+			// message lines should not exceed 70 characters (PHP rule), so wrap it
+		$texttomail = "Offre: $objectemail\r\nSite: $sitesource\r\nNom: $fullname\r\nNuméro de téléphone: $phone\r\nAdresse: $address\r\n\r\n$messagebody";
+			// send mail
 
-	$formok = true;
-	$errmsg = '';
-	$uploadfile = tempnam(sys_get_temp_dir(), sha1($_FILES['cvattach']['name']));
-	if (move_uploaded_file($_FILES['cvattach']['tmp_name'], $uploadfile)) {
-			// Upload handled successfully
-			// Now create a message
-		$mail = new PHPMailer;
-		$mail->setFrom('noreply@arma.ma', 'ARMA Environnement');
-		$mail->addAddress($SEND_TO);
-		$mail->Subject = $subject;
-		$mail->msgHTML($texttomail);
-			// Attach the uploaded file
-		$mail->addAttachment($uploadfile, 'CV');
-		if (!$mail->send()) {
+		$formok = true;
+		$errmsg = '';
+		$uploadfile = tempnam(sys_get_temp_dir(), sha1($_FILES['cvattach']['name']));
+		if (move_uploaded_file($_FILES['cvattach']['tmp_name'], $uploadfile)) {
+				// Upload handled successfully
+				// Now create a message
+			$mail = new PHPMailer();
+			$mail->isSendmail();
+			$mail->setFrom('noreply@arma.ma', 'ARMA Environnement');
+			$mail->addAddress($SEND_TO);
+			$mail->Subject = $subject;
+			$mail->Body = $texttomail;
+				// Attach the uploaded file
+			$mail->addAttachment($uploadfile, $_FILES['cvattach']['name']);
+			if (!$mail->send()) {
+				$formok = false;
+				$errmsg .= "Mailer error: " . $mail->ErrorInfo;
+			}
+		} else {
 			$formok = false;
-			$errmsg .= "Mailer error: " . $mail->ErrorInfo;
+			$errmsg .= 'Failed to move file to ' . $uploadfile;
 		}
+
 	} else {
 		$formok = false;
-		$errmsg .= 'Failed to move file to ' . $uploadfile;
+		$toto = $_FILES['cvattach'];
+		error_log("Blablabla... $toto", 0);
 	}
-
-} else {
-	$formok = false;
-	$toto = $_FILES['cvattach'];
-	error_log("Blablabla... $toto", 0);
-}
 }
 ?>
 
