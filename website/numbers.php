@@ -37,7 +37,7 @@
 					</div>
 
 					<div class="page row no-gutters">
-						<div class="col-md-8 offset-md-1">
+						<div class="col-md-9 offset-md-1">
 							<nav aria-label="breadcrumb">
 								<ol class="breadcrumb">
 									<li class="breadcrumb-item"><a href="index.html">ARMA Environnement</a></li>

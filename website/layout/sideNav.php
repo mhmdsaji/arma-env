@@ -61,7 +61,7 @@
                         <li class="nav-item"><a class="nav-link menu-child" href="numbers.php">Nos chiffres clés</a>
                         </li>
                         <li class="nav-item"><a class="nav-link menu-child" href="mission.php">Notre mission & valeurs</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Appels d'offres</a></li>
+                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Nos références</a></li>
                     </ul>
                 </li>
                 <li class="nav-item menu-parent">
