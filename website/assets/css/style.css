@@ -1589,6 +1589,14 @@ li.breadcrumb-item.active {
 	margin-bottom: 30px;
 }
 
+.content-bloc.white-bg {
+    background: #fff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
 .small-text-bloc .text h4 {
 	font-size: 20px;
 	text-transform: uppercase;
