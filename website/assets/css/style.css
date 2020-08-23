@@ -22,11 +22,15 @@ html,body {
 body {
 	font-family: "Montserrat", "Source Sans Pro", sans-serif;
 	overflow: hidden auto;
-	font-weight: 400;
+	font-weight: 300;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
 	font-weight: 600;
+}
+
+p {
+    margin: 0 0 1rem;
 }
 
 /* ===================================
@@ -1738,6 +1742,22 @@ li.breadcrumb-item.active {
 	margin-bottom: 40px;
 	display: flex;
 	align-items: flex-end;
+}
+
+.text-red {
+    color: #F83834 !important;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+.page-banner.big {
+    min-height: 500px;
 }
 
 aside .arma-stats {

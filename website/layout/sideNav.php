@@ -84,9 +84,9 @@
 
                             <ul class="menu-children">
                                 <h6><span>Pour les villes et collectivités</span></h6>
-                                <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Propreté urbaine</a>
+                                <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_proprete.php">Propreté urbaine</a>
                                 </li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Gestion des déchets</a>
+                                <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_dechets.php">Gestion des déchets</a>
                                 </li>
                                 <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Eau &
                                 Assainissement</a>
@@ -94,7 +94,7 @@
                             <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Espaces verts</a></li>
                             <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Eclairage publique</a></li>
                             <h6><span>Pour les entreprises et industriels</span></h6>
-                            <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Gestion des déchets industriels</a>
+                            <li class="nav-item"><a class="nav-link menu-child" href="presta_pro_dechets.php">Gestion des déchets industriels</a>
                             </li>
                         </ul>
                     </li>

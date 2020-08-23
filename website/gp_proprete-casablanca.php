@@ -45,7 +45,7 @@
 								</ol>
 							</nav>
 
-							<h1 class="page-title">Propreté de la ville de Casablanca</h1>
+							<h1 class="page-title">Propreté de la métropole Casablanca</h1>
 							<div class="page-banner" style="background-image: url(assets/img/content/projets/cover-casablanca.jpg);">
 								<h2 class="blog-title matchWidth">
 									ARMA Environnement assure la propreté  de la métropole,  
