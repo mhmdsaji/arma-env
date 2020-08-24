@@ -1596,9 +1596,28 @@ li.breadcrumb-item.active {
 .content-bloc.white-bg {
     background: #fff;
     border-radius: 10px;
+    padding: 20px 40px;
+}
+
+.reference {
     display: flex;
-    justify-content: center;
-    padding: 20px;
+    align-items: center;
+}
+
+.reference img {
+    padding: 10px;
+}
+
+.references-slider {
+    margin: 20px;
+    padding: 20px
+}
+
+.references-slider .slick-slide {margin: 0 30px;height: 160px;display: flex;align-items: center;}
+
+.boredered {
+    border: 1px solid #eee;
+    border-radius: 10px;
 }
 
 .small-text-bloc .text h4 {
@@ -1971,6 +1990,28 @@ Media Queries
 	}
 	.negative-mr {
 		margin-top: 0;
+	}
+
+	.content-bloc.white-bg {		
+        padding: 10px 20px;
+	}
+
+	.reference img {
+		padding: 0;
+	}
+
+	.reference {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	.references-slider .slick-slide {
+		margin: 0 10px;
+		height: 110px;
+	}
+
+	.references-slider {
+		margin: 20px 0;
 	}
 }
 

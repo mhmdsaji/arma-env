@@ -116,6 +116,34 @@ jQuery(function ($) {
   });
 
   /* =====================================
+      references slider 
+  ====================================== */
+  $(".references-slider").slick({
+    autoplay: true,
+    arrows: false,
+    dots: false,
+    pauseOnHover: true,
+    slidesToShow: 6,
+    slidesToScroll: 1,
+    infinite: true,
+    responsive: [{
+
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 5
+      }
+
+    }, {
+
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 3
+      }
+
+    }]
+  });
+
+  /* =====================================
       WOW init 
   ====================================== */
   new WOW().init();
@@ -125,6 +153,7 @@ jQuery(function ($) {
   ====================================== */
   $('.matchHeight').matchHeight(); 
 
+
 /* =====================================
       match matchWidth 
   ====================================== */
@@ -133,6 +162,8 @@ jQuery(function ($) {
     console.log(contentWidth);
     $(".blog-title").css("width", contentWidth);    
   }
+
+
  /* =====================================
           Smooth scrolling for inner links
       ====================================== */  
