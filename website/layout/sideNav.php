@@ -88,7 +88,7 @@
                                 </li>
                                 <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_dechets.php">Gestion des déchets</a>
                                 </li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Eau &
+                                <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_eau.php">Eau &
                                 Assainissement</a>
                             </li>
                             <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Espaces verts</a></li>
