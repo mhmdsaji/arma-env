@@ -40,7 +40,7 @@
 							<nav aria-label="breadcrumb">
 								<ol class="breadcrumb">
 									<li class="breadcrumb-item"><a href="index.html">ARMA Environnement</a></li>
-									<li class="breadcrumb-item active" aria-current="page">Notre mission &and; valeurs</li>
+									<li class="breadcrumb-item active" aria-current="page">Notre mission & valeurs</li>
 								</ol>
 							</nav>
 							

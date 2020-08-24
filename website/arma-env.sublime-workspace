@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "layout/sideNav.php",
+			"settings":
+			{
+				"buffer_size": 8260,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "jobs.php",
+			"settings":
+			{
+				"buffer_size": 2356,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 41409,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"print(\"you\")",
+			"print 'you'",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/js",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/layout"
+	],
+	"file_history":
+	[
+		"/Users/amine/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/assets/css/style.css",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_dechets-industrie.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/index.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/layout/footer.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/layout/head.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/commingsoon.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/numbers.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_proprete-ifrane.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_proprete-casablanca.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_proprete-jadida.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_proprete-marrakech.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_proprete-rabat.php",
+		"/Users/amine/Documents/Work/Clients/Arma/code/arma-env_git/website/gp_eclairage-rabat.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"a {",
+			"></div>",
+			"></div",
+			"red {",
+			"page-banner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "layout/sideNav.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6335,
+								6335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "jobs.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1399,
+								1399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 143.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15432,
+								15432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-fetch":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "arma-env.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"style",
+				"assets/css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 270.0,
+		"last_filter": "arma-stats",
+		"selected_items":
+		[
+			[
+				"arma-stats",
+				"arma-stats"
+			]
+		],
+		"width": 695.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
