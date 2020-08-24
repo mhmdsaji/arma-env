@@ -53,7 +53,9 @@
 							<div class="row content-bloc  wow fadeIn">
 								<div class="col-md-6 matchHeight">
 									<div class="holder-parent">
-										<div class="image-holder" style="background-image: url('assets/img/content/7.jpg');"></div>
+										<div class="image-holder" style="background-image: url('assets/img/content/7.jpg');">
+											<img src="assets/img/content/7.jpg" alt="image">
+										</div>
 									</div>
 								</div>
 								
@@ -84,7 +86,7 @@
 								</div>
 							</div>
 							
-							<div class="row content-bloc  wow fadeIn wow__delay-2">
+							<div class="row content-bloc reverse-mobile wow fadeIn wow__delay-2">
 								<div class="col-md-6 matchHeight">
 									<div class="small-text-bloc">
 										<div class="image">
@@ -113,7 +115,10 @@
 								
 								<div class="col-md-6 matchHeight">
 									<div class="holder-parent">
-									<div class="image-holder" style="background-image: url('assets/img/content/8.jpg');"></div></div>
+										<div class="image-holder" style="background-image: url('assets/img/content/8.jpg');">
+											<img src="assets/img/content/8.jpg" alt="image">
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
