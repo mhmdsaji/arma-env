@@ -1451,6 +1451,12 @@ li.breadcrumb-item.active {
 	color: #dd4d3a;
 }
 
+.small-text-bloc h5 {
+    color: #dd4d3a;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .text-bloc p {
 	margin-bottom: 1rem;
 }

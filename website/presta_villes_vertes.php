@@ -60,70 +60,49 @@
 												<i class="fas fa-none"></i>
 											</h4>
 
-											<hr />
+										<hr />
 											<h5 class="text-red">Nettoiement</h5>
 											<p>
 											Nous proposons une gamme complète de solutions au service du cadre de vie pour la propreté des espaces publics de la ville. Notre mission est d’entretenir quotidiennement le paysage urbain :</p>
 											<ul class="ml-20 pb-20">
 												<li>Balayage et lavage mécanisé des rues et trottoirs</li>
 												<li>Désherbage de la voirie</li>
-												<li>Nettoyage lieux publics, 
-													marchés, espaces verts,
+												<li>Nettoyage des lieux publics, 
+												marchés, espaces verts,
 												plages et monuments</li>
 												<li>Viabilité hivernale : salage et déneigement</li>
 											</ul>
-
-											<h5 class="text-red">Gestion des déchets ménagers</h5>
-											<p>
-											ARMA Environnement bénéficie d’une expérience éprouvée dans la gestion des déchets ménagers. Ainsi, nous pouvons intervenir sur l’ensemble du cycle de vie du déchet : de la collecte au traitement et jusqu’à sa valorisation. ARMA Environnement entend d’ailleurs participer activement à l’émergence d’un nouveau modèle d’économie circulaire. Notre mission est de vous offrir des solutions complètes pour votre collectivité.</p>
-
-											<h5 class="text-red">Collecte des déchets</h5>
-											<ul class="ml-20 pb-20">
-												<li>Collecte sélective en porte à porte d’ordures ménagères.
-													<li>Collecte sélective en points d’apport volontaire.</li>
-
-													<b>Gestion globale de déchèteries</b>
-													<li>Organisation, entretien et gardiennage du site</li>
-													<li>Compactage, optimisation des transports</li>
-													<li>Planification et évacuation des déchets vers des centres de valorisation</li>
-
-													<b>Transport, tri et valorisation</b>
-													<li>Traitement et valorisation.</li>
-													<li>Transfert des déchets vers les centres de valorisation </li>
-													<li>Tri et valorisation</li>
-												</ul>
-
-											</div>
 										</div>
-
 									</div>
 
-									<aside class="col-lg-4">
-										<div class="arma-stats large red">
-											<div class="arma-stats-inner"><span class="bold number-scroll">3</span><span class="light">million</span>
-												<br />Habitants desservis
-											</div>
-										</div>
-										<div class="arma-stats large red">
-											<div class="arma-stats-inner">
-												<span class="bold number-scroll">3200</span><span class="light">km<sup><small>2</small></sup></span>
-												<br>Superficie desservis
-											</div>
-										</div>
-										<div class="arma-stats large red">
-											<div class="arma-stats-inner">
-												<span class="bold number-scroll">1250000</span>
-												<br><b>T/An</b> déchets collectés
-											</div>
-										</div>
-									</aside>
 								</div>
+
+								<aside class="col-lg-4">
+									<div class="arma-stats large red">
+										<div class="arma-stats-inner"><span class="bold number-scroll">3</span><span class="light">million</span>
+											<br />Habitants desservis
+										</div>
+									</div>
+									<div class="arma-stats large red">
+										<div class="arma-stats-inner">
+											<span class="bold number-scroll">3200</span><span class="light">km<sup><small>2</small></sup></span>
+											<br>Superficie desservis
+										</div>
+									</div>
+									<div class="arma-stats large red">
+										<div class="arma-stats-inner">
+											<span class="bold number-scroll">1250000</span>
+											<br><b>T/An</b> déchets collectés
+										</div>
+									</div>
+								</aside>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<?php include 'layout/footer.php';?>
-	</body>
-	</html>
+	</div>
+	<?php include 'layout/footer.php';?>
+</body>
+</html>

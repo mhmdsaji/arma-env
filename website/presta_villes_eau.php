@@ -36,7 +36,7 @@
 									<li class="breadcrumb-item active" aria-current="page">Eau et Assainissement</li>
 								</ol>
 							</nav>
-							<h1 class="page-title">Propreté urbaine</h1>
+							<h1 class="page-title">Eau et Assainissement</h1>
 							<div class="page-banner big" style="background-image: url(assets/img/content/solutions/3.jpg);">
 								<h2 class="blog-title matchWidth">
 									Offrir une gestion optimale de l'eau

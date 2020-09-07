@@ -86,12 +86,12 @@
                                 <h6><span>Pour les villes et collectivités</span></h6>
                                 <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_proprete.php">Propreté urbaine</a>
                                 </li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_dechets.php">Gestion des déchets</a>
+                                <!--<li class="nav-item"><a class="nav-link menu-child" href="presta_villes_dechets.php">Gestion des déchets</a>-->
                                 </li>
                                 <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_eau.php">Eau &
                                 Assainissement</a>
                             </li>
-                            <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Espaces verts</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_vertes.php">Espaces verts</a></li>
                             <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Eclairage publique</a></li>
                             <h6><span>Pour les entreprises et industriels</span></h6>
                             <li class="nav-item"><a class="nav-link menu-child" href="presta_pro_dechets.php">Gestion des déchets industriels</a>
@@ -148,9 +148,9 @@
             &copy; 2020 ARMA Environnement - Tous droits réservés
         </p>
         <p class="rites">
-            <b>Tel.</b> +212 (0) 5 37 63 55 56 <br>
-            <b>Mail.</b> <a href="mailto:contact@arma.ma">contact@arma.ma</a> <br>
-            <b>Address.</b> Avenue Mehdi Ben Barka <br>Lot Soumia, Lot N°5 Souissi, Rabat, Maroc
+            <b>Tel :</b> +212 (0) 5 37 63 55 56 <br>
+            <b>E-mail :</b> <a href="mailto:contact@arma.ma">contact@arma.ma</a> <br>
+            <b>Adresse : </b> Avenue Mehdi Ben Barka <br>Lot Soumia, Lot N°5 Souissi, Rabat, Maroc
         </p>
     </div>
 </div>
