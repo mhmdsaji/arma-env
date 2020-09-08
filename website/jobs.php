@@ -37,9 +37,9 @@
                                 <div class="container">
                                     <h1>Aucune offre pour le moment.</h1>
                                     <p class="sub col-md-8 offset-md-2">
-                                    Vous retrouverez ici toutes nos offres d'emploi au fur et à mesure de l'évolution de nos besoins en recrutement. Vous pouvez également soumettre des candidatures spontanées depuis <a style="color:white" href="jobs_form.php">le formulaire dédié</a>.
+                                    Vous retrouverez ici toutes nos offres d'emploi au fur et à mesure de l'évolution de nos besoins en recrutement. Vous pouvez également soumettre des candidatures spontanées depuis le formulaire dédié.
                                     </p>
-                                    <a href="index.php" class="toggle btn blue-btn">Accueil</a>
+                                    <a href="jobs_form.php" class="toggle btn blue-btn">Candidature spontanée</a>
                                 </div>
                             </div>
                         </div>

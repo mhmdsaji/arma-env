@@ -44,7 +44,7 @@
 								</ol>
 							</nav>
 							
-							<h1 class="page-title">Le groupe ARMA</h1>
+							<h1 class="page-title">Le Groupe ARMA</h1>
 							
 							<div class="text-bloc content-wrapper no-bg col-md-10 sub-h1">
 								<p>Le groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le groupe ARMA est structuré autour de quatre métiers qui constituent ses marques.</p>

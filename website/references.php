@@ -61,7 +61,7 @@
 									</div>
 
 									<p>
-										<b class="">CLIENTS ET INDUSTRIELS</b>
+										<b class="">ENTREPRISES ET INDUSTRIELS</b>
 									</p>
 									<hr>
 									<div class="row">
