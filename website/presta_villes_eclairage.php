@@ -61,7 +61,7 @@
 
 									<div class="small-text-bloc text-only">
 										<div class="text">
-											<h4 id="s1">
+											<h4 >
 												<b>Nos préstations</b>
 												<i class="fas fa-none"></i>
 											</h4>
@@ -105,7 +105,7 @@
 
 									<div class="small-text-bloc text-only">
 										<div class="text">
-											<h4 id="s1">
+											<h4 >
 												<b>Nos engagements</b>
 												<i class="fas fa-none"></i>
 											</h4>

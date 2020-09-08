@@ -15,7 +15,8 @@
 <link href="vendor/css/bundle.min.css" rel="stylesheet"/>
 <!-- Plugin Css -->
 <link href="assets/css/line-awesome.min.css" rel="stylesheet"/>
-<link href="vendor/css/slick.css" rel="stylesheet"/>
+<link href="vendor/css/slick.css" rel="stylesheet" type="text/css" />
+<link href="vendor/css/slick-theme.css" rel="stylesheet" type="text/css" />
 <link href="vendor/css/animate.min.css" rel="stylesheet"/>
 <!-- Style Sheet -->
 <link href="assets/css/style.css?v=13" rel="stylesheet"/>

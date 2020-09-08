@@ -120,12 +120,15 @@ jQuery(function ($) {
   ====================================== */
   $(".references-slider").slick({
     autoplay: true,
-    arrows: false,
+    arrows: true,
     dots: false,
-    pauseOnHover: true,
+    pauseOnHover: false,
     slidesToShow: 6,
     slidesToScroll: 1,
     infinite: true,
+    speed: 1000,
+    autoplaySpeed: 1000,
+
     responsive: [{
 
       breakpoint: 1024,

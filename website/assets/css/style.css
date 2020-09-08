@@ -1614,10 +1614,23 @@ li.breadcrumb-item.active {
 
 .reference img {
     padding: 10px;
+    filter: url(#greyscale);
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    transition: 200ms;
+    opacity: .6;
+}
+
+.reference img:hover {
+    -webkit-filter: grayscale(0);
+    filter: none;
+    filter: grayscale(0);
+    opacity: 1;
 }
 
 .references-slider {
-    margin: 20px;
+    margin: 20px 0;
     padding: 20px
 }
 
@@ -1865,6 +1878,13 @@ aside .arma-stats {
 .wow__delay-5 {
 	animation-delay: 1200ms;
 }
+
+.slick-prev:before, .slick-next:before { 
+    color: lightgray !important;
+}
+
+
+
 /* ===================================
 Media Queries
 ====================================== */
