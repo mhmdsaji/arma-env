@@ -1457,11 +1457,7 @@ li.breadcrumb-item.active {
     padding-bottom: 10px;
 }
 
-.small-text-bloc ul li:hover {
-    color: black;
-    font-weight: 400;
-    list-style-type: disc;
-}
+
 
 .text-bloc p {
 	margin-bottom: 1rem;
@@ -1670,6 +1666,12 @@ li.breadcrumb-item.active {
     font-size: 0.9em;
     list-style-type: circle;
     margin-bottom: 0;
+}
+
+.small-text-bloc ul li:hover, .small-text-bloc ol li:hover {
+    color: black;
+    font-weight: 400;
+    list-style-type: disc;
 }
 
 .small-text-bloc .text h4 i {
