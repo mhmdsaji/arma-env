@@ -37,7 +37,7 @@
 								</ol>
 							</nav>
 							<h1 class="page-title">Propreté urbaine</h1>
-							<div class="page-banner big" style="background-image: url(assets/img/content/solutions/1.jpg);">
+							<div class="page-banner big" style="background-image: url(assets/img/content/solutions/2.jpg);">
 								<h2 class="blog-title matchWidth">
 									ARMA Environnement oeuvre pour des villes <b>durablement plus propres</b>
 								</h2>

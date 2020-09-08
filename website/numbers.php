@@ -37,7 +37,7 @@
 					</div>
 
 					<div class="page row no-gutters">
-						<div class="col-md-9 offset-md-1">
+						<div class="col-lg-9 offset-lg-1">
 							<nav aria-label="breadcrumb">
 								<ol class="breadcrumb">
 									<li class="breadcrumb-item"><a href="index.html">ARMA Environnement</a></li>
@@ -52,7 +52,7 @@
 							</div>
 
 							<div class="row content-bloc">
-								<div class="col-sm-6">
+								<div class="col-sm-7">
 									<div class="arma-stats-group">
 										<div class="arma-stats large blue">
 											<div class="arma-stats-inner">
@@ -70,10 +70,10 @@
 									</div>
 								</div>
 
-								<div class="col-sm-4">
+								<div class="col-sm-5">
 									<div class="arma-stats large red">
 										<div class="arma-stats-inner">
-											<span class="bold number-scroll">3200</span><span class="light">km<sup><small>2</small></sup></span>
+											<span class="bold number-scroll">3200</span><span class="light">km<sup>2</sup></span>
 											<br/>Superficie entretenue
 										</div>
 									</div>
@@ -81,14 +81,14 @@
 							</div>
 
 							<div class="row content-bloc">
-								<div class="col-sm-6">
+								<div class="col-sm-7">
 									<div class="holder-parent">
 										<div class="image-holder" style="background-image: url('assets/img/content/1.jpg');">
 										</div>
 									</div> 
 								</div>
 
-								<div class="col-sm-4">
+								<div class="col-sm-5">
 									<div class="arma-stats large blue mb-4">
 										<div class="arma-stats-inner"> 
 											<span class="bold">24</span><span class="light">h/24</span>
@@ -106,7 +106,7 @@
 							</div>
 
 							<div class="row content-bloc">
-								<div class="col-sm-6">
+								<div class="col-sm-7">
 									<div class="arma-stats-group mb-4">
 										<div class="arma-stats small blue">
 											<div class="arma-stats-inner">
@@ -134,13 +134,13 @@
 										<div class="arma-stats small yellow">
 											<div class="arma-stats-inner">
 												<span class="bold">98</span><span class="light"><small><sup>%</sup></small></span>
-												<br />Dispo.
+												<br /><small>Disponibilité</small>
 											</div>
 										</div>
 									</div>
 								</div>
 
-								<div class="col-sm-4">
+								<div class="col-sm-5">
 									<div class="holder-parent">
 										<div class="image-holder" style="background-image: url('assets/img/content/2.jpg');">
 										</div>
