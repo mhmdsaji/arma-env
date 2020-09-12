@@ -36,7 +36,7 @@
 					<img src="assets/img/logo-light.png" alt="ARMA Environnement"></a></div>
 					
 					<div class="page row no-gutters">
-						<div class="col-md-9 offset-md-1">
+						<div class="col-md-10 offset-md-1">
 							<nav aria-label="breadcrumb">
 								<ol class="breadcrumb">
 									<li class="breadcrumb-item"><a href="index.html">ARMA Environnement</a></li>
@@ -44,17 +44,40 @@
 								</ol>
 							</nav>
 							
-							<h1 class="page-title">Le Groupe ARMA</h1>
+							<h1 class="page-title">ARMA Environnement</h1>
 							
 							<div class="text-bloc content-wrapper no-bg col-md-10 sub-h1">
-								<p>Le groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le groupe ARMA est structuré autour de quatre métiers qui constituent ses marques.</p>
+								<p>Acteur responsable, filiale du Groupe ARMA, ARMA Environnement œuvre chaque jour pour rendre nos villes plus propres, mieux aménagées et tout simplement agréables, à travers une offre complète et modulable de solutions innovantes en matière de Services à l’Environnement et aux Collectivités.</p>
+							</div>
+
+							<div class="row content-bloc wow fadeIn">
+								<div class="col-lg-6 matchHeight">
+									<div class="small-text-bloc text-only">
+										<div class="text">
+											<p>Depuis sa création, ARMA Environnement a développé une expertise particulière en  services à la Ville. Forte d’un savoir-faire éprouvé sur l’ensemble du territoire, ARMA Environnement comprend parfaitement les enjeux auxquels sont confrontées les Villes d’aujourd’hui : croissance démographique, accélération de l’urbanisation, défis énergétiques et environnementaux, développement industriel et bien d’autres. Dans ce contexte, ARMA Environnement joue un rôle stratégique en accompagnant  les villes dans leur développement. Elle les conseille au plus près de leurs attentes, en proposant et en mettant en œuvre des solutions sur-mesure.
+										</p>
+										</div>
+									</div>
+								</div>
+								
+								<div class="col-lg-6 matchHeight">
+									<div class="holder-parent">
+										<div class="image-holder" style="background-image: url('assets/img/content/3.jpg');">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<h1 class="page-title" style="margin-top:80px;">Le Groupe ARMA</h1>
+							
+							<div class="text-bloc content-wrapper no-bg col-md-10 sub-h1">
+								<p>Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre  métiers qui constituent ses marques: </p>
 							</div>
 							
 							<div class="row content-bloc  wow fadeIn">
 								<div class="col-md-6 matchHeight">
 									<div class="holder-parent">
 										<div class="image-holder" style="background-image: url('assets/img/content/7.jpg');">
-											<img src="assets/img/content/7.jpg" alt="image">
 										</div>
 									</div>
 								</div>
@@ -78,7 +101,7 @@
 										</div>
 										
 										<div class="text">
-											<h4><b>Arma Enegry</b></h4>
+											<h4><b>ARMA ENERGY</b></h4>
 											
 											<p>Vous conseille et vous accompagne afin d’adopter les meilleures solutions en matière d’éclairage public. Qualité, maintenance et gains énergétiques.</p>
 										</div>
@@ -116,7 +139,6 @@
 								<div class="col-md-6 matchHeight">
 									<div class="holder-parent">
 										<div class="image-holder" style="background-image: url('assets/img/content/8.jpg');">
-											<img src="assets/img/content/8.jpg" alt="image">
 										</div>
 									</div>
 								</div>

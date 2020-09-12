@@ -48,10 +48,7 @@
                                 <div class="container">
                                     <h1>Engagés pour l’avenir de nos villes</h1>
                                     <p class="sub col-md-8 offset-md-2">
-                                        Depuis la création de ARMA Environnement nous avons développé une expertise particulière en
-                                        services à la ville. Forts d’un savoir-faire éprouvé sur l’ensemble du
-                                        territoire, nous comprenons parfaitement les enjeux auxquels sont
-                                        confrontées les villes d’aujourd’hui.
+                                        Depuis sa création, ARMA Environnement a développé une expertise particulière en  services à la Ville. Forte d’un savoir-faire éprouvé sur l’ensemble du territoire, ARMA Environnement comprend parfaitement les enjeux auxquels sont confrontées les Villes d’aujourd’hui.
                                     </p>
                                     <a href="#" class="side-menu-toggle btn blue-btn">Découvrir</a>
                                 </div>

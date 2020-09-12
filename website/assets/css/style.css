@@ -1802,6 +1802,10 @@ li.breadcrumb-item.active {
     padding-bottom: 20px;
 }
 
+.pb-40 {
+    padding-bottom: 40px;
+}
+
 .page-banner.big {
     min-height: 500px;
 }

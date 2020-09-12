@@ -60,7 +60,9 @@
                                 </li>
                                 <li class="nav-item"><a class="nav-link menu-child" href="numbers.php">Nos chiffres clés</a>
                                 </li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="mission.php">Notre mission & valeurs</a></li>
+                                <li class="nav-item"><a class="nav-link menu-child" href="mission.php">Notre mission</a></li>
+
+                                <li class="nav-item"><a class="nav-link menu-child" href="valeurs.php">Nos valeurs</a></li>
                                 <li class="nav-item"><a class="nav-link menu-child" href="references.php">Nos références</a></li>
                             </ul>
                         </li>
