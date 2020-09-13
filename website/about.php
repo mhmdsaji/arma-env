@@ -15,19 +15,13 @@
             <div id="page-wrapper">
 				<div class="overlay">
 					<div class="overlay-inner">
-						<img src="assets/img/overlays/1.jpg" alt="background">
-						
-						<img src="assets/img/overlays/2.jpg" alt="background">
-						
-						<img src="assets/img/overlays/3.jpg" alt="background">
-						
-						<img src="assets/img/overlays/4.jpg" alt="background">
-						
-						<img src="assets/img/overlays/7.jpg" alt="background">
-						
-						<img src="assets/img/overlays/10.jpg" alt="background">
-					</div>
-					
+						<img src="assets/img/overlays/1.jpg" alt="background">						
+						<img src="assets/img/overlays/2.jpg" alt="background">						
+						<img src="assets/img/overlays/3.jpg" alt="background">						
+						<img src="assets/img/overlays/4.jpg" alt="background">						
+						<img src="assets/img/overlays/7.jpg" alt="background">						
+						<img src="assets/img/overlays/10.jpg" alt="background">					
+					</div>					
 					<div class="overlay-inner bg-secondary"></div>
 				</div>
 				

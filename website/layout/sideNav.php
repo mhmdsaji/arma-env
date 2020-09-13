@@ -114,7 +114,7 @@
                         </ul>
 
                     </li>
-                <!--<li class="nav-item menu-parent">
+                <li class="nav-item menu-parent">
                     <button class="nav-link title scroll">Nos highlights</button>
 
                     <ul class="menu-children">
@@ -123,7 +123,7 @@
                         <li class="nav-item"><a class="nav-link menu-child" href="communiques.php">Communiqués</a></li>
                         <li class="nav-item"><a class="nav-link menu-child" href="blog.php">Blog ARMA</a></li>
                     </ul>
-                </li>-->
+                </li>
 
                 <li class="nav-item menu-parent">
                     <button class="nav-link title scroll">Carrières</button>

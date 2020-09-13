@@ -1404,14 +1404,17 @@ li.breadcrumb-item.active {
 
 .blue-btn:hover,
 .blue-btn:focus {
-	background-color: #eee;
+	background-color: #fff;
 	border-color: #fff;
 	color: #1f115d;
 }
 
 .card {
 	border-width: 0;
-	background: rgba(255, 255, 255, .9);
+	background: rgba(255, 255, 255, 1);
+	border-radius: 10px;
+	position: relative;
+	overflow: hidden;
 }
 
 .card .blue-btn:hover,
@@ -1421,20 +1424,41 @@ li.breadcrumb-item.active {
 }
 
 .card .card-text {
-	font-weight: normal;
-	font-size: 14px;
-	line-height: 1.5em;
+	font-weight: 300;
+	font-size: 15px;
+	line-height: 24px;
 }
 
 .card-deck.large-right .card:first-child,
 .card-deck.large-left .card:nth-child(2){
 	flex-grow: 2;
 }
+
 .card-footer {
 	background: transparent;
 	border: 0;
 	padding: 0 1.25rem 1.25rem 1.25rem;
 	text-align: right;
+}
+
+.card::after {
+	content: "";
+	position: absolute;
+	background: #dd4d3a;
+	display: inline-block;
+	width: 0;
+	height: 3px;
+	bottom: 0;
+	left: 0;
+	-webkit-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
+	-o-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
+	transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.card:hover::after,
+.card:focus::after,
+.card.active::after {
+	width: 100%;
 }
 
 .text-bloc {
@@ -1866,6 +1890,10 @@ aside .arma-stats {
 	margin-bottom: 30px;
 }
 
+.article-wrapper {
+    margin-bottom: 4rem;
+}
+
 /*Animate css transition delay*/
 .wow__delay-1 {
 	animation-delay: 400ms;
@@ -2163,5 +2191,9 @@ Media Queries
 	.content-bloc .image-holder img {
 		margin: 0 0 20px;
 		height: auto !important;
+	}
+
+	.article-wrapper {
+		margin-bottom: 1rem;
 	}
 }
