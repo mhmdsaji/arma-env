@@ -32,8 +32,11 @@
         <!-- End side nav -->
         <div id="page-wrapper">
             <div class="overlay">
-                <div class="overlay-inner" style="background-image: url(assets/img/home_casablanca.jpg);">
+                <div class="overlay-inner">
                     <img src="assets/img/home_casablanca.jpg" alt="background" style="display: none;">
+                    <video autoplay muted loop>
+                        <source src="assets/videos/Casablanca.mp4" type="video/mp4">
+                    </video>
                 </div>
                 <div class="overlay-inner bg-primary"></div>
             </div>
@@ -46,29 +49,25 @@
                         <div class="home-banner" id="home-banner">
                             <div class="home-banner-wrap">
                                 <div class="container">
-                                    <h1>Engagés pour l’avenir de nos villes</h1>
-                                    <p class="sub col-md-8 offset-md-2">
-                                        Depuis sa création, ARMA Environnement a développé une expertise particulière en  services à la Ville. Forte d’un savoir-faire éprouvé sur l’ensemble du territoire, ARMA Environnement comprend parfaitement les enjeux auxquels sont confrontées les Villes d’aujourd’hui.
-                                    </p>
-                                    <a href="#" class="side-menu-toggle btn blue-btn">Découvrir</a>
+                                    <h1>Engagés pour l'avenir de <br>nos villes et collectivités</h1>
+                                    <div class="home-arma-stats">
+                                        <div class="home-arma-stat">
+                                            <span class="number"><span class="number-scroll">27</span> villes</span>
+                                            <br />dans tout le royaume
+                                        </div>
+                                        <div class="home-arma-stat">                                        
+                                            <span class="number">+3 millions</span>
+                                            <br />d'habitants desservis
+                                        </div>
+                                        <div class="home-arma-stat">
+                                            <span class="number"><span class="number-scroll">6500</span></span>
+                                            <br />collaborateurs
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="footer-news">
-                    <h5 class="news-heading"><b>Arma</b><br/>News</h5>
-                    <ul class="arma-news" id="arma-news">
-                        <li>
-                            <a href="#">1. ARMA Environnement lance une campagne de dépistage Covid-19 massif de ses collaborateurs.</a>
-                        </li>
-                        <li>
-                            <a href="#">2. ARMA Environnement renforce les mesures d'hygiène et de sensibilisation anti COVID-19 au profit de ses collaborateurs.</a>
-                        </li>
-                        <li>
-                            <a href="#">3. ARMA Environnement lance des opérations de désinfection de grande envérgure dans les grands villes du Maroc.</a>
-                        </li>
-                    </ul>
                 </div>
             </div>
         </div>

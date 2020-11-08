@@ -90,7 +90,6 @@ jQuery(function ($) {
           Counting Number Initializing
       ====================================== */  
 
-  if($(".arma-stats").length) {
     $('.number-scroll').each(function () {
       $(this).prop('Counter',0).animate({
           Counter: $(this).text()
@@ -102,18 +101,17 @@ jQuery(function ($) {
           }
       });
     });
-  }
 
 /* =====================================
       page overlay slider 
   ====================================== */
-  $(".overlay-inner").slick({
-    autoplay: true,
-    arrows: false,
-    fade: true,
-    pauseOnHover: false,
-    speed: 2000
-  });
+  // $(".overlay-inner").slick({
+  //   autoplay: true,
+  //   arrows: false,
+  //   fade: true,
+  //   pauseOnHover: false,
+  //   speed: 2000
+  // });
 
   /* =====================================
       references slider 

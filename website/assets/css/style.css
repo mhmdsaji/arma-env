@@ -635,7 +635,6 @@ General
 }
 
 .overlay-inner {
-	background: rgb(7, 7, 51);
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: fixed;
@@ -647,11 +646,9 @@ General
 }
 
 .bg-primary {
-/*background: rgb(9,9,48);
-background: linear-gradient(225deg, rgba(9,9,48,1) 0%, rgba(33,33,112,1) 75%, rgba(33,33,112,1) 100%);*/
-background: rgb(7, 7, 51);
-background: linear-gradient(225deg, rgba(7, 7, 51, 1) 0%, rgba(53, 53, 133, 1) 75%, rgba(53, 53, 133, 1) 100%);
-}
+	background-color: transparent !important;
+	background: rgb(0,0,0);
+	background: linear-gradient(54deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.24443280730260852) 90%);}
 
 .bg-image-holder img {
 	display: none !important;
@@ -704,6 +701,7 @@ background: linear-gradient(225deg, rgba(7, 7, 51, 1) 0%, rgba(53, 53, 133, 1) 7
     }
 
     .home-banner h1 {
+    	font-size: 60px;
     	color: white;
     	text-align: center;
     	margin-bottom: 20px;
@@ -1780,7 +1778,6 @@ li.breadcrumb-item.active {
 	background-color: rgba(44, 216, 199, 1);
 }
 
-
 .arma-stats.large {
 	flex-basis: 65%;
 }
@@ -1801,6 +1798,26 @@ li.breadcrumb-item.active {
 .arma-stats .light {
 	font-weight: 100;
 	font-size: 3.875rem;
+}
+
+.home-arma-stats {
+    padding-top: 15px;
+    margin-top: 40px;
+    border-top: 1px solid #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home-arma-stat .number {
+    font-size: 52px;
+    font-weight: 400;
+}
+
+.home-arma-stat {
+    font-size: 24px;
+    line-height: 1.2;
+    padding: 20px;
 }
 
 .page-banner {
@@ -2019,13 +2036,14 @@ Media Queries
 		padding: 10rem 15px;
 	}
 
-	.content-bloc .image-holder {
-		background: none !important;
+	.content-bloc .holder-parent {
+		height: auto;
+		margin: 30px 0 0;
 	}
 
 	.content-bloc .image-holder img {
 		width: 100%;
-		margin: 30px 0;
+		height: auto;
 	}
 
 	.content-bloc.reverse-mobile {
@@ -2078,6 +2096,15 @@ Media Queries
 
 	.references-slider {
 		margin: 20px 0;
+	}
+
+	.overlay-inner {
+		background-image: url(../img/overlays/1.jpg);
+		background-position: center;
+	}
+
+	.overlay-inner img {
+		display: none;
 	}
 }
 
@@ -2163,16 +2190,7 @@ Media Queries
 	}
 	.footer-news {
 		display: none;
-	}
-
-	.overlay-inner {
-		background: rgb(7, 7, 51) url(http://localhost:8080/arma-env/website/assets/img/overlays/1.jpg);
-		background-position: center;
-	}
-
-	.overlay-inner img {
-		display: none;
-	}
+	}	
 
 	.arma-stats-group {
 		margin-bottom: 20px;
@@ -2188,9 +2206,12 @@ Media Queries
 		margin-top: 0;
 	}
 
-	.content-bloc .image-holder img {
-		margin: 0 0 20px;
-		height: auto !important;
+	.content-bloc .holder-parent {
+		margin: 30px 0;
+	}
+
+	.content-bloc .image-holder {
+		background: none;
 	}
 
 	.article-wrapper {
