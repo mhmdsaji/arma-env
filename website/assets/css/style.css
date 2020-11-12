@@ -645,6 +645,14 @@ General
 	opacity: 0.9;
 }
 
+.overlay.home-overlay {
+	position: absolute;
+}
+
+.home-overlay .overlay-inner {
+	position: absolute;
+}
+
 .bg-primary {
 	background-color: transparent !important;
 	background: rgb(0,0,0);
@@ -1537,9 +1545,6 @@ li.breadcrumb-item.active {
 	box-shadow: 0px 3px 6px #00000029;
 }
 
-.content-bloc .image-holder:hover {
-}
-
 .content-bloc .holder-parent {
 	height: 100%;
 	overflow: hidden;
@@ -1730,7 +1735,6 @@ li.breadcrumb-item.active {
 	color: #FFC400 !important;
 }
 
-
 /* Arma Stats */
 .arma-stats {
 	font-size: 1.3rem;
@@ -1839,12 +1843,20 @@ li.breadcrumb-item.active {
     margin-left: 20px;
 }
 
+.mb-100 {	
+	margin-bottom: 100px;
+}
+
 .pb-20 {
     padding-bottom: 20px;
 }
 
 .pb-40 {
     padding-bottom: 40px;
+}
+
+.pb-80 {
+    padding-bottom: 80px;
 }
 
 .page-banner.big {
@@ -1910,6 +1922,206 @@ aside .arma-stats {
 .article-wrapper {
     margin-bottom: 4rem;
 }
+
+/* Sections */
+.full {
+    min-height: 100vh;
+}
+
+.bg-blue {
+    background-color: #120938;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section:not(.full) {
+	padding: 100px 0;
+}
+
+.white-text {
+    color: #fff;
+}
+
+.section-title {
+    font-size: 30px;
+    opacity: .5;
+    margin-bottom: 100px;
+}
+
+.section-subtitle {
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.logos-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logos-list img {
+    width: 254px;
+}
+
+.logos-list img:hover {
+    opacity: .8;
+}
+
+.section p {
+    font-size: 20px;
+    opacity: .5;
+    line-height: 28px;
+}
+
+.icons-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.icons-list a {
+	background-color: #120938;
+	width: 160px;
+	height: 160px;
+	flex: 0 0 160px;
+	max-width: 160px;
+	gap: 30px;
+	color: #fff;
+	text-decoration: none;
+}
+
+.icons-list a:hover {
+    opacity: .8;
+}
+
+.icons-list a span {
+	font-size: 18px;
+	font-weight: bold;
+	padding: 20px;
+	display: block;
+}
+
+.icons-list .d-flex {
+    align-items: flex-end;
+}
+
+.img-holder  {
+    overflow: hidden;
+}
+
+.img-holder img {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.img-holder:hover img {
+    transform: scale(1.1);
+}
+
+.solution {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 70px;
+    text-align: left;
+}
+
+.solution-img, 
+.solution-details {
+    width: 100%;
+    flex: 0 50%;
+    max-width: 50%;
+}
+
+.solution-details img {
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.solution-img {
+    margin-top: -35px;
+}
+
+.solution-details .solution-desc {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 25px;
+}
+
+.read-more {
+    font-size: 18px;
+    font-weight: bold;
+    color: #120938;
+    text-decoration: none;
+}
+
+.read-more:active, 
+.read-more:hover {
+    color: #F83834;
+}
+
+.big-blockquote {
+    font-size: 48px;
+    line-height: 58px;
+}
+
+.arma-project .title {
+    font-size: 20px;
+    line-height: 28px;
+    padding: 15px 50px 30px;
+}
+
+.arma-project .title a {
+    color: rgba(0, 0, 0, .9);
+    text-decoration: none;
+}
+
+.arma-project .title a:hover, 
+.arma-project .title a:active {
+    color: #F83834;
+}
+
+/* SLick */
+.slick-next:before {
+    content: "\25B6";
+}
+
+.slick-prev:before {
+    content: "\25C0";
+}
+
+.slick-dots li button:before {
+    font-size: 14px;
+    color: #fff;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #fff;
+}
+
+.slick-dots {
+    bottom: -40px;
+}
+
+.slick-prev:before, .slick-next:before {
+    font-size: 30px;
+}
+
+.slick-prev {
+    left: -30px;
+}
+
+.arma-solution {
+    margin: 0 15px;
+}
+
 
 /*Animate css transition delay*/
 .wow__delay-1 {

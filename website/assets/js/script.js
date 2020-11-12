@@ -76,14 +76,14 @@ jQuery(function ($) {
   });
 
   /* =====================================
-            Footer news
+            Arma Solutions
          ====================================== */
-  $("#arma-news").slick({
-    slidesToShow: 1,
+  $("#arma-solutions").slick({
+    slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 3000,
-    vertical: true
+    dots: true
   });
 
   /* =====================================
@@ -105,13 +105,13 @@ jQuery(function ($) {
 /* =====================================
       page overlay slider 
   ====================================== */
-  // $(".overlay-inner").slick({
-  //   autoplay: true,
-  //   arrows: false,
-  //   fade: true,
-  //   pauseOnHover: false,
-  //   speed: 2000
-  // });
+  $(".main").not(".home").find(".overlay-inner").slick({
+    autoplay: true,
+    arrows: false,
+    fade: true,
+    pauseOnHover: false,
+    speed: 2000
+  });
 
   /* =====================================
       references slider 

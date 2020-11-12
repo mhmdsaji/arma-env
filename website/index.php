@@ -25,13 +25,13 @@
 <!-- Preloader End -->
 
 <!--Arma main-->
-<div class="main">
+<div class="main home">
     <div class="row no-gutters">
         <!-- Side nav -->
         <?php include 'layout/sideNav.php';?>
         <!-- End side nav -->
         <div id="page-wrapper">
-            <div class="overlay">
+            <div class="overlay home-overlay">
                 <div class="overlay-inner">
                     <img src="assets/img/home_casablanca.jpg" alt="background" style="display: none;">
                     <video autoplay muted loop>
@@ -67,6 +67,180 @@
                                 </div>
                             </div>
                         </div>
+                        <section class="section full bg-blue white-text text-center">
+                            <div class="container wow fadeIn">
+                                <h2 class="section-title">QUI SOMMES-NOUS ?</h2>
+                                <h3 class="section-subtitle">Premier opérateur des services aux collectivitéset aux entreprises au Maroc</h3>
+                                <p class="mb-100">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. <br>Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques.</p>
+                                <div class="logos-list">
+                                    <a href="#"><img src="assets/img/arma-env.jpg" alt="ARMA Environnement"></a>
+                                    <a href="#"><img src="assets/img/arma-energy.jpg" alt="ARMA Energy"></a>
+                                    <a href="#"><img src="assets/img/arma-water.jpg" alt="ARMA Water"></a>
+                                    <a href="#"><img src="assets/img/axial-facilities.jpg" alt="Axial Facilities"></a>
+                                </div>
+                            </div>
+                        </section>
+                        <section class="section full bg-white">
+                            <div class="container wow fadeIn">
+                                <h2 class="section-title">NOS FORCES</h2>
+                                <div class="row">
+                                    <div class="col-6 pr-md-5">
+                                        <h3 class="section-subtitle">Une organisation globale et intégrée pour créer de la valeur</h3>
+                                        <p>Pour ARMA Environnement, la qualité est un engagement de chaque instant. Le bien-être des habitants est une priorité absolue qui guide chacune de nos actions. Ainsi, notre objectif est de devenir le partenaire de référence des communes et de devancer leurs attentes en matière d’environnement, de services et d’aménagements urbains.</p>
+                                    </div>
+                                    <div class="col-6">
+                                        <div class="icons-list">
+                                            <a href="#"><img src="assets/img/icons/system.jpg" alt="Systems"></a>
+                                            <a href="#"><img src="assets/img/icons/savoir.jpg" alt="Expertise"></a>
+                                            <a href="#"><img src="assets/img/icons/team.jpg" alt="Team"></a>
+                                            <a href="#"><img src="assets/img/icons/organization.jpg" alt="Organization"></a>
+                                            <a href="#"><img src="assets/img/icons/logo.jpg" alt="ARMA"></a>
+                                            <a href="#"><img src="assets/img/icons/quality.jpg" alt="Quality"></a>
+                                            <a href="#"><img src="assets/img/icons/agility.jpg" alt="Agility"></a>
+                                            <a href="#"><img src="assets/img/icons/tech.jpg" alt="Technology"></a>
+                                            <a class="d-flex" href="#">
+                                                <span>En savoir plus sur nos forces <i class="las la-arrow-right"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section class="section full bg-blue white-text text-center">
+                            <div class="container wow fadeIn">
+                                <h2 class="section-title">NOS SOLUTIONS</h2>
+                                <h3 class="section-subtitle">De la stratégie à la mise en œuvre de solutions aux collectivités et industries optimales et adaptées</h3>
+                                <p class="mb-100">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                                <div class="arma-solutions" id="arma-solutions">
+                                    <div class="arma-solution"><a href="#"><div class="img-holder"><img src="assets/img/content/solutions/100.jpg" alt="ARMA Environnement"></div></a></div>                                   <div class="arma-solution"><a href="#"><div class="img-holder"><img src="assets/img/content/solutions/102.jpg" alt="ARMA Environnement"></div></a></div>                                    <div class="arma-solution"><a href="#"><div class="img-holder"><img src="assets/img/content/solutions/101.jpg" alt="ARMA Environnement"></div> </a></div>                                   <div class="arma-solution"><a href="#"><div class="img-holder"><img src="assets/img/content/solutions/100.jpg" alt="ARMA Environnement"></a></div></div>                                    <div class="arma-solution"><a href="#"><div class="img-holder"><img src="assets/img/content/solutions/101.jpg" alt="ARMA Environnement"></div></a></div>
+                                </div>
+                            </div>
+                        </section>
+                        <section class="section bg-white text-center">
+                            <div class="container wow fadeIn">
+                                <h2 class="section-title">NOS GRANDS PROJETS</h2>
+                                <h3 class="section-subtitle">La digitalisation au service de votre performance</h3>
+                                <p class="pb-80">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis.</p>
+                                <div class="row">
+                                <div class="col-6">
+                                        <div class="solution">
+                                            <div class="solution-img">
+                                                <img src="assets/img/digital/mystaff-app.jpg" alt="My staff App">
+                                            </div>
+                                            <div class="solution-details">
+                                                <img src="assets/img/digital/mystaff-logo.jpg" alt="My staff logo">
+                                                <p class="solution-desc">Le logiciel de gestion développé par ARMA pour centraliser les données d’assiduité et de performance de son personnel.</p>
+                                                <a class="read-more" href="#">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                    <div class="col-6">
+                                        <div class="solution">
+                                            <div class="solution-img">
+                                                <img src="assets/img/digital/clean-app.jpg" alt="Clean+ App">
+                                            </div>
+                                            <div class="solution-details">
+                                                <img src="assets/img/digital/clean-logo.jpg" alt="Clean+ logo">
+                                                <p class="solution-desc">Application, entièrement configurée pour les besoins de ARMA Holding, permet le traitement en temps réel de tous les problèmes et réclamations effectuées en interne.</p>
+                                                <a class="read-more" href="#">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                    <div class="col-6">
+                                        <div class="solution mb-0">
+                                            <div class="solution-img">
+                                                <img src="assets/img/digital/eval-app.jpg" alt="Eval 360 App">
+                                            </div>
+                                            <div class="solution-details">
+                                                <img src="assets/img/digital/eval-logo.jpg" alt="Eval 360 logo" style="height: 85px;">
+                                                <p class="solution-desc">Lorem lorem ... détecter les non conformités et identifier les problèmes terrain. La mise en place rapide d’actions contribuent fortement, lorem lorem ...</p>
+                                                <a class="read-more" href="#">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                    <div class="col-6">
+                                        <div class="solution mb-0">
+                                            <div class="solution-img">
+                                                <img src="assets/img/digital/ask-app.jpg" alt="Ask App">
+                                            </div>
+                                            <div class="solution-details">
+                                                <img src="assets/img/digital/ask-logo.jpg" alt="Ask logo">
+                                                <p class="solution-desc">Une application responsive et adaptée à tous les supports, qui permet la saisie, l’enregistrement et la gestion des réclamations adressées aux différentes filiales du Groupe ARMA.</p>
+                                                <a class="read-more" href="#">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>                                    
+                                </div>
+                            </div>
+                        </section>
+                        <section class="section bg-blue white-text text-center">
+                            <div class="container">
+                                <blockquote class="big-blockquote">Nous accompagnons les villes à conjuguer croissance urbaine et cadre de vie sain.</blockquote>
+                            </div>
+                        </section>
+                        <section class="section bg-white text-center">
+                            <div class="container wow fadeIn">
+                                <h2 class="section-title">NOS GRANDS PROJETS</h2>
+                                <h3 class="section-subtitle">Histoire de nos plus belles réussites</h3>
+                                <p class="pb-80">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis.</p>       
+                                <div class="row masonry-grid">
+                                <div class="col-sm-4 masonry-column">
+                                        <div class="arma-project">
+                                            <div class="img-holder">
+                                                <a href="#"><img src="assets/img/grands-projets/casablanca.jpg" alt="Casa"></a>
+                                            </div>
+                                            <h3 class="title"><a href="#">Propreté de la métropole Casablanca</a></h3>
+                                        </div>
+                                        <div class="arma-project">
+                                            <div class="img-holder">
+                                                <a href="#"><img src="assets/img/grands-projets/jadida.jpg" alt="El Jadida"></a>
+                                            </div>
+                                            <h3 class="title"><a href="#">Propreté de la ville d'El Jadida</a></h3>
+                                        </div>                                        
+                                    </div>
+                                    <div class="col-sm-4 masonry-column">
+                                        <div class="arma-project">
+                                            <div class="img-holder">
+                                                <a href="#"><img src="assets/img/grands-projets/rabat-2.jpg" alt="Collecte des déchets de la ville de Rabat"></a>
+                                            </div>
+                                            <h3 class="title"><a href="#">Collecte des déchets de la ville de Rabat</a></h3>
+                                        </div>
+                                        <div class="arma-project">
+                                            <div class="img-holder">
+                                                <a href="#"><img src="assets/img/grands-projets/ifrane.jpg" alt="Maintenance des espaces verts de la ville de Ifrane"></a>
+                                            </div>
+                                            <h3 class="title"><a href="#">Maintenance des espaces verts de la ville de Ifrane</a></h3>
+                                        </div>    
+                                        <div class="arma-project">
+                                            <div class="img-holder">
+                                                <a href="#"><img src="assets/img/grands-projets/rabat-2.jpg" alt="Maintenance de l'éclairage public de la ville de Rabat"></a>
+                                            </div>
+                                            <h3 class="title"><a href="#">Maintenance de l'éclairage public de la ville de Rabat</a></h3>
+                                        </div>                                        
+                                    </div>
+                                    <div class="col-sm-4 masonry-column">
+                                        <div class="arma-project">
+                                            <div class="img-holder">
+                                                <a href="#"><img src="assets/img/grands-projets/kesh.jpg" alt="Propreté de la ville de Marrakech"></a>
+                                            </div>
+                                            <h3 class="title"><a href="#">Propreté de la ville de Marrakech</a></h3>
+                                        </div>    
+                                        <div class="arma-project">
+                                            <div class="img-holder">
+                                                <a href="#"><img src="assets/img/grands-projets/ifrane-2.jpg" alt="Propreté de la province de Ifrane"></a>
+                                            </div>
+                                            <h3 class="title"><a href="#">Propreté de la province de Ifrane</a></h3>
+                                        </div>    
+                                        <div class="arma-project">
+                                            <div class="img-holder">
+                                                <a href="#"><img src="assets/img/grands-projets/industriel.jpg" alt="Gestion des déchets industriels"></a>
+                                            </div>
+                                            <h3 class="title"><a href="#">Gestion des déchets industriels</a></h3>
+                                        </div>                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
                     </div>
                 </div>
             </div>
