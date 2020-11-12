@@ -9,7 +9,7 @@ $(window).on("load", function () {
 
   $(".side-menu").removeClass("hidden");
   setTimeout(function () {
-    $("#loader").fadeOut(700);
+    $("#loader").fadeOut("slow");
   }, 1000);
 });
 

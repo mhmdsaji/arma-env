@@ -215,7 +215,8 @@ General
     	background-color: #1f115d;
     	position: fixed;
     	z-index: 111;
-    	height: 100vh;
+		height: 100vh;
+		top: 0;
     	display: flex;
     	flex-direction: column;
     	justify-content: space-between;
@@ -1280,6 +1281,11 @@ Footer
 	height: 100vh;
 }
 
+.home #page-wrapper {
+	width: 100%;
+	height: 100%;
+}
+
 .logo {
 	z-index: 1;
 	max-width: 150px;
@@ -2086,6 +2092,51 @@ aside .arma-stats {
 .arma-project .title a:hover, 
 .arma-project .title a:active {
     color: #F83834;
+}
+
+.arma-project .img-holder {
+	border-radius: 8px;
+}
+
+
+/* Footer */
+footer {
+    background-color: #120938;
+    padding: 90px 0 80px;
+    color: #fff;
+}
+
+.footer-title {
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+.footer-wrap {
+    width: 1260px;
+    margin: 0 auto;
+    padding-right: 15px;
+	padding-left: 15px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer-list {
+    list-style: none;
+}
+
+.footer-list li {
+    font-size: 16px;
+    line-height: 28px;
+    color: rgba(255, 255, 255, .5);
+}
+
+.footer-link:active, .footer-link:hover {
+    color: #fff;
+}
+
+.footer-link {
+    color: rgba(255, 255, 255, .5);
+    text-decoration: none;
 }
 
 /* SLick */

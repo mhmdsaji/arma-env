@@ -9,7 +9,7 @@
 <body data-spy="scroll" data-target=".navbar" data-offset="90">
 <!-- Preloader -->
 <!--START PAGE LOADER-->
-<div id="loader">
+<!-- <div id="loader">
     <div class="loader center-block">
     <!--
         <div class="inner one"></div>
@@ -20,7 +20,7 @@
             <img src="assets/img/logo-white.png" width="64" height="64" alt="" />
         </div>
     </div>
-</div>
+</div> -->
 <!--END PAGE LOADER-->
 <!-- Preloader End -->
 
@@ -49,8 +49,8 @@
                         <div class="home-banner" id="home-banner">
                             <div class="home-banner-wrap">
                                 <div class="container">
-                                    <h1>Engagés pour l'avenir de <br>nos villes et collectivités</h1>
-                                    <div class="home-arma-stats">
+                                    <h1 class="wow animated fadeIn" data-wow-delay=".6s">Engagés pour l'avenir de <br>nos villes et collectivités</h1>
+                                    <div class="home-arma-stats zoomIn wow animated" data-wow-delay=".4s">
                                         <div class="home-arma-stat">
                                             <span class="number"><span class="number-scroll">27</span> villes</span>
                                             <br />dans tout le royaume
