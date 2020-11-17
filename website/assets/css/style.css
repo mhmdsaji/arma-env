@@ -1954,8 +1954,13 @@ aside .arma-stats {
 
 .section-title {
     font-size: 30px;
-    opacity: .5;
+	color: rgba(0, 0, 0, .5);
     margin-bottom: 100px;
+}
+
+.section.white-text .section-title,
+.section.white-text p {
+	color: rgba(255 , 255, 255, .5);
 }
 
 .section-subtitle {
@@ -1979,8 +1984,8 @@ aside .arma-stats {
 
 .section p {
     font-size: 20px;
-    opacity: .5;
-    line-height: 28px;
+	line-height: 28px;
+	color: rgba(0, 0, 0, .5);
 }
 
 .icons-list {
