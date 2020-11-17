@@ -9,13 +9,13 @@
 <body data-spy="scroll" data-target=".navbar" data-offset="90">
 <!-- Preloader -->
 <!--START PAGE LOADER-->
-<!-- <div id="loader">
+<div id="loader">
     <div class="loader center-block">
         <div class="inner img_rot">
             <img src="assets/img/logo-white.png" width="64" height="64" alt="" />
         </div>
     </div>
-</div> -->
+</div>
 <!--END PAGE LOADER-->
 <!-- Preloader End -->
 
@@ -30,7 +30,7 @@
                 <div class="overlay-inner">
                     <img src="assets/img/home_casablanca.jpg" alt="background" style="display: none;">
                     <video autoplay muted loop>
-                        <source src="assets/videos/Casablanca.mp4" type="video/mp4">
+                        <source src="assets/videos/arma-video.mp4" type="video/mp4">
                     </video>
                 </div>
                 <div class="overlay-inner bg-primary"></div>
@@ -79,12 +79,12 @@
                             <div class="container">
                                 <h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS FORCES</h2>
                                 <div class="row">
-                                    <div class="col-6 pr-md-5 wow animated fadeInRight" data-wow-delay=".4s">
+                                    <div class="col-6 pr-md-5 wow animated fadeInLeft" data-wow-delay=".4s">
                                         <h3 class="section-subtitle">Une organisation globale et intégrée pour créer de la valeur</h3>
                                         <p>Pour ARMA Environnement, la qualité est un engagement de chaque instant. Le bien-être des habitants est une priorité absolue qui guide chacune de nos actions. Ainsi, notre objectif est de devenir le partenaire de référence des communes et de devancer leurs attentes en matière d’environnement, de services et d’aménagements urbains.</p>
                                     </div>
-                                    <div class="col-6">
-                                        <div class="icons-list fadeInLeft" data-wow-delay=".6s">
+                                    <div class="col-6 wow animated fadeInRight" data-wow-delay=".4s"">
+                                        <div class="icons-list">
                                             <a href="#"><img src="assets/img/icons/system.jpg" alt="Systems"></a>
                                             <a href="#"><img src="assets/img/icons/savoir.jpg" alt="Expertise"></a>
                                             <a href="#"><img src="assets/img/icons/team.jpg" alt="Team"></a>
@@ -185,7 +185,7 @@
                         </section>
                         <section class="section bg-blue white-text text-center">
                             <div class="container">
-                                <blockquote class="big-blockquote wow animated ZoomIn" data-wow-delay=".4s">Nous accompagnons les villes à conjuguer croissance urbaine et cadre de vie sain.</blockquote>
+                                <blockquote class="big-blockquote wow animated zoomIn" data-wow-delay=".4s">Nous accompagnons les villes à conjuguer croissance urbaine et cadre de vie sain.</blockquote>
                             </div>
                         </section>
                         <section class="section bg-white text-center">
@@ -201,7 +201,7 @@
                                             </div>
                                             <h3 class="title"><a href="#">Propreté de la métropole Casablanca</a></h3>
                                         </div>
-                                        <div class="arma-project wow animated fadeIn" data-wow-delay="1.4s">
+                                        <div class="arma-project wow animated fadeIn" data-wow-delay=".95s">
                                             <div class="img-holder">
                                                 <a href="#"><img src="assets/img/grands-projets/jadida.jpg" alt="El Jadida"></a>
                                             </div>
@@ -209,19 +209,19 @@
                                         </div>                                        
                                     </div>
                                     <div class="col-sm-4 masonry-column">
-                                        <div class="arma-project wow animated fadeIn" data-wow-delay="1s">
+                                        <div class="arma-project wow animated fadeIn" data-wow-delay=".9s">
                                             <div class="img-holder">
                                                 <a href="#"><img src="assets/img/grands-projets/rabat-2.jpg" alt="Collecte des déchets de la ville de Rabat"></a>
                                             </div>
                                             <h3 class="title"><a href="#">Collecte des déchets de la ville de Rabat</a></h3>
                                         </div>
-                                        <div class="arma-project wow animated fadeIn" data-wow-delay="1.6s">
+                                        <div class="arma-project wow animated fadeIn" data-wow-delay="1s">
                                             <div class="img-holder">
                                                 <a href="#"><img src="assets/img/grands-projets/ifrane.jpg" alt="Maintenance des espaces verts de la ville de Ifrane"></a>
                                             </div>
                                             <h3 class="title"><a href="#">Maintenance des espaces verts de la ville de Ifrane</a></h3>
                                         </div>    
-                                        <div class="arma-project wow animated fadeIn" data-wow-delay="2s">
+                                        <div class="arma-project wow animated fadeIn" data-wow-delay="1s">
                                             <div class="img-holder">
                                                 <a href="#"><img src="assets/img/grands-projets/rabat-2.jpg" alt="Maintenance de l'éclairage public de la ville de Rabat"></a>
                                             </div>
@@ -229,19 +229,19 @@
                                         </div>                                        
                                     </div>
                                     <div class="col-sm-4 masonry-column">
-                                        <div class="arma-project wow animated fadeIn" data-wow-delay="1.2s">
+                                        <div class="arma-project wow animated fadeIn" data-wow-delay=".9s">
                                             <div class="img-holder">
                                                 <a href="#"><img src="assets/img/grands-projets/kesh.jpg" alt="Propreté de la ville de Marrakech"></a>
                                             </div>
                                             <h3 class="title"><a href="#">Propreté de la ville de Marrakech</a></h3>
                                         </div>    
-                                        <div class="arma-project wow animated fadeIn" data-wow-delay="1.8s">
+                                        <div class="arma-project wow animated fadeIn" data-wow-delay="1.05s">
                                             <div class="img-holder">
                                                 <a href="#"><img src="assets/img/grands-projets/ifrane-2.jpg" alt="Propreté de la province de Ifrane"></a>
                                             </div>
                                             <h3 class="title"><a href="#">Propreté de la province de Ifrane</a></h3>
                                         </div>    
-                                        <div class="arma-project wow animated fadeIn" data-wow-delay="2.2s">
+                                        <div class="arma-project wow animated fadeIn" data-wow-delay="1.15s">
                                             <div class="img-holder">
                                                 <a href="#"><img src="assets/img/grands-projets/industriel.jpg" alt="Gestion des déchets industriels"></a>
                                             </div>
