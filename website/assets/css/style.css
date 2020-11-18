@@ -710,7 +710,7 @@ General
     }
 
     .home-banner h1 {
-    	font-size: 60px;
+    	font-size: 3.125rem;
     	color: white;
     	text-align: center;
     	margin-bottom: 20px;
@@ -1820,7 +1820,7 @@ li.breadcrumb-item.active {
 }
 
 .home-arma-stat .number {
-    font-size: 52px;
+    font-size: 2.5rem;
     font-weight: 400;
 }
 
@@ -1851,6 +1851,10 @@ li.breadcrumb-item.active {
 
 .mb-100 {	
 	margin-bottom: 100px;
+}
+
+.mb-50 {	
+	margin-bottom: 50px;
 }
 
 .pb-20 {
@@ -1945,17 +1949,25 @@ aside .arma-stats {
 }
 
 .section:not(.full) {
-	padding: 100px 0;
+	padding: 80px 0;
 }
 
 .white-text {
     color: #fff;
 }
 
+.section.has-bg {
+    background-repeat: no-repeat;
+	background-size: cover;
+	padding: 80px 0;
+    align-items: flex-start;
+}
+
 .section-title {
-    font-size: 30px;
-	color: rgba(0, 0, 0, .5);
-    margin-bottom: 100px;
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, .5);
+	margin-bottom: 50px;
+	text-transform: uppercase;
 }
 
 .section.white-text .section-title,
@@ -1964,18 +1976,24 @@ aside .arma-stats {
 }
 
 .section-subtitle {
-    font-size: 40px;
-    margin-bottom: 40px;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.section.has-bg .section-subtitle {
+	font-size: 2.5rem;
+	line-height: 58px;
+	font-weight: 300;
 }
 
 .logos-list {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .logos-list img {
-    width: 254px;
+    width: 200px;
 }
 
 .logos-list img:hover {
@@ -1983,9 +2001,9 @@ aside .arma-stats {
 }
 
 .section p {
-    font-size: 20px;
-	line-height: 28px;
-	color: rgba(0, 0, 0, .5);
+    font-size: 1rem;
+    line-height: 28px;
+    color: rgba(0, 0, 0, .5);
 }
 
 .icons-list {
@@ -1998,10 +2016,10 @@ aside .arma-stats {
 
 .icons-list a {
 	background-color: #120938;
-	width: 160px;
-	height: 160px;
-	flex: 0 0 160px;
-	max-width: 160px;
+	width: 145px;
+	height: 145px;
+	flex: 0 0 145px;
+	max-width: 145px;
 	gap: 30px;
 	color: #fff;
 	text-decoration: none;
@@ -2012,7 +2030,7 @@ aside .arma-stats {
 }
 
 .icons-list a span {
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: bold;
 	padding: 20px;
 	display: block;
@@ -2052,7 +2070,7 @@ aside .arma-stats {
 }
 
 .solution-details img {
-    height: 40px;
+    height: 30px;
     margin-bottom: 20px;
 }
 
@@ -2079,14 +2097,14 @@ aside .arma-stats {
 }
 
 .big-blockquote {
-    font-size: 48px;
+    font-size: 2.5rem;
     line-height: 58px;
 }
 
 .arma-project .title {
-    font-size: 20px;
+    font-size: 1rem;
     line-height: 28px;
-    padding: 15px 15px 30px;
+    padding: 15px 20px 30px;
 }
 
 .arma-project .title a {
@@ -2107,7 +2125,7 @@ aside .arma-stats {
 /* Footer */
 footer {
     background-color: #120938;
-    padding: 90px 0 80px;
+    padding: 50px 0;
     color: #fff;
 }
 
@@ -2127,6 +2145,7 @@ footer {
 
 .footer-list {
     list-style: none;
+    margin-bottom: 0;
 }
 
 .footer-list li {
@@ -2145,6 +2164,11 @@ footer {
 }
 
 /* SLick */
+#arma-solutions {
+    max-width: 1000px;
+    margin: 0 auto 30px;
+}
+
 .slick-next:before {
     content: "\25B6";
 }
@@ -2212,6 +2236,12 @@ Media Queries
 
 	.arma-stats .light {
 		font-size: 3rem;
+	}
+}
+
+@media (min-width: 1200px) {
+	.section .container {
+		max-width: 1070px;
 	}
 }
 

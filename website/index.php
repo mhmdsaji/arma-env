@@ -66,7 +66,7 @@
                             <div class="container">
                                 <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">QUI SOMMES-NOUS ?</h2>
                                 <h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Premier opérateur des services aux collectivitéset aux entreprises au Maroc</h3>
-                                <p class="mb-100 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. <br>Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques.</p>
+                                <p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. <br>Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques.</p>
                                 <div class="logos-list">
                                     <a href="#" class="wow animated fadeIn" data-wow-delay=".6s"><img src="assets/img/arma-env.jpg" alt="ARMA Environnement"></a>
                                     <a href="#" class="wow animated fadeIn" data-wow-delay=".8s"><img src="assets/img/arma-energy.jpg" alt="ARMA Energy"></a>
@@ -105,7 +105,7 @@
                             <div class="container">
                                 <h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
                                 <h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">De la stratégie à la mise en œuvre de solutions aux collectivités et industries optimales et adaptées</h3>
-                                <p class="mb-100 wow animated zoomIn" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                                <p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
                                 <div class="arma-solutions wow animated slideInUp" data-wow-delay=".6s" id="arma-solutions">
                                     <div class="arma-solution"><a href="#">
                                             <div class="img-holder"><img src="assets/img/content/solutions/100.jpg" alt="ARMA Environnement"></div>
@@ -128,9 +128,9 @@
                         </section>
                         <section class="section bg-white text-center">
                             <div class="container">
-                                <h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS GRANDS PROJETS</h2>
+                                <h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">Innovation</h2>
                                 <h3 class="section-subtitle wow animated fadeIn" data-wow-delay=".4s">La digitalisation au service de votre performance</h3>
-                                <p class="pb-80 wow animated fadeIn" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis.</p>
+                                <p class="mb-50 wow animated fadeIn" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis.</p>
                                 <div class="row">
                                     <div class="col-6">
                                         <div class="solution wow animated fadeInLeft" data-wow-delay=".6s">
@@ -162,7 +162,7 @@
                                                 <img src="assets/img/digital/eval-app.jpg" alt="Eval 360 App">
                                             </div>
                                             <div class="solution-details">
-                                                <img src="assets/img/digital/eval-logo.jpg" alt="Eval 360 logo" style="height: 85px;">
+                                                <img src="assets/img/digital/eval-logo.jpg" alt="Eval 360 logo" style="height: 65px;">
                                                 <p class="solution-desc">Lorem lorem ... détecter les non conformités et identifier les problèmes terrain. La mise en place rapide d’actions contribuent fortement, lorem lorem ...</p>
                                                 <a class="read-more" href="#">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
                                             </div>
@@ -183,16 +183,21 @@
                                 </div>
                             </div>
                         </section>
-                        <section class="section bg-blue white-text text-center">
+                        <section class="section bg-blue white-text has-bg full" style="background-image: url(assets/img/mission.png)">
                             <div class="container">
-                                <blockquote class="big-blockquote wow animated zoomIn" data-wow-delay=".4s">Nous accompagnons les villes à conjuguer croissance urbaine et cadre de vie sain.</blockquote>
+                                <div class="row">
+                                    <div class="col-md-7">
+                                        <h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">Notre mission</h2>
+                                        <h3 class="section-subtitle wow animated fadeIn" data-wow-delay=".4s">Aider les villes à conjuguer croissance urbaine et cadre de vie sain.</h3>
+                                    </div>
+                                </div>
                             </div>
                         </section>
                         <section class="section bg-white text-center">
                             <div class="container">
                                 <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS GRANDS PROJETS</h2>
                                 <h3 class="section-subtitle wow animated fadeInLeft" data-wow-delay=".4s">Histoire de nos plus belles réussites</h3>
-                                <p class="pb-80 wow animated fadeInLeft" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis.</p>       
+                                <p class="mb-50 wow animated fadeInLeft" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis.</p>       
                                 <div class="row masonry-grid">
                                     <div class="col-sm-4 masonry-column">
                                         <div class="arma-project wow animated fadeIn" data-wow-delay=".8s">
