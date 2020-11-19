@@ -6,7 +6,7 @@
         <div class="footer-col">
             <h3 class="footer-title">ARMA ENVIRONNEMENT &copy; 2020</h3>
             <ul class="footer-list">
-                <li><strong>Tel : </strong>+212 (0) 5 37 63 55 56</li>
+                <li><strong>Tel : </strong>+212 (0) 5 37 66 32 90</li>
                 <li><strong>E-mail : </strong><a href="mailto:contact@arma.ma" class="footer-link">contact@arma.ma</a></li>
                 <li><strong>Adresse : </strong>Avenue Mehdi Ben Barka <br>Lot Soumia, Lot N°5 Souissi, Rabat, Maroc</li>
             </ul>

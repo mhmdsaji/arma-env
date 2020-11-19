@@ -105,7 +105,7 @@
                             <div class="container">
                                 <h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
                                 <h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">De la stratégie à la mise en œuvre de solutions aux collectivités et industries optimales et adaptées</h3>
-                                <p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                                <p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Propreté urbaine, gestion des déchets, éclairage public ou encore gestion des espaces verts, ARMA Environnement propose une palette de solutions conçues sur mesure afin d’accompagner les villes dans leur développement et répondre pertinemment à leurs besoins.</p>
                                 <div class="arma-solutions wow animated slideInUp" data-wow-delay=".6s" id="arma-solutions">
                                     <div class="arma-solution"><a href="#">
                                             <div class="img-holder"><img src="assets/img/content/solutions/100.jpg" alt="ARMA Environnement"></div>
@@ -128,9 +128,9 @@
                         </section>
                         <section class="section bg-white text-center">
                             <div class="container">
-                                <h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">Innovation</h2>
+                                <h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">Nos Innovations</h2>
                                 <h3 class="section-subtitle wow animated fadeIn" data-wow-delay=".4s">La digitalisation au service de votre performance</h3>
-                                <p class="mb-50 wow animated fadeIn" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis.</p>
+                                <p class="mb-50 wow animated fadeIn" data-wow-delay=".6s">Faisant de l’innovation un levier de performance de nos solutions, ARMA  Environnement étoffe ses offres de service à travers la mise en place de solutions technologiques de pilotage, de contrôle et de suivi géographique  en temps réel assurant ainsi l’optimisation et la qualité du service auprès de ses clients et partenaires.</p>
                                 <div class="row">
                                     <div class="col-6">
                                         <div class="solution wow animated fadeInLeft" data-wow-delay=".6s">
@@ -197,7 +197,8 @@
                             <div class="container">
                                 <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS GRANDS PROJETS</h2>
                                 <h3 class="section-subtitle wow animated fadeInLeft" data-wow-delay=".4s">Histoire de nos plus belles réussites</h3>
-                                <p class="mb-50 wow animated fadeInLeft" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis.</p>       
+                                <p class="mb-50 wow animated fadeInLeft" data-wow-delay=".6s">Elles sont nombreuses à nous faire confiance, et nous ne pouvons en être que fiers. 
+Arma Environnement a inscrit son nom auprès de nombreuses villes et collectivités marocaines, qui ont fait le choix de la performance, de l’innovation et du développement en confiant leurs espaces à un acteur engagé pour leur avenir..</p>       
                                 <div class="row masonry-grid">
                                     <div class="col-sm-4 masonry-column">
                                         <div class="arma-project wow animated fadeIn" data-wow-delay=".8s">
