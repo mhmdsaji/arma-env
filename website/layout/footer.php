@@ -37,4 +37,4 @@
 <script src="vendor/js/wow.min.js"></script>
 <script src="vendor/js/jquery.matchHeight.js"></script>
 <!-- custom script-->
-<script src="assets/js/script.js?v=16"></script>
+<script src="assets/js/script.js?v=18"></script>

@@ -2060,6 +2060,7 @@ aside .arma-stats {
     flex-wrap: wrap;
     margin-bottom: 70px;
     text-align: left;
+    margin-top: 40px;
 }
 
 .solution-img, 
@@ -2079,7 +2080,7 @@ aside .arma-stats {
 }
 
 .solution-details .solution-desc {
-    font-size: 18px;
+    font-size: 15px;
     line-height: 24px;
     margin-bottom: 25px;
 }
