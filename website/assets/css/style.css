@@ -648,10 +648,23 @@ General
 
 .overlay.home-overlay {
 	position: absolute;
+	width: 100%;
+    height: 100vh;
 }
 
 .home-overlay .overlay-inner {
 	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+.home-overlay video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .bg-primary {
