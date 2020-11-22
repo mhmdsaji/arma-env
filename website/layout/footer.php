@@ -1,7 +1,7 @@
 <footer class="footer">
     <div class="footer-wrap">
         <div class="footer-col">
-            <a href="index.php"><img src="assets/img/footer-logo.png" alt="Arma Environnement"></a>
+            <a href="index.php"><img class="footer-logo" src="assets/img/footer-logo.png" alt="Arma Environnement"></a>
         </div>
         <div class="footer-col">
             <h3 class="footer-title">ARMA ENVIRONNEMENT &copy; 2020</h3>

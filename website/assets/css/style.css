@@ -2139,20 +2139,21 @@ aside .arma-stats {
 /* Footer */
 footer {
     background-color: #120938;
-    padding: 50px 0;
+    padding: 70px 0;
     color: #fff;
+    font-size: 0.8em;
 }
 
 .footer-title {
-    font-size: 16px;
+    font-size: 14px;
     margin-bottom: 25px;
 }
 
 .footer-wrap {
-    width: 1260px;
+    max-width: 1140px;
     margin: 0 auto;
-    padding-right: 15px;
-	padding-left: 15px;
+    padding-right: 30px;
+	padding-left: 30px;
 	display: flex;
 	justify-content: space-between;
 }
@@ -2163,8 +2164,7 @@ footer {
 }
 
 .footer-list li {
-    font-size: 16px;
-    line-height: 28px;
+    font-size: 14px;
     color: rgba(255, 255, 255, .5);
 }
 
@@ -2175,6 +2175,10 @@ footer {
 .footer-link {
     color: rgba(255, 255, 255, .5);
     text-decoration: none;
+}
+
+.footer-logo {
+    max-width: 177px;
 }
 
 /* SLick */
