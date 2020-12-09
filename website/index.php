@@ -20,7 +20,7 @@
     <!-- Preloader End -->
 
     <!--Arma main-->
-    <div class="main home">
+    <div class="main home one-pager">
         <div class="row no-gutters">
             <!-- Side nav -->
             <?php include 'layout/sideNav.php';?>
@@ -83,7 +83,7 @@
                                                 <h3 class="section-subtitle">Une organisation globale et intégrée pour créer de la valeur</h3>
                                                 <p>Pour ARMA Environnement, la qualité est un engagement de chaque instant. Le bien-être des habitants est une priorité absolue qui guide chacune de nos actions. Ainsi, notre objectif est de devenir le partenaire de référence des communes et de devancer leurs attentes en matière d’environnement, de services et d’aménagements urbains.</p>
                                             </div>
-                                            <div class="col-6 wow animated fadeInRight" data-wow-delay=".4s"">
+                                            <div class="col-6 wow animated fadeInRight" data-wow-delay=".4s">
                                                 <div class="icons-list">
                                                     <a href="#"><img src="assets/img/icons/system.jpg" alt="Systems"></a>
                                                     <a href="#"><img src="assets/img/icons/savoir.jpg" alt="Expertise"></a>
