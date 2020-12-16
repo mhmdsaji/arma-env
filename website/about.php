@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php $pageName = "Qui sommes-nous? | ARMA Environnement" ?>
-    <?php include 'layout/head.php';?>
+	<?php $pageName = "Qui sommes-nous? | ARMA Environnement" ?>
+	<?php include 'layout/head.php';?>
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="90">
 
-    <!--map sec-->
-    <div class="main one-pager">
+	<!--map sec-->
+	<div class="main one-pager">
 		<div class="row no-gutters">
-            <!-- Side nav -->
-            <?php include 'layout/sideNav.php';?>
-            <!-- End side nav -->
-            <div id="page-wrapper">				
+			<!-- Side nav -->
+			<?php include 'layout/sideNav.php';?>
+			<!-- End side nav -->
+			<div id="page-wrapper">				
 				<div class="content-area">					
 					<section class="section full bg-blue white-text text-center">
 						<div class="container">
@@ -20,21 +20,25 @@
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA </h3>
 							<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques :</p>
 							<div class="logos-list align-items-start justify-content-between">
-							<div class="image-text purble wow animated fadeIn" data-wow-delay=".6s">
+								<div class="image-text purble wow animated fadeIn" data-wow-delay=".6s">
 									<img src="assets/img/arma-env.jpg" alt="ARMA Environnement">
-									<p class="small">Œuvre chaque jour pour rendre vos villes plus propres, mieux aménagées et tout simplement agréable à vivre pour tous les citoyens.</p>
+									<p class="small"><b>Services aux collectivités et à l’environnement : Propreté urbaine, gestion des déchets, espaces verts.</b><br>
+									Arma Environnement Œuvre chaque jour pour rendre nos villes plus propres, mieux aménagées et tout simplement agréables à vivre à travers son offre de solutions innovantes, testées et éprouvées en matière de services aux collectivités et à l’environnement.</p>
 								</div>
 								<div class="image-text orange wow animated fadeIn" data-wow-delay=".8s">
 									<img src="assets/img/arma-energy.jpg" alt="ARMA Energy">
-									<p class="small">Vous conseille et vous accompagne afin d’adopter les meilleures pratiques en matière d’éclairage public. Qualité, maintenance et gains énergétiques sont nos objectifs prioritaires.</p>
+									<p class="small"><b>Energie & éclairage public</b><br>
+									Arma Energy vous conseille et vous accompagne afin d’adopter et de mettre en place les meilleures solutions en matière d’éclairage public. Qualité des installations, maintenance optimisée et gains énergétiques sont nos objectifs prioritaires pour un service d’éclairage optimal, smart et adapté.</p>
 								</div>
 								<div class="image-text blue wow animated fadeIn" data-wow-delay="1s">
 									<img src="assets/img/arma-water.jpg" alt="ARMA Water">
-									<p class="small">Vous conseille et vous accompagne afin d’adopter les meilleures pratiques en matière d’éclairage public. Qualité, maintenance et gains énergétiques sont nos objectifs prioritaires.</p>
+									<p class="small"><b>Eau & assainissement</b><br>
+									Arma water mobilise toute son expertise afin de proposer des systèmes innovants dans la collecte, la gestion  et le traitement des eaux usées et pluviales. Nous nous efforçons de limiter l’impact des stations sur l’environnement et de valoriser autant que possible la réutilisation des eaux épurées.</p>
 								</div>
 								<div class="image-text green wow animated fadeIn" data-wow-delay="1.2s">
 									<img src="assets/img/axial-facilities.jpg" alt="Axial Facilities">
-									<p class="small">Facility management aux entreprises et industriels. Propose une palette de services qui permet aux entreprises de gagner en performance.</p>
+									<p class="small"><b>Facility management</b><br>
+									AXIAL Facilities propose aux entreprises et industriels son expertise dans les métiers du Facility Management, à travers une offre sur-mesure, globale et intégrée de prestations de services. Elle s’engage auprès de ses partenaires à garantir le bon fonctionnement des bâtiments ainsi que le bien-être et confort des occupants, tout en contribuant à l’amélioration de leur performance organisationnelle.</p>
 								</div>
 							</div>
 						</div>
@@ -129,7 +133,7 @@
 												<div class="arma-stats small yellow">
 													<div class="arma-stats-inner">
 														<span class="bold">98</span><span class="light"><small><sup>%</sup></small></span>
-														<br /><small>Disponibilité</small>
+														<br /><small style="font-size:10px;">Taux de disponibilité</small>
 													</div>
 												</div>
 											</div>
@@ -183,32 +187,38 @@
 								<div class="col-5 pr-md-5 wow animated fadeInLeft" data-wow-delay=".4s">
 									<h3 class="section-subtitle">Des valeurs au coeur de notre mission</h3>
 									<p>Nos valeurs sont ce qui rend notre organisation à la fois unique et singulière. Des valeurs d’entreprise reconnues et partagées par l’ensemble de nos collaborateurs assurent une cohésion au sein de notre entreprise, et  teintent nos relations avec nos clients, nos fournisseurs et nos partenaires. Il est donc important de garder ces valeurs bien vivantes afin d’animer notre culture d’entreprise, c’est ce qui vous nous rassemble tous à la fois.<br><br>
-									Afin de se fixer des standards de haut niveau, ARMA ENVIRONNEMENT accorde une importance particulière à la définition des valeurs et règles de conduite qui régissent nos actions et décisions quotidiennes. Celles-ci  constituent un puissant levier de différenciation et de mobilisation des différents acteurs, et véhiculent  une vision d’une entreprise moderne, dynamique, proche de ses clients et engagée envers son écosystème.</p>
+									Afin de se fixer des standards de haut niveau, ARMA Environnement accorde une importance particulière à la définition des valeurs et règles de conduite qui régissent nos actions et décisions quotidiennes. Celles-ci  constituent un puissant levier de différenciation et de mobilisation des différents acteurs, et véhiculent  une vision d’une entreprise moderne, dynamique, proche de ses clients et engagée envers son écosystème.</p>
 								</div>
 								<div class="col-6 offset-md-1 wow animated fadeInRight" data-wow-delay=".4s">
 									<div class="values">
 										<div class="value">
-											<a class="value-toggle" data-toggle="collapse" href="#agility" role="button" aria-expanded="false" aria-controls="agility">
-												<img src="assets/img/icons/agilite.png" alt="Agility">
-											</a>
+											<div class="img-holder">
+												<a class="value-toggle" data-toggle="collapse" href="#agility" role="button" aria-expanded="false" aria-controls="agility"><img src="assets/img/icons/agilite.png" alt="Agility"></a>
+											</div>
 											<p class="collapse small" id="agility">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
 										</div>
 										<div class="value mt-md-4">
-											<a class="value-toggle" data-toggle="collapse" href="#excellence" role="button" aria-expanded="false" aria-controls="excellence">
-												<img src="assets/img/icons/excellence.png" alt="Excellence">
-											</a>
+											<div class="img-holder">
+												<a class="value-toggle" data-toggle="collapse" href="#excellence" role="button" aria-expanded="false" aria-controls="excellence">
+													<img src="assets/img/icons/excellence.png" alt="Excellence">
+												</a>
+											</div>
 											<p class="collapse small" id="excellence">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
 										</div>
 										<div class="value">
-											<a class="value-toggle" data-toggle="collapse" href="#leadership" role="button" aria-expanded="false" aria-controls="leadership">
-												<img src="assets/img/icons/leadership.png" alt="Leadership">
-											</a>
+											<div class="img-holder">
+												<a class="value-toggle" data-toggle="collapse" href="#leadership" role="button" aria-expanded="false" aria-controls="leadership">
+													<img src="assets/img/icons/leadership.png" alt="Leadership">
+												</a>
+											</div>
 											<p class="collapse small" id="leadership">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
 										</div>
 										<div class="value mt-md-4">
-											<a class="value-toggle" data-toggle="collapse" href="#responsability" role="button" aria-expanded="false" aria-controls="responsability">
-												<img src="assets/img/icons/responsability.png" alt="Responsability">
-											</a>
+											<div class="img-holder">
+												<a class="value-toggle" data-toggle="collapse" href="#responsability" role="button" aria-expanded="false" aria-controls="responsability">
+													<img src="assets/img/icons/responsability.png" alt="Responsability">
+												</a>
+											</div>
 											<p class="collapse small" id="responsability">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
 										</div>
 									</div>
@@ -237,41 +247,41 @@
 					<section class="section full bg-white" id="references">
 						<div class="container">
 							<div class="content-bloc wow fadeIn references white-bg pb-40">
-							<p>
-								<b class="">VILLES ET COLLECTIVITÉS</b>
-							</p>
-							<hr>
-							<div class="row references-slider">
-								
+								<p>
+									<b class="">VILLES ET COLLECTIVITÉS</b>
+								</p>
+								<hr>
+								<div class="row references-slider">
+
+									<?php 
+									/* AUTOMATIQUE LOGOS FROM FOLDER */ 
+									$vlogos_folder = './content/references/villes/';
+									$vlogos = array_diff(scandir($vlogos_folder), array('.', '..', '.DS_Store'));
+									natsort($vlogos); /* natural sorting, very important, files are ordered */
+									foreach ($vlogos as $vlogo) {
+										echo "<div><img src='content/references/villes/$vlogo' alt=''></div>";
+									}
+									?>
+								</div>
+
+								<p>
+									<b class="">ENTREPRISES ET INDUSTRIELS</b>
+								</p>
+								<hr>
+
 								<?php 
-								/* AUTOMATIQUE LOGOS FROM FOLDER */ 
-								$vlogos_folder = './content/references/villes/';
-								$vlogos = array_diff(scandir($vlogos_folder), array('.', '..', '.DS_Store'));
-								natsort($vlogos); /* natural sorting, very important, files are ordered */
-								foreach ($vlogos as $vlogo) {
-									echo "<div><img src='content/references/villes/$vlogo' alt=''></div>";
+								/* AUTOMATIQUE LOGOS FROM FOLDER  */
+								$logos_folder = './content/references/entreprises/';
+								$logos = array_diff(scandir($logos_folder), array('.', '..', '.DS_Store'));
+								natsort($logos);  /* natural sorting, very important, files are ordered */
+								foreach (array_chunk($logos, 6, true) as $array) {
+									echo '<div class="row pb-20">';
+									foreach($array as $logo) {
+										echo "<div class='col-4 col-md-2 reference'><div class='img-holder'><img src='content/references/entreprises/$logo' alt=''></div></div>";
+									}
+									echo '</div>';
 								}
 								?>
-							</div>
-
-							<p>
-								<b class="">ENTREPRISES ET INDUSTRIELS</b>
-							</p>
-							<hr>
-
-							<?php 
-							/* AUTOMATIQUE LOGOS FROM FOLDER  */
-							$logos_folder = './content/references/entreprises/';
-							$logos = array_diff(scandir($logos_folder), array('.', '..', '.DS_Store'));
-							natsort($logos);  /* natural sorting, very important, files are ordered */
-							foreach (array_chunk($logos, 6, true) as $array) {
-								echo '<div class="row pb-20">';
-								foreach($array as $logo) {
-									echo "<div class='col-4 col-md-2 reference'><img src='content/references/entreprises/$logo' alt=''></div>";
-								}
-								echo '</div>';
-							}
-							?>
 							</div>
 						</div>
 					</section>
@@ -280,6 +290,6 @@
 		</div>
 	</div>
 
-    <?php include 'layout/footer.php';?>
+	<?php include 'layout/footer.php';?>
 </body>
 </html>

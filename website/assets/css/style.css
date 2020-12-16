@@ -2047,16 +2047,16 @@ aside .arma-stats {
 }
 
 .section p {
-    font-size: 1rem;
+    font-size: 16px;
     line-height: 28px;
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .7);
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .section p.small {
-	font-size: 15px;
+	font-size: 14px;
     line-height: 1.6;
 }
 
