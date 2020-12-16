@@ -79,11 +79,11 @@
                                     <div class="container">
                                         <h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS FORCES</h2>
                                         <div class="row">
-                                            <div class="col-6 pr-md-5 wow animated fadeInLeft" data-wow-delay=".4s">
+                                            <div class="col-md-6 pr-md-5 wow animated fadeInLeft" data-wow-delay=".4s">
                                                 <h3 class="section-subtitle">Une organisation globale et intégrée pour créer de la valeur</h3>
                                                 <p>Pour ARMA Environnement, la qualité est un engagement de chaque instant. Le bien-être des habitants est une priorité absolue qui guide chacune de nos actions. Ainsi, notre objectif est de devenir le partenaire de référence des communes et de devancer leurs attentes en matière d’environnement, de services et d’aménagements urbains.</p>
                                             </div>
-                                            <div class="col-6 wow animated fadeInRight" data-wow-delay=".4s">
+                                            <div class="col-md-6 wow animated fadeInRight" data-wow-delay=".4s">
                                                 <div class="icons-list">
                                                     <a href="#"><img src="assets/img/icons/system.jpg" alt="Systems"></a>
                                                     <a href="#"><img src="assets/img/icons/savoir.jpg" alt="Expertise"></a>
@@ -132,7 +132,7 @@
                                         <h3 class="section-subtitle wow animated fadeIn" data-wow-delay=".4s">La digitalisation au service de votre performance</h3>
                                         <p class="mb-50 wow animated fadeIn" data-wow-delay=".6s">Faisant de l’innovation un levier de performance de nos solutions, ARMA  Environnement étoffe ses offres de service à travers la mise en place de solutions technologiques de pilotage, de contrôle et de suivi géographique  en temps réel assurant ainsi l’optimisation et la qualité du service auprès de ses clients et partenaires.</p>
                                         <div class="row">
-                                            <div class="col-6">
+                                            <div class="col-md-6">
                                                 <div class="solution wow animated fadeInLeft" data-wow-delay=".6s">
                                                     <div class="solution-img">
                                                         <div class="img-holder">
@@ -148,7 +148,7 @@
                                                     </div>
                                                 </div>
                                             </div> 
-                                            <div class="col-6">
+                                            <div class="col-md-6">
                                                 <div class="solution wow animated fadeInRight" data-wow-delay=".6s">
                                                     <div class="solution-img">
                                                         <div class="img-holder">
@@ -165,8 +165,8 @@
                                                     </div>
                                                 </div>
                                             </div> 
-                                            <div class="col-6">
-                                                <div class="solution wow animated fadeInLeft mb-0" data-wow-delay=".6s">
+                                            <div class="col-md-6">
+                                                <div class="solution wow animated fadeInLeft mb-md-0" data-wow-delay=".6s">
                                                     <div class="solution-img">
                                                         <div class="img-holder">
                                                             <a href="#">
@@ -182,8 +182,8 @@
                                                     </div>
                                                 </div>
                                             </div> 
-                                            <div class="col-6">
-                                                <div class="solution wow animated fadeInRight mb-0" data-wow-delay=".6s">
+                                            <div class="col-md-6">
+                                                <div class="solution wow animated fadeInRight mb-md-0" data-wow-delay=".6s">
                                                     <div class="solution-img">
                                                         <div class="img-holder">
                                                             <a href="#">

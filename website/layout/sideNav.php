@@ -37,7 +37,7 @@
                     <a class="navbar-brand" href="index.php"><img alt="" src="assets/img/logo-white.png"/></a>
                     <ul class="navbar-nav ml-auto">
                         <li>
-                            <a href="#" class="side-menu-toggle toggle-btn upper-nav-btn white-bg">
+                            <a href="#" class="side-menu-toggle toggle-btn upper-nav-btn">
                                 <span></span>
                                 <span></span>
                                 <span></span>

@@ -1,8 +1,5 @@
 $(window).on("load", function () {
   "use strict";
-
-  var windowWidth = $(window).width();
-
   /* ===================================
             Loading Timeout
      ====================================== */
@@ -14,7 +11,9 @@ $(window).on("load", function () {
 });
 
 jQuery(function ($) {
-  "use strict";
+  "use strict";  
+
+  var windowWidth = $(window).width();
 
   /* ===================================
         Side Menu
@@ -83,7 +82,28 @@ jQuery(function ($) {
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 3000,
-    dots: true
+    dots: true,
+    arrows: true,
+    responsive: [
+      {
+        breakpoint: 768,
+        settings: {
+          arrows: false,
+          centerMode: true,
+          centerPadding: '40px',
+          slidesToShow: 1
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          arrows: false,
+          centerMode: true,
+          centerPadding: '40px',
+          slidesToShow: 1
+        }
+      }
+    ]
   });
 
   /* =====================================
@@ -147,7 +167,9 @@ jQuery(function ($) {
   /* =====================================
       WOW init 
   ====================================== */
-  new WOW().init();
+  if ( windowWidth > 767 ) {
+      new WOW().init();
+  }  
 
   /* =====================================
       match matchHeight 

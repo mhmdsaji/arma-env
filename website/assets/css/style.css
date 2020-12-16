@@ -2264,9 +2264,7 @@ footer {
     left: -30px;
 }
 
-.arma-solution {
-    margin: 0 15px;
-}
+.arma-solution {margin: 0 15px;}
 
 .img-container {
 	background-size: contain;
@@ -2377,10 +2375,6 @@ Media Queries
 
 	.upper-nav-btn {
 		margin-top: 12px;
-	}
-
-	.upper-nav-btn span {
-		background-color: #000000;
 	}
 
 	.side-menu {
@@ -2499,6 +2493,10 @@ Media Queries
 		background-position: center;
 	}
 
+	.home-overlay .overlay-inner {
+		background-image: none;
+	}
+
 	.overlay-inner img {
 		display: none;
 	}
@@ -2612,5 +2610,100 @@ Media Queries
 
 	.article-wrapper {
 		margin-bottom: 1rem;
+	}
+
+	.home-arma-stats {
+		flex-direction: column;
+	}
+	
+	.home-banner h1 {
+		font-size: 35px;
+	}
+	
+	.home-arma-stat {
+		padding: 10px;
+	}
+	
+	.home-banner h1 br {
+		display: none;
+	}
+	
+	.home-arma-stat:last-child {
+		padding-bottom: 0;
+	}
+
+	.home-arma-stats {
+		flex-direction: column;
+	}
+	
+	.home-banner h1 {
+		font-size: 35px;
+	}
+	
+	.home-arma-stat {
+		padding: 10px;
+	}
+	
+	.home-banner h1 br {
+		display: none;
+	}
+	
+	.home-arma-stat:last-child {
+		padding-bottom: 0;
+	}
+	
+	.logos-list a {
+		width: 45%;
+		height: auto;
+		flex: 0 45%;
+	}
+	
+	.logos-list {
+		flex-wrap: wrap;
+		gap: 30px;
+	}
+	
+	.icons-list a {
+		width: 45%;
+		height: 172px;
+		flex: 0 45%;
+		max-width: 45%;
+	}
+	
+	.icons-list {
+		margin-top: 30px;
+		justify-content: space-between;
+	}
+	
+	.section-subtitle {
+		font-size: 20px;
+		text-align: center;
+		line-height: 1.5;
+	}
+	
+	.section-title {
+		font-size: 20px;
+		text-align: center;
+	}
+	
+	#arma-solutions {
+	max-width: calc(100% + 30px);
+	margin-left: -15px;
+	margin-right: -15px;
+	}
+	
+	.footer-logo {
+		max-width: 200px;
+		margin: 0 auto 30px;
+		display: block;
+	}
+
+	.footer-wrap {
+		flex-direction: column;
+	}
+	
+	.footer-col {
+		margin-bottom: 25px;
+		text-align: center;
 	}
 }
