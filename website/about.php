@@ -189,25 +189,25 @@
 									<div class="values">
 										<div class="value">
 											<a class="value-toggle" data-toggle="collapse" href="#agility" role="button" aria-expanded="false" aria-controls="agility">
-												<img src="assets/img/icons/agilite.jpg" alt="Agility">
+												<img src="assets/img/icons/agilite.png" alt="Agility">
 											</a>
 											<p class="collapse small" id="agility">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
 										</div>
-										<div class="value">
+										<div class="value mt-md-4">
 											<a class="value-toggle" data-toggle="collapse" href="#excellence" role="button" aria-expanded="false" aria-controls="excellence">
-												<img src="assets/img/icons/excellence.jpg" alt="Excellence">
+												<img src="assets/img/icons/excellence.png" alt="Excellence">
 											</a>
 											<p class="collapse small" id="excellence">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
 										</div>
 										<div class="value">
 											<a class="value-toggle" data-toggle="collapse" href="#leadership" role="button" aria-expanded="false" aria-controls="leadership">
-												<img src="assets/img/icons/leadership.jpg" alt="Leadership">
+												<img src="assets/img/icons/leadership.png" alt="Leadership">
 											</a>
 											<p class="collapse small" id="leadership">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
 										</div>
-										<div class="value">
+										<div class="value mt-md-4">
 											<a class="value-toggle" data-toggle="collapse" href="#responsability" role="button" aria-expanded="false" aria-controls="responsability">
-												<img src="assets/img/icons/responsability.jpg" alt="Responsability">
+												<img src="assets/img/icons/responsability.png" alt="Responsability">
 											</a>
 											<p class="collapse small" id="responsability">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
 										</div>
