@@ -111,6 +111,7 @@ jQuery(function ($) {
       ====================================== */  
 
     $('.number-scroll').each(function () {
+      var number = $(this).text();
       $(this).prop('Counter',0).animate({
           Counter: $(this).text()
       }, {
@@ -120,6 +121,9 @@ jQuery(function ($) {
               $(this).text(Math.ceil(now));
           }
       });
+      setTimeout(() => {
+        $(this).text(numberWithSpaces(number));
+      }, 3100);
     });
 
 /* =====================================
@@ -186,6 +190,20 @@ jQuery(function ($) {
     $(".blog-title").css("width", contentWidth);    
   }
 
+   /* =====================================
+          Play content videos
+      ====================================== */  
+
+      $(".play-video").click(function(e) {
+        e.preventDefault();
+
+        let that = $(this),
+            video = that.next(".contentVideo");
+          
+        that.remove();
+        video.get(0).play();        
+        video.prop("controls", true);
+      });
 
  /* =====================================
           Smooth scrolling for inner links
@@ -231,3 +249,7 @@ jQuery(function ($) {
 
 });
 
+
+function numberWithSpaces(x) {
+  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+}

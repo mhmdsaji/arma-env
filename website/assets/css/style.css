@@ -677,12 +677,23 @@ General
 }
 
 .bg-secondary {
-	opacity: .8;
+	opacity: .9;
 	background-color: transparent !important;
-	background: rgb(7, 7, 51) !important;
-	background: linear-gradient(225deg, rgba(7, 7, 51, 1) 0%, rgba(53, 53, 133, 1) 75%, rgba(53, 53, 133, 1) 100%) !important;
+	background: rgb(0,0,0);
+	background: linear-gradient(60deg, rgba(0,0,0,0.24163168685442926) 0%, rgba(0,0,0,0.43771011822697825) 44%, rgba(0,0,0,0.5973739837731968) 100%);
 }
 
+.bg-green {
+	background-color: #4EBBBC;
+}
+
+.bg-red {
+	background-color: #E5342A;
+}
+
+.bg-blue {
+	background-color: #1F1353;
+}
 /* ===================================
     map sec
     ====================================== */
@@ -1973,8 +1984,18 @@ aside .arma-stats {
 .section-title {
     font-size: 1.5rem;
     color: rgba(0, 0, 0, .5);
-	margin-bottom: 50px;
-	text-transform: uppercase;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.section-title span {
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-left: 1px solid;
 }
 
 .section.white-text .section-title, 
@@ -1992,10 +2013,29 @@ aside .arma-stats {
     margin-bottom: 30px;
 }
 
+.small-title {
+    font-weight: bold;
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: #D13D2F;
+    margin: 30px 0;
+}
+
 .section.has-bg .section-subtitle {
 	font-size: 2.375rem;
 	line-height: 50px;
 	font-weight: 300;
+}
+
+.section.home-banner:before {
+	content: "";opacity: .9;
+	background-color: transparent !important;
+	background: rgb(0,0,0);
+	background: linear-gradient(60deg, rgba(0,0,0,0.24163168685442926) 0%, rgba(0,0,0,0.43771011822697825) 44%, rgba(0,0,0,0.5973739837731968) 100%);
+	display: block;
+	width: 100%;
+	height: 100%;
+	position: absolute;
 }
 
 .logos-list {
@@ -2050,7 +2090,7 @@ aside .arma-stats {
     font-size: 16px;
     line-height: 28px;
     color: rgba(0, 0, 0, .7);
-    max-width: 800px;
+    max-width: 850px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -2295,6 +2335,61 @@ footer {
 
 .title-text h4 {
 	font-size: 1rem;
+}
+
+.video-container {
+	position: relative;
+	overflow: hidden;
+	border-radius: 10px;
+}
+
+.play-video {
+	background-image: url(../img/icons/play.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	background-size: contain;
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top: calc(50% - 40px);
+	z-index: 1;
+}
+
+.section-stats {
+    padding: 0 30px;
+    margin: 30px 0;
+    line-height: 1.2;
+    border-left: 1px solid rgba(0, 0, 0, .2);
+}
+
+.section-stat .number {
+    font-size: 1.875rem;
+    color: #FB1A18;
+    display: block;
+}
+
+.section-stat .number-scroll {
+    font-weight: bold;
+}
+
+.section-stat {
+    margin-bottom: 20px;
+}
+
+.section.illustration {
+    padding-bottom: 500px;
+}
+
+.section.illustration .section-subtitle {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.text-shadow {
+    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.16);
 }
 
 /*Animate css transition delay*/
