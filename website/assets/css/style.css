@@ -702,6 +702,7 @@ General
 .bg-grey {
 	background-color: #706E6F;
 }
+
 /* ===================================
     map sec
     ====================================== */
@@ -1994,7 +1995,7 @@ aside .arma-stats {
     color: rgba(0, 0, 0, .5);
     margin-bottom: 50px;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 1;
 }
 
@@ -2424,6 +2425,27 @@ footer {
     padding: 10px 20px;
     margin-bottom: 20px;
     min-height: 192px;
+}
+
+.full-bg {
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: unset;
+    padding: 150px 0;
+}
+
+.full-bg:before {
+    content: "";
+    opacity: .9;
+    background-color: transparent !important;
+    background: rgb(0,0,0);
+    background: linear-gradient(60deg, rgba(0,0,0,0.24163168685442926) 0%, rgba(0,0,0,0.43771011822697825) 44%, rgba(0,0,0,0.5973739837731968) 100%);
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
 }
 
 /*Animate css transition delay*/
