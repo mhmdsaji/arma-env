@@ -19,4 +19,4 @@
 <link href="vendor/css/slick-theme.css" rel="stylesheet" type="text/css" />
 <link href="vendor/css/animate.min.css" rel="stylesheet"/>
 <!-- Style Sheet -->
-<link href="assets/css/style.css?v=19" rel="stylesheet"/>
+<link href="assets/css/style.css?v=21" rel="stylesheet"/>

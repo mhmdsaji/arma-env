@@ -1,4 +1,4 @@
 #!/bin/bash
 # Run local php server to test
 
-php -S localhost:9999
+php -S 0.0.0.0:9999
