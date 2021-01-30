@@ -114,6 +114,92 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="row my-md-5">
+                                <div class="col-12">
+                                    <div class="arma-prestations wow animated fadeIn" id="arma-prestations" data-wow-delay=".25s">
+                                        <div class="img-holder"><img src="assets/img/content/prestations/1.png" alt="prestation"></div>
+                                        <div class="img-holder"><img src="assets/img/content/prestations/2.png" alt="prestation"></div>
+                                        <div class="img-holder"><img src="assets/img/content/prestations/3.png" alt="prestation"></div>
+                                        <div class="img-holder"><img src="assets/img/content/prestations/4.png" alt="prestation"></div>
+                                        <div class="img-holder"><img src="assets/img/content/prestations/3.png" alt="prestation"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-12">
+                                    <h3 class="section-subtitle my-sm-5 wow animated fadeInLeft" data-wow-delay=".26s">Un système de suivi <br>informatisé pour une <br> gestion optimale du <br> service de propreté.</h3>
+                                    <div class="arma-suivi pt-3">
+                                        <div class="row no-gutters no-gutters">
+                                            <div class="col-sm-6">
+                                                <div class="row no-gutters">
+                                                    <div class="col-sm-6">
+                                                        <div class="img-holder">
+                                                            <img src="assets/img/content/suivi-1.png" alt="Arma suivi" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6">
+                                                        <div class="img-holder">
+                                                            <img src="assets/img/content/suivi-2.png" alt="Arma suivi" />
+                                                        </div>
+                                                        <div class="text-bloc white-text bg-red">Equipement du matériel de collecte des déchets et de nettoiement par la technologie GPS
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="row no-gutters">
+                                                    <div class="col-sm-6">
+                                                        <div class="img-holder">
+                                                            <img src="assets/img/content/suivi-4.png" alt="Arma suivi" />
+                                                        </div>
+                                                        <div class="img-holder">
+                                                            <img src="assets/img/content/suivi-5.png" alt="Arma suivi" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6">
+                                                        <div class="text-bloc white-text bg-blue">Historique, diagnostic, analyse et planification des circuits et optimisation
+                                                        </div>
+                                                        <div class="text-bloc white-text bg-red">Diagnostic des véhicules en temps réel Suivi des indicateurs, position GPS, vitesse, etc ...
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="row no-gutters">
+                                                    <div class="col-sm-6">
+                                                        <div class="text-bloc white-text bg-orange">Contrôle des véhicules et calcul des Taux de réalisation des circuits
+                                                        </div>
+                                                        <div class="img-holder">
+                                                            <img src="assets/img/content/suivi-3.png" alt="Arma suivi" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6">
+                                                        <div class="img-holder">
+                                                            <img src="assets/img/content/suivi-8.png" alt="Arma suivi" />
+                                                        </div>
+                                                        <div class="text-bloc white-text bg-grey">Des solutions de suivi des itinéraires des circuits en temps réel
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="row no-gutters">
+                                                    <div class="col-sm-6">
+                                                        <div class="text-bloc white-text bg-orange">Taux de réalisation des circuits suivi en en temps réel sur une interface graphique
+                                                        </div>
+                                                        <div class="img-holder">
+                                                            <img src="assets/img/content/suivi-7.png" alt="Arma suivi" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6">
+                                                        <div class="img-holder">
+                                                            <img src="assets/img/content/suivi-6.png" alt="Arma suivi" />
+                                                        </div>
+                                                        <div class="text-bloc white-text bg-grey">Système intélligent d’identification des bacs basé sur la technologie RFID
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                     <section class="section bg-green white-text text-center has-bg illustration" style="background-image: url(assets/img/water.png)">
