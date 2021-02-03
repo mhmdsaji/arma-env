@@ -15,10 +15,6 @@ Google font
 ====================================== */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700;900&display=swap');
 
-html,body {
-	background-color: #F83834;
-}
-
 body {
 	font-family: "Montserrat", "Source Sans Pro", sans-serif;
 	overflow: hidden auto;
@@ -31,6 +27,10 @@ body {
 
 p {
     margin: 0 0 1rem;
+}
+
+hr {
+	border-color: #eee;
 }
 
 /* ===================================
@@ -2022,6 +2022,11 @@ aside .arma-stats {
     margin-bottom: 30px;
 }
 
+.section-subtitle.small {
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
 .small-title {
     font-weight: bold;
     font-size: 1rem;
@@ -2079,7 +2084,7 @@ aside .arma-stats {
     line-height: 1.6;
 }
 
-.image-text.purble {
+.image-text.purple {
     border-color: #221061;
 }
 
@@ -2095,13 +2100,20 @@ aside .arma-stats {
     border-color: #C5D92F;
 }
 
+.image-text .title-text h4 {
+    font-size: .8rem;
+    text-transform: uppercase;
+    line-height: 1.2rem;
+}
+
 .section p {
     font-size: 16px;
     line-height: 28px;
     color: rgba(0, 0, 0, .7);
     max-width: 850px;
     margin-left: auto;
-    margin-right: auto;
+	margin-right: auto;
+	position: relative;
 }
 
 .section p.small {
@@ -2334,6 +2346,7 @@ footer {
     align-items: initial;
     justify-content: space-around;
     flex-wrap: wrap;
+    gap: 20px;
 }
 
 .value {
@@ -2343,8 +2356,11 @@ footer {
 }
 
 .value-toggle {
-	margin-bottom: 20px;
 	display: block;
+}
+
+.value p {
+    margin-top: 10px;
 }
 
 .title-text h4 {
@@ -2446,6 +2462,23 @@ footer {
     width: 100%;
     height: 100%;
     position: absolute;
+}
+ 
+.section.white-text.full-bg p {
+	color: rgba(255 , 255, 255, .9);
+}
+
+.iso {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 600px;
+    margin: 50px auto 0;
+}
+
+.iso img {
+    width: 115px;
 }
 
 /*Animate css transition delay*/

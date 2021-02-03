@@ -20,7 +20,7 @@
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA </h3>
 							<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques :</p>
 							<div class="logos-list align-items-start justify-content-between">
-								<div class="image-text purble wow animated fadeIn" data-wow-delay=".6s">
+								<div class="image-text purple wow animated fadeIn" data-wow-delay=".6s">
 									<img src="assets/img/arma-env.jpg" alt="ARMA Environnement">
 									<p class="small"><b>Services aux collectivités et à l’environnement : Propreté urbaine, gestion des déchets, espaces verts.</b><br>
 									Arma Environnement Œuvre chaque jour pour rendre nos villes plus propres, mieux aménagées et tout simplement agréables à vivre à travers son offre de solutions innovantes, testées et éprouvées en matière de services aux collectivités et à l’environnement.</p>

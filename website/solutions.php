@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<?php $pageName = "Qui sommes-nous? | ARMA Environnement" ?>
+	<?php $pageName = "Nos solutions | ARMA Environnement" ?>
 	<?php include 'layout/head.php';?>
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="90">
