@@ -234,6 +234,13 @@ jQuery(function ($) {
         video.prop("controls", true);
       });
 
+    /* =====================================
+          Arma Gallery
+      ====================================== */  
+      let $gallery1 = new SimpleLightbox('.gallery-1 a', {});
+      let $gallery2 = new SimpleLightbox('.gallery-2 a', {});
+
+
  /* =====================================
           Smooth scrolling for inner links
       ====================================== */  

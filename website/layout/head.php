@@ -18,5 +18,6 @@
 <link href="vendor/css/slick.css" rel="stylesheet" type="text/css" />
 <link href="vendor/css/slick-theme.css" rel="stylesheet" type="text/css" />
 <link href="vendor/css/animate.min.css" rel="stylesheet"/>
+<link href="vendor/css/simple-lightbox.min.css" rel="stylesheet"/>
 <!-- Style Sheet -->
 <link href="assets/css/style.css?v=21" rel="stylesheet"/>
