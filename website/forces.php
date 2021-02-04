@@ -321,6 +321,7 @@
 											</div>
 											<p class="collapse small" id="finance">Verification de l'excellence opérationnelle et optimisation des coûts.</p>
 										</div>
+										<div class="value"></div>
 									</div>
                                 </div>
                             </div>
@@ -441,7 +442,7 @@
 					<section class="section white-text bg-blue">
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES <span>Qualité reconnue</span></h2>
-							<h3 class="section-subtitle wow animated zoomIn small" data-wow-delay=".4s">Nous nous engageons, à travers nos offres de services, à offrir à nos clients un service de qualité, aligné aux standards internationaux  et s’inscrivant dans une démarche d’amélioration continue et de satisfaction client à tous les niveaux : Qualité, hygiène,  sécurité et  environnement.</p>
+							<h3 class="section-subtitle wow animated zoomIn xsmall" data-wow-delay=".4s">Nous nous engageons, à travers nos offres de services, à offrir à nos clients un service de qualité, aligné aux standards internationaux  et s’inscrivant dans une démarche d’amélioration continue et de satisfaction client à tous les niveaux : Qualité, hygiène,  sécurité et  environnement.</p>
 							<div class="iso">
 								<img src="assets/img/icons/9001.png" alt="ISO 9001">
 								<img src="assets/img/icons/45001.png" alt="ISO 45001">

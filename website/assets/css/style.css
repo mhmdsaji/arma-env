@@ -43,6 +43,12 @@ a {
 a:hover, a:focus, a:active {
 	color: #dd4d3a;
 }
+
+ul li {
+    font-size: 1rem;
+    line-height: 28px;
+    color: rgba(0, 0, 0, .7);
+}
 /* ===================================
 Scrollbar
 ====================================== */
@@ -2035,6 +2041,12 @@ aside .arma-stats {
 .section-subtitle.small {
     font-weight: 300;
     font-size: 1.5rem;
+}
+
+.section-subtitle.xsmall {
+	font-size: 1.2rem;
+    font-weight: 300;
+    line-height: 1.5;
 }
 
 .small-title {
