@@ -33,6 +33,16 @@ hr {
 	border-color: #eee;
 }
 
+a {
+	color: #2b2b2b;
+	text-decoration: none;
+	transition: color .15s ease-in-out;
+	font-weight: 600;
+}
+
+a:hover, a:focus, a:active {
+	color: #dd4d3a;
+}
 /* ===================================
 Scrollbar
 ====================================== */
@@ -2054,8 +2064,8 @@ aside .arma-stats {
 
 .logos-list {
     display: flex;
-    align-items: baseline;
-    justify-content: space-around;
+    max-width: 950px;
+    margin: 0 auto;
 }
 
 .logos-list img {
@@ -2072,7 +2082,7 @@ aside .arma-stats {
 }
 
 .image-text {
-    max-width: 240px;
+    max-width: 220px;
     text-align: left;
     padding-bottom: 20px;
     border-bottom: 6px solid;
@@ -2486,6 +2496,16 @@ footer {
     -webkit-box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
     -moz-box-shadow:    0px 3px 6px 0px rgba(0, 0, 0, 0.16);
     box-shadow:         0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+}
+
+form {
+    text-align: left;
+}
+
+form .blue-btn:hover, form .blue-btn:focus {
+    background-color: #fff;
+    border-color: #dd4d3a;
+    color: #dd4d3a;
 }
 
 /*Animate css transition delay*/
