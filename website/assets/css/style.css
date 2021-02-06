@@ -1476,6 +1476,23 @@ li.breadcrumb-item.active {
 	border-radius: 10px;
 	position: relative;
 	overflow: hidden;
+	border: 1px solid rgba(112, 112, 112, .56);
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+    border: none;
+}
+
+.card-header .card-logo {
+    width: 60px;
+}
+
+.card-header .star {
+    width: 20px;
 }
 
 .card .blue-btn:hover,
@@ -1498,28 +1515,47 @@ li.breadcrumb-item.active {
 .card-footer {
 	background: transparent;
 	border: 0;
-	padding: 0 1.25rem 1.25rem 1.25rem;
-	text-align: right;
+	padding: 10px 1.25rem;
+	position: relative;
+	text-align: left;
 }
 
-.card::after {
+.card-footer:before {
+    content: "";
+    width: calc(100% - 2.5rem);
+    height: 1px;
+    display: block;
+    background: rgba(112, 112, 112, .17);
+    top: 0;
+    left: 1.25rem;
+    position: absolute;
+}
+
+.card-footer::after {
 	content: "";
+	background-image: url(../img/icons/pdf.png);
+	background-size: 35px;
+	background-repeat: no-repeat;
 	position: absolute;
-	background: #dd4d3a;
-	display: inline-block;
-	width: 0;
-	height: 3px;
-	bottom: 0;
-	left: 0;
-	-webkit-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
-	-o-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
-	transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);
+	width: 35px;
+	height: 35px;
+	right: 20px;
+	top: -5px;
+	display: block;
 }
 
-.card:hover::after,
-.card:focus::after,
-.card.active::after {
-	width: 100%;
+.card-title {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.card-subtitle {
+    font-weight: 300;
+}
+
+.card-date {
+    font-size: 0.825rem;
+    font-weight: 400;
 }
 
 .text-bloc {
@@ -2520,6 +2556,57 @@ form .blue-btn:hover, form .blue-btn:focus {
     color: #dd4d3a;
 }
 
+.full-bg.after .container {
+	position: relative;
+}
+
+.full-bg.after .container:after {
+	content: "";
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 260px;
+	height: 525px;
+	display: block;
+	position: absolute;
+	right: 130px;
+	top: 80px;
+}
+
+.full-bg.after {
+    margin-bottom: 80px;
+}
+
+.full-bg.after.mystaff .container:after {
+	background-image: url(../img/content/innov-2.png);
+}
+
+.full-bg.after.ask .container:after {
+	background-image: url(../img/content/innov-1.png);
+}
+
+.advatages {
+    list-style: none;
+}
+
+.advatages li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.advatages .icon-img {
+    margin-right: 20px;
+    height: 65px;
+    min-width: 85px;
+    text-align: center;
+}
+
+.advatages .icon-img img {
+    height: 100%;
+    max-width: inherit;
+}
 /*Animate css transition delay*/
 .wow__delay-1 {
 	animation-delay: 400ms;

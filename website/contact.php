@@ -72,7 +72,7 @@ $formok = true;
 								</div>
 								<div class="image-text orange wow animated fadeIn" data-wow-delay=".7s">
 									<img src="assets/img/icons/location.png" alt="location">
-									<p class="small"><b>Adresse</b> : Avenue Mehdi Ben Barka Lot Soumia, Lot N°5 Souissi, Rabat, Maroc. <a href="#">(Localiser en cliquant ici)</a></p>
+									<p class="small"><b>Adresse</b> : Avenue Mehdi Ben Barka Lot Soumia, Lot N°5 Souissi, Rabat, Maroc. <a href="https://goo.gl/maps/bdMm6ZENUuurPq9B9" target="_blank">(Localiser en cliquant ici)</a></p>
 								</div>								
 							</div>
 						</div>
