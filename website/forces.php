@@ -31,13 +31,13 @@
 								<div class="col-6 offset-md-1 wow animated fadeInRight" data-wow-delay=".2s">
 									<div class="values">
 										<div class="value">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#anticipation" role="button" aria-expanded="false" aria-controls="anticipation"><img src="assets/img/icons/anticipation.png" alt="anticipation"></a>
 											</div>
 											<p class="collapse small" id="anticipation">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 										</div>
 										<div class="value mt-md-4">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#adaptation" role="button" aria-expanded="false" aria-controls="adaptation">
 													<img src="assets/img/icons/adaptation.png" alt="adaptation">
 												</a>
@@ -45,7 +45,7 @@
 											<p class="collapse small" id="adaptation">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
 										</div>
 										<div class="value">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#force" role="button" aria-expanded="false" aria-controls="force">
 													<img src="assets/img/icons/force.png" alt="force">
 												</a>
@@ -53,7 +53,7 @@
 											<p class="collapse small" id="force">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
 										</div>
 										<div class="value mt-md-4">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#capacity" role="button" aria-expanded="false" aria-controls="capacity">
 													<img src="assets/img/icons/capacity.png" alt="capacity">
 												</a>
@@ -144,13 +144,13 @@
 								<div class="col-6 offset-md-1 wow animated fadeInRight" data-wow-delay=".2s">
 									<div class="values">
 										<div class="value">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#pilotage" role="button" aria-expanded="false" aria-controls="pilotage"><img src="assets/img/icons/pilotage.png" alt="pilotage"></a>
 											</div>
 											<p class="collapse small" id="pilotage"><strong>Des circuits, réseaux, et équipements intelligents</strong> dotés de nouveaux systèmes de communication et d’identification à travers des puces de types RFID.</p>
 										</div>
 										<div class="value mt-md-4">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#map" role="button" aria-expanded="false" aria-controls="map">
 													<img src="assets/img/icons/map.png" alt="map">
 												</a>
@@ -158,7 +158,7 @@
 											<p class="collapse small" id="map">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
 										</div>
 										<div class="value">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#office" role="button" aria-expanded="false" aria-controls="office">
 													<img src="assets/img/icons/office.png" alt="office">
 												</a>
@@ -166,7 +166,7 @@
 											<p class="collapse small" id="office">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
 										</div>
 										<div class="value mt-md-4">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#performance" role="button" aria-expanded="false" aria-controls="performance">
 													<img src="assets/img/icons/performance.png" alt="performance">
 												</a>
@@ -174,7 +174,7 @@
 											<p class="collapse small" id="performance">Suivi de la prestation et mesure des indicateurs en temps réel assurant ainsi une réactivité optimale sur l’ensemble des circuits. <strong>Nous anticipons, contrôlons et réagissons pour une qualité de service optimale et avant-gardiste.</strong></p>
 										</div>
 										<div class="value">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#transparency" role="button" aria-expanded="false" aria-controls="transparency">
 													<img src="assets/img/icons/transparency.png" alt="transparency">
 												</a>
@@ -183,7 +183,7 @@
 											</p>
 										</div>
 										<div class="value mt-md-4">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#chart" role="button" aria-expanded="false" aria-controls="chart">
 													<img src="assets/img/icons/chart.png" alt="chart">
 												</a>
@@ -300,13 +300,13 @@
                                 <div class="col-md-6 wow animated fadeInRight" data-wow-delay=".2s">
 									<div class="values">
 										<div class="value">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#terrain" role="button" aria-expanded="false" aria-controls="terrain"><img src="assets/img/icons/terrain.png" alt="terrain"></a>
 											</div>
 											<p class="collapse small" id="terrain">Suivi de la conformité du service. Vérification de la conformité du stock. Et suivi de l'état des parcs.</p>
 										</div>
 										<div class="value mt-md-4">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#pointage" role="button" aria-expanded="false" aria-controls="pointage">
 													<img src="assets/img/icons/pointage.png" alt="pointage">
 												</a>
@@ -314,7 +314,7 @@
 											<p class="collapse small" id="pointage">Suivi du pointage journalier des employés et vérification de l'authenticité des données de présence transmises. </p>
 										</div>
 										<div class="value">
-											<div class="img-holder">
+											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#finance" role="button" aria-expanded="false" aria-controls="finance">
 													<img src="assets/img/icons/finance.png" alt="finance">
 												</a>

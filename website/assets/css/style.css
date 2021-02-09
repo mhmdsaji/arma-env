@@ -2027,8 +2027,11 @@ aside .arma-stats {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
 	padding: 80px 0;
+}
+
+.section.full {
+    min-height: 100vh;
 }
 
 .white-text {
@@ -2114,6 +2117,7 @@ aside .arma-stats {
     display: flex;
     max-width: 950px;
     margin: 0 auto;
+	justify-content: space-around;
 }
 
 .logos-list img {
@@ -2230,7 +2234,7 @@ aside .arma-stats {
     transition: all 0.3s ease;
 }
 
-.img-holder:hover img {
+.img-holder:not(.no-hover):hover img {
     transform: scale(1.1);
 }
 

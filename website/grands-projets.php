@@ -14,7 +14,7 @@
 			<!-- End side nav -->
 			<div id="page-wrapper">				
 				<div class="content-area">					
-					<section class="section full bg-blue white-text text-center">
+					<section class="section bg-blue white-text text-center">
 						<div class="container">
 							<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">ARMA ENVIRONNEMENT</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Nos plus grands projets et réalisations</h3>
