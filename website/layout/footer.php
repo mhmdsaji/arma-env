@@ -38,4 +38,4 @@
 <script src="vendor/js/jquery.matchHeight.js"></script>
 <script src="vendor/js/simple-lightbox.min.js"></script>
 <!-- custom script-->
-<script src="assets/js/script.js?v=21"></script>
+<script src="assets/js/script.js?v=24"></script>

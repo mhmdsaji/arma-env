@@ -20,4 +20,4 @@
 <link href="vendor/css/animate.min.css" rel="stylesheet"/>
 <link href="vendor/css/simple-lightbox.min.css" rel="stylesheet"/>
 <!-- Style Sheet -->
-<link href="assets/css/style.css?v=21" rel="stylesheet"/>
+<link href="assets/css/style.css?v=24" rel="stylesheet"/>
