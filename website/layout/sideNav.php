@@ -58,27 +58,33 @@
                                     <li class="nav-item"><a class="nav-link menu-child" href="about.php">Qui
                                     sommes-nous?</a>
                                 </li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="numbers.php">Nos chiffres clés</a>
+                                <li class="nav-item"><a class="nav-link menu-child" href="about.php#chiffres">Nos chiffres clés</a>
                                 </li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="mission.php">Notre mission</a></li>
+                                <li class="nav-item"><a class="nav-link menu-child" href="about.php#mission">Notre mission</a></li>
 
-                                <li class="nav-item"><a class="nav-link menu-child" href="valeurs.php">Nos valeurs</a></li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="references.php">Nos références</a></li>
+                                <li class="nav-item"><a class="nav-link menu-child" href="about.php#valeurs">Nos valeurs</a></li>
+                                <li class="nav-item"><a class="nav-link menu-child" href="about.php#refs">Nos références</a></li>
                             </ul>
                         </li>
                         <li class="nav-item menu-parent">
                             <button class="nav-link title scroll">Nos forces</button>
 
                             <ul class="menu-children">
-                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php">Equipe qualifiée et à
-                                l’écoute</a></li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#s2">Expertise et savoir-faire éprouvés</a></li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#s3">Agilité et force de proposition</a>
+
+                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#f1">Agilité et force de proposition</a>
                                 </li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#s4">Innovation
-                                et dernières technologies</a></li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#s5">Qualité reconnue</a></li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#s6">Organisation optimisée</a></li>
+
+                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#f2">Expertise et savoir-faire éprouvés</a></li>
+
+                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#f3">Le Centre de Pilotage Opérationnel</a></li>
+
+                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#f4">Le Centre d'Excellence ARMA</a></li>
+
+                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#f5">Service client 24h/24 7j/7</a></li>
+                                
+                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#f6">Innovation et dernières technologies</a></li>
+
+                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#f7">Qualité reconnue</a></li>
                             </ul>
                         </li>
                         <li class="nav-item menu-parent">
@@ -86,17 +92,17 @@
 
                             <ul class="menu-children">
                                 <h6><span>Pour les villes et collectivités</span></h6>
-                                <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_proprete.php">Propreté urbaine</a>
+                                <li class="nav-item"><a class="nav-link menu-child" href="solutions.php#s1">Propreté urbaine</a>
                                 </li>
                                 <!--<li class="nav-item"><a class="nav-link menu-child" href="presta_villes_dechets.php">Gestion des déchets</a>-->
                                 </li>
-                                <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_eau.php">Eau &
+                                <li class="nav-item"><a class="nav-link menu-child" href="solutions.php#s2">Eau &
                                 Assainissement</a>
                             </li>
-                            <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_vertes.php">Espaces verts</a></li>
-                            <li class="nav-item"><a class="nav-link menu-child" href="presta_villes_eclairage.php">Eclairage publique</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="solutions.php#s3">Espaces verts</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="solutions.php#s4">Eclairage publique</a></li>
                             <h6><span>Pour les entreprises et industriels</span></h6>
-                            <li class="nav-item"><a class="nav-link menu-child" href="presta_pro_dechets.php">Gestion des déchets industriels</a>
+                            <li class="nav-item"><a class="nav-link menu-child" href="solutions.php#s5">Gestion des déchets industriels</a>
                             </li>
                         </ul>
                     </li>
@@ -115,25 +121,18 @@
 
                     </li>
                 <li class="nav-item menu-parent">
-                    <button class="nav-link title scroll">Nos highlights</button>
-
-                    <ul class="menu-children">
-                        <li class="nav-item"><a class="nav-link menu-child" href="actualite.php">Actualité</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="presse-medias.php">Médias</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="communiques.php">Communiqués</a></li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="blog.php">Blog ARMA</a></li>
-                    </ul>
+                    <a href="highlights.php"><button class="nav-link title scroll">Nos highlights</button></a>
                 </li>
 
                 <li class="nav-item menu-parent">
                     <button class="nav-link title scroll">Carrières</button>
 
                     <ul class="menu-children">
-                        <li class="nav-item"><a class="nav-link menu-child" href="commingsoon.php">Notre politique RH</a>
+                        <li class="nav-item"><a class="nav-link menu-child" href="politique-rh.php">Notre politique RH</a>
                         </li>
                         <li class="nav-item"><a class="nav-link menu-child" href="jobs.php">Nos offres d’emploi</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link menu-child" href="jobs_form.php">Candidature
+                        <li class="nav-item"><a class="nav-link menu-child" href="jobs.php#s2">Candidature
                         spontanée</a>
                     </li>
                 </ul>

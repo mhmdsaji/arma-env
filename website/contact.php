@@ -79,8 +79,8 @@ $formok = true;
 					</section>
 					<section class="section white-text text-center full-bg" style="background-image: url(assets/img/contact.png)">
                         <div class="container">
-                            <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">TOUJOURS PLUS PROCHES</h2>
-							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Service client 24h/24 - 7j/7</h3>
+                            <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">ARMA Enviornnement</h2>
+							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Toujours plus proches</h3>
 							<p class="wow animated zoomIn" data-wow-delay=".6s">ARMA Environnement place votre satisfaction au cœur de sa stratégie d’entreprise. Nous prenons très au sérieux vos demandes, et restons à votre écoute afin de vous fournir un service irréprochable. Nous nous engageons à traiter votre demande dans les plus brefs délais.</p>
                         </div>
 					</section>

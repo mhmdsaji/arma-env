@@ -21,7 +21,7 @@
 							<p>Partie intégrante de notre organisation, l’agilité nous permet de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
                         </div>
 					</section>
-					<section class="section full bg-white">
+					<section id="f1" class="section full bg-white">
 						<div class="container">
 							<div class="row">
 								<div class="col-5 pr-md-5 wow animated fadeInLeft" data-wow-delay=".2s">
@@ -65,7 +65,7 @@
 							</div>
 						</div>
 					</section>
-					<section class="section bg-blue white-text has-bg full extra-padding" style="background-image: url(assets/img/nos-forces.png)">
+					<section id="f2" class="section bg-blue white-text has-bg full extra-padding" style="background-image: url(assets/img/nos-forces.png)">
 						<div class="container">
 							<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS FORCES</h2>
 							<div class="row">
@@ -95,7 +95,7 @@
 							</div>
 						</div>
 					</section>
-					<section class="section white-text text-center full-bg" style="background-image: url(assets/img/nos-forces2.png)">
+					<section id="f3" class="section white-text text-center full-bg" style="background-image: url(assets/img/nos-forces2.png)">
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Le Centre de Pilotage Opérationnel</h3>
@@ -195,7 +195,7 @@
 							</div>
 						</div>
 					</section>
-					<section class="section full bg-blue white-text text-center">
+					<section id="f4" class="section full bg-blue white-text text-center">
 						<div class="container">
 							<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">LE CENTRE D'EXCELLENCE</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Une gestion centralisée pour une qualité <br>de service optimale </h3>
@@ -327,7 +327,7 @@
                             </div>
                         </div>
 					</section>
-					<section class="section white-text text-center full-bg" style="background-image: url(assets/img/forces.png)">
+					<section id="f5" class="section white-text text-center full-bg" style="background-image: url(assets/img/forces.png)">
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Service client 24h/24 - 7j/7</h3>
@@ -363,7 +363,7 @@
 							<h3 class="section-subtitle wow animated zoomIn small" data-wow-delay=".4s">Nous nous assurons d’honorer nos engagements auprès de nos clients à travers le respect des cahiers des charges ainsi que l’atteinte du niveau de satisfaction attendu.</h3>
                         </div>
 					</section>
-					<section class="section bg-white text-center">
+					<section id="f6" class="section bg-white text-center">
 						<div class="container">
 							<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">Nos forces</h2>
 							<h3 class="section-subtitle wow animated fadeIn" data-wow-delay=".4s">Innovation à la pointe des dernières technologies</h3>
@@ -439,7 +439,7 @@
 							</div>
 						</div>
 					</section>
-					<section class="section white-text bg-blue">
+					<section id="f7" class="section white-text bg-blue">
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES <span>Qualité reconnue</span></h2>
 							<h3 class="section-subtitle wow animated zoomIn xsmall" data-wow-delay=".4s">Nous nous engageons, à travers nos offres de services, à offrir à nos clients un service de qualité, aligné aux standards internationaux  et s’inscrivant dans une démarche d’amélioration continue et de satisfaction client à tous les niveaux : Qualité, hygiène,  sécurité et  environnement.</p>

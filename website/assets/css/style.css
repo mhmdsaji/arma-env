@@ -2027,7 +2027,7 @@ aside .arma-stats {
     display: flex;
     justify-content: center;
     align-items: center;
-	padding: 80px 0;
+	padding: 100px 0 120px 0;
 }
 
 .section.full {
@@ -2170,7 +2170,7 @@ aside .arma-stats {
 
 .section p {
     font-size: 16px;
-    line-height: 28px;
+    line-height: 22px;
     color: rgba(0, 0, 0, .7);
     max-width: 850px;
     margin-left: auto;
@@ -2630,6 +2630,11 @@ form .blue-btn:hover, form .blue-btn:focus {
 
 .slick-prev:before, .slick-next:before { 
     color: lightgray !important;
+}
+
+.innov-subtitle {
+    margin-top: -40px;
+    margin-bottom: 80px;
 }
 
 

@@ -22,28 +22,24 @@
 							<div class="logos-list align-items-start justify-content-between">
 								<div class="image-text purple wow animated fadeIn" data-wow-delay=".6s">
 									<img src="assets/img/arma-env.jpg" alt="ARMA Environnement">
-									<p class="small"><b>Services aux collectivités et à l’environnement : Propreté urbaine, gestion des déchets, espaces verts.</b><br>
-									Arma Environnement Œuvre chaque jour pour rendre nos villes plus propres, mieux aménagées et tout simplement agréables à vivre à travers son offre de solutions innovantes, testées et éprouvées en matière de services aux collectivités et à l’environnement.</p>
+									<p class="small">Œuvre chaque jour pour rendre vos villes plus propres, mieux aménagées et tout simplement agréable à vivre pour tous les citoyens.</p>
 								</div>
 								<div class="image-text orange wow animated fadeIn" data-wow-delay=".8s">
 									<img src="assets/img/arma-energy.jpg" alt="ARMA Energy">
-									<p class="small"><b>Energie & éclairage public</b><br>
-									Arma Energy vous conseille et vous accompagne afin d’adopter et de mettre en place les meilleures solutions en matière d’éclairage public. Qualité des installations, maintenance optimisée et gains énergétiques sont nos objectifs prioritaires pour un service d’éclairage optimal, smart et adapté.</p>
+									<p class="small">Vous conseille et vous accompagne afin d’adopter les meilleures pratiques en matière d’éclairage public. Qualité, maintenance et gains énergétiques sont nos objectifs prioritaires.</p>
 								</div>
 								<div class="image-text blue wow animated fadeIn" data-wow-delay="1s">
 									<img src="assets/img/arma-water.jpg" alt="ARMA Water">
-									<p class="small"><b>Eau & assainissement</b><br>
-									Arma water mobilise toute son expertise afin de proposer des systèmes innovants dans la collecte, la gestion  et le traitement des eaux usées et pluviales. Nous nous efforçons de limiter l’impact des stations sur l’environnement et de valoriser autant que possible la réutilisation des eaux épurées.</p>
+									<p class="small">Mobilise toute son expérience pour proposer des systèmes innovants dans la collecte et la gestion des eaux usées et pluviales.</p>
 								</div>
 								<div class="image-text green wow animated fadeIn" data-wow-delay="1.2s">
 									<img src="assets/img/axial-facilities.jpg" alt="Axial Facilities">
-									<p class="small"><b>Facility management</b><br>
-									AXIAL Facilities propose aux entreprises et industriels son expertise dans les métiers du Facility Management, à travers une offre sur-mesure, globale et intégrée de prestations de services. Elle s’engage auprès de ses partenaires à garantir le bon fonctionnement des bâtiments ainsi que le bien-être et confort des occupants, tout en contribuant à l’amélioration de leur performance organisationnelle.</p>
+									<p class="small">Facility management aux entreprises et industriels. Propose une palette de services qui permet aux entreprises de gagner en performance.</p>
 								</div>
 							</div>
 						</div>
 					</section>
-					<section class="section bg-white full text-center">
+					<section id="chiffres" class="section bg-white full text-center">
 						<div class="container">
 							<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">CHIFFRES CLÉS</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA en chiffres</h3>
@@ -150,7 +146,7 @@
 							</div>
 						</div>
 					</section>
-					<section class="section bg-blue white-text has-bg full extra-padding" style="background-image: url(assets/img/notre-mission.png)">
+					<section id="mission" class="section bg-blue white-text has-bg full extra-padding" style="background-image: url(assets/img/notre-mission.png)">
 						<div class="container">
 							<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">Notre mission</h2>
 							<div class="row">
@@ -180,7 +176,7 @@
 							</div>
 						</div>
 					</section>
-					<section class="section full bg-white">
+					<section id="valeurs" class="section full bg-white">
 						<div class="container">
 							<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS VALEURS</h2>
 							<div class="row">
@@ -226,7 +222,7 @@
 							</div>
 						</div>
 					</section>
-					<section class="section bg-blue white-text full">
+					<section id="refs" class="section bg-blue white-text full">
 						<div class="container">
 							<div class="row">
 								<div class="col-md-5">

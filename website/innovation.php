@@ -27,10 +27,10 @@
                     </section>
                     <section class="section bg-white">
                         <div class="container">
-                            <h3 class="section-subtitle wow animated fadeInLeft" data-wow-delay=".2s">Une gestion de<br> l'assiduité orientée<br> performance.</h3>
+                            <h3 class="section-subtitle innov-subtitle wow animated fadeInLeft" data-wow-delay=".2s">Une gestion de<br> l'assiduité orientée<br> performance.</h3>
                             <div class="row">
                                 <div class="col-md-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".4s">                                      
-                                    <h4 class="small-title">Fonctionnalités</h4>
+                                    <h4 class="small-title mt-0">Fonctionnalités</h4>
                                     <ul>
                                         <li>Création d’équipes en toute simplicité</li>
                                         <li>Attribution d’un employé à un circuit de collecte</li>
@@ -87,10 +87,10 @@
                     </section>
                     <section class="section bg-white">
                         <div class="container">
-                            <h3 class="section-subtitle wow animated fadeInLeft" data-wow-delay=".2s">Une gestion avancée<br> réclamations, à l'ère<br>du digital.</h3>
+                            <h3 class="section-subtitle innov-subtitle wow animated fadeInLeft" data-wow-delay=".2s">Une gestion avancée<br> réclamations, à l'ère<br>du digital.</h3>
                             <div class="row">
                                 <div class="col-md-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".4s">
-                                    <h4 class="small-title">Fonctionnalités</h4>
+                                    <h4 class="small-title mt-0">Fonctionnalités</h4>
                                     <ul>
                                         <li>Saisie de votre réclamation en toute simplicité</li>
                                         <li>Prise de photo géolocalisée de l’anomalie</li>

@@ -202,7 +202,7 @@
                             </div>
                         </div>
                     </section>
-                    <section class="section bg-green white-text text-center has-bg illustration" style="background-image: url(assets/img/water.png)">
+                    <section id="s2" class="section bg-green white-text text-center has-bg illustration" style="background-image: url(assets/img/water.png)">
                         <div class="container">
                             <h2 class="section-title text-shadow wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
                             <h3 class="section-subtitle text-shadow wow animated fadeIn" data-wow-delay=".4s">EAU ET ASSAINISSEMENT</h3>
@@ -276,7 +276,7 @@
                             </div>
                         </div>
                     </section>
-                    <section class="section bg-green white-text text-center has-bg illustration" style="background-image: url(assets/img/green.png)">
+                    <section id="s3" class="section bg-green white-text text-center has-bg illustration" style="background-image: url(assets/img/green.png)">
                         <div class="container">
                             <h2 class="section-title text-shadow wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
                             <h3 class="section-subtitle text-shadow wow animated fadeIn" data-wow-delay=".4s">Espaces verts</h3>
@@ -358,7 +358,7 @@
                             </div>
                         </div>
                     </section>
-                    <section class="section bg-blue white-text text-center has-bg illustration" style="background-image: url(assets/img/electricity.png)">
+                    <section id="s4" class="section bg-blue white-text text-center has-bg illustration" style="background-image: url(assets/img/electricity.png)">
                         <div class="container">
                             <h2 class="section-title text-shadow wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
                             <h3 class="section-subtitle text-shadow wow animated fadeIn" data-wow-delay=".4s">Éclairage publique</h3>
@@ -437,7 +437,7 @@
                             </div>
                         </div>
                     </section>
-                    <section class="section home-banner" style="background-image: url(assets/img/industrial.png)">
+                    <section id="s5" class="section home-banner" style="background-image: url(assets/img/industrial.png)">
                         <div class="home-banner-wrap">
                             <div class="container">
                                 <h1 class="wow animated zoomIn" data-wow-delay=".6s">Nos solutions pour les<br> entreprises et industriels</h1>
