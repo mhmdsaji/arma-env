@@ -45,7 +45,7 @@
                         <div class="container">
                             <h2 class="section-title text-shadow wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
                             <h3 class="section-subtitle text-shadow wow animated fadeIn" data-wow-delay=".4s">PROPRETÉ URBAINE</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                            <p>Depuis 2014, ARMA Environnement a sur confirmer sa position de leader des métiers de propreté et de collecte des déchets auprès de nombreuses villes et collectivités.</p>
                         </div>
                     </section>
                     <section class="section bg-white">
@@ -206,7 +206,7 @@
                         <div class="container">
                             <h2 class="section-title text-shadow wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
                             <h3 class="section-subtitle text-shadow wow animated fadeIn" data-wow-delay=".4s">EAU ET ASSAINISSEMENT</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                            <p>En tant qu’acteur responsable, ARMA Water met en place des solutions de gestion optimale de l’eau, et mobilise toute son expertise afin de proposer des systèmes innovant dans la collecte et la gestion des eaux usées et pluviales.</p>
                         </div>
                     </section>
                     <section class="section bg-white">
@@ -280,7 +280,7 @@
                         <div class="container">
                             <h2 class="section-title text-shadow wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
                             <h3 class="section-subtitle text-shadow wow animated fadeIn" data-wow-delay=".4s">Espaces verts</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                            <p>De la conception, à la réalisation en passant par l’entretien, ARMA Environnement adopte une vision durable de ses ouvrages, et propose des solutions performante de gestion des espaces verts adaptées à la configuration et aux données climatiques de chaque ville.</p>
                         </div>
                     </section>
                     <section class="section bg-white">
@@ -362,7 +362,7 @@
                         <div class="container">
                             <h2 class="section-title text-shadow wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
                             <h3 class="section-subtitle text-shadow wow animated fadeIn" data-wow-delay=".4s">Éclairage publique</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                            <p>ARMA Energy accompagne les villes à travers une démarche de conseil, de mise en œuvre, d’entretien et de maintenance de l’éclairage public, lui permettant de mettre en place des contrats de performance et de réaliser des économies d’énergie importantes.</p>
                         </div>
                     </section>
                     <section class="section bg-white">

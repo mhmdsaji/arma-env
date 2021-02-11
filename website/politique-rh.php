@@ -18,7 +18,7 @@
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">ARMA Enviornnement</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">NOTRE POLITIQUE RH </h3>
-							<p class="wow animated zoomIn" data-wow-delay=".6s">ARMA Environnement place votre satisfaction au cœur de sa stratégie d’entreprise. Nous prenons très au sérieux vos demandes, et restons à votre écoute afin de vous fournir un service irréprochable. Nous nous engageons à traiter votre demande dans les plus brefs délais.</p>
+							<p class="wow animated zoomIn" data-wow-delay=".6s">Principal levier de développement et de croissance, nous plaçons le capital humain au centre de notre stratégie d’entreprise. A travers un modèle agile de gestion, notre mission est d’attirer, développer et fidéliser les talents tout en optimisant l’efficacité organisationnelle et en assurant le bien-être en entreprise.</p>
                         </div>
                     </section>
                     <section class="section bg-white">

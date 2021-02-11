@@ -75,17 +75,17 @@
 								<div class="col-md-4">
 									<div class="title-text pr-md-4 mb-md-5">
 										<h4>Engagement</h4>
-										<p class="small">Engagés auprès de nos clients depuis 2011. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+										<p class="small">Engagés auprès de nos clients depuis 2011.</p>
 									</div>
 									<div class="title-text pr-md-4 mb-md-5">
 										<h4>Expertise</h4>
-										<p class="small">Sources d’expertises diversifiées. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.</p>
+										<p class="small">Sources d’expertises diversifiées.</p>
 									</div>
 								</div>
 								<div class="col-md-4">
 									<div class="title-text pr-md-4 mb-md-5">
 										<h4>Compréhension</h4>
-										<p class="small">Partenaire des villes avec une compréhension fine de leurs enjeux. Lorem ipsum dolor sit amet.</p>
+										<p class="small">Partenaire des villes avec une compréhension fine de leurs enjeux.</p>
 									</div>
 									<div class="title-text pr-md-4 mb-md-5">
 										<h4>développement durable</h4>
@@ -99,7 +99,7 @@
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Le Centre de Pilotage Opérationnel</h3>
-							<p>Un Système robuste et intelligent de pilotage opérationnel pour répondre aux enjeux des villes.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>
+							<p>Un Système robuste et intelligent de pilotage opérationnel pour répondre aux enjeux des villes.</p>
                         </div>
 					</section>
 					<section class="section full bg-white">
@@ -151,19 +151,19 @@
 										</div>
 										<div class="value mt-md-4">
 											<div class="img-holder no-hover">
-												<a class="value-toggle" data-toggle="collapse" href="#map" role="button" aria-expanded="false" aria-controls="map">
+												<a class="value-toggle" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="map">
 													<img src="assets/img/icons/map.png" alt="map">
 												</a>
 											</div>
-											<p class="collapse small" id="map">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+											<p class="collapse small" id="map"></p>
 										</div>
 										<div class="value">
 											<div class="img-holder no-hover">
-												<a class="value-toggle" data-toggle="collapse" href="#office" role="button" aria-expanded="false" aria-controls="office">
+												<a class="value-toggle" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="office">
 													<img src="assets/img/icons/office.png" alt="office">
 												</a>
 											</div>
-											<p class="collapse small" id="office">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+											<p class="collapse small" id="office"></p>
 										</div>
 										<div class="value mt-md-4">
 											<div class="img-holder no-hover">
@@ -184,11 +184,11 @@
 										</div>
 										<div class="value mt-md-4">
 											<div class="img-holder no-hover">
-												<a class="value-toggle" data-toggle="collapse" href="#chart" role="button" aria-expanded="false" aria-controls="chart">
+												<a class="value-toggle" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="chart">
 													<img src="assets/img/icons/chart.png" alt="chart">
 												</a>
 											</div>
-											<p class="collapse small" id="chart">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</strong></p>
+											<p class="collapse small" id="chart"></p>
 										</div>
 									</div>
 								</div>

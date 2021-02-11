@@ -18,11 +18,11 @@
 						<div class="container">
 							<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">QUI SOMMES-NOUS ?</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA </h3>
-							<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques :</p>
+							<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie, du transport et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques :</p>
 							<div class="logos-list align-items-start justify-content-between">
 								<div class="image-text purple wow animated fadeIn" data-wow-delay=".6s">
 									<img src="assets/img/arma-env.jpg" alt="ARMA Environnement">
-									<p class="small">Œuvre chaque jour pour rendre vos villes plus propres, mieux aménagées et tout simplement agréable à vivre pour tous les citoyens.</p>
+									<p class="small">Services aux collectivités et à l’environnement : Propreté urbaine, gestion des déchets, espaces verts, transport.</p>
 								</div>
 								<div class="image-text orange wow animated fadeIn" data-wow-delay=".8s">
 									<img src="assets/img/arma-energy.jpg" alt="ARMA Energy">
@@ -51,7 +51,7 @@
 											<div class="arma-stats-group">
 												<div class="arma-stats large blue">
 													<div class="arma-stats-inner">
-														<span class="bold number-scroll">6500</span>
+														<span class="bold number-scroll">7000</span>
 														<br/>Collaborateurs
 													</div>
 												</div>
@@ -162,6 +162,12 @@
 										<h4>DES VILLES PLUS SAINES</h4>
 										<p class="small">Si l’assainissement des eaux et déchets liquides est une nécessité, elle est en outre une formidable opportunité pour produire des énergies renouvelables. ARMA Environnement a mis au point des solutions innovantes en la matière.</p>
 									</div>
+									<div class="title-text pr-md-4 mb-md-5">
+										<h4>DES VILLES MIEUX RELIEES ET PLUS DYNAMIQUES</h4>
+										<p class="small">Véritable pièce maitresse du modèle urbain, un transport efficace est d’un fort impact sur la productivité et le dynamisme des villes.. ARMA développe  des solutions de mobilité partagée sur- mesure, adaptées aux enjeux des villes et aux besoins des citoyens.</p>
+									</div>
+
+
 								</div>
 								<div class="col-md-4">
 									<div class="title-text pr-md-4 mb-md-5">
@@ -228,7 +234,7 @@
 								<div class="col-md-5">
 									<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS REFERENCES</h2>
 									<h3 class="section-subtitle wow animated fadeIn" data-wow-delay=".4s">Un rayonnement national.</h3>
-									<p class="mb-md-5">ARMA Environnement est en mesure d’intervenir sur l’ensemble du territoire marocain grâce à un large réseau qui couvre actuellement 16 villes. Avec une force de frappe de plus 6 500 collaborateurs, vous pourrez compter sur notre réactivité et notre efficacité.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+									<p class="mb-md-5">ARMA Environnement est en mesure d’intervenir sur l’ensemble du territoire marocain grâce à un large réseau qui couvre actuellement 16 villes. Avec une force de frappe de plus de 7000 collaborateurs, vous pourrez compter sur notre réactivité et notre efficacité.
 									</p>									
 									<a class="read-more" href="#references">Découvrez nos références <i class="las la-arrow-down"></i></a>
 								</div>

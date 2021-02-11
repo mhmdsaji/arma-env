@@ -61,26 +61,26 @@
                                             <div class="icon-img">
                                                 <img src="assets/img/small-logos/help.png" alt="Aide à la prise de décision">
                                             </div>
-                                            <p>Aide à la prise de décision et analyse des données Lorem Lorem Lorem Lorem Lorem Lorem ....</p>
+                                            <p>Aide à la prise de décision et analyse des données de présence et d’assiduité.</p>
                                         </li>
                                         <li>
                                             <div class="icon-img">
                                                 <img src="assets/img/small-logos/easy.png" alt="Facilitation">
                                             </div>
-                                            <p>Facilitation du contrôle pour les chefs d’équipe Lorem Lorem Lorem Lorem Lorem Lorem ...</p>
+                                            <p>Facilitation du contrôle effectué par les chefs d’équipes auprès des agents.</p>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </section>
-                    <section class="section white-text full-bg after mystaff" style="background-image: url(assets/img/innovation.png)">
+                    <section class="section white-text full-bg after ask" style="background-image: url(assets/img/innovation.png)">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-8">
                                     <h2 class="section-title wow animated zoomIn" data-wow-delay=".2s">NOS INNOVATIONS</h2>
                                     <h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s"><img src="assets/img/icons/ask-logo.png" alt="Ask App" width="135px"></h3>
-                                    <p class="wow animated zoomIn pl-4" data-wow-delay=".6s">Une application responsive et adaptée à tous les supports, qui  permet la saisie, l’enregistrement et la gestion des réclamations adressées aux différentes filiales du Groupe ARMA..</p>
+                                    <p class="wow animated zoomIn pl-4" data-wow-delay=".6s">Une application responsive et adaptée à tous les supports<br> qui permet la saisie l’enregistrement et la gestion des<br> réclamations adressées aux différentes filiales du Groupe ARMA.</p>
                                 </div>
                             </div>                            
                         </div>
@@ -102,25 +102,25 @@
                                 </div>
                                 <div class="col-md-6 px-md-5 wow animated fadeInRight" data-wow-delay=".2s">
                                     <h4 class="small-title mt-0">LES + DE l'application</h4>
-                                    
+                                  
                                     <ul class="advatages">
                                         <li>
                                             <div class="icon-img">
                                                 <img src="assets/img/small-logos/fast.png" alt="Rapidité">
                                             </div>
-                                            <p>Prise en charge rapide de la réclamation Lorem lorem lorem lorem lorem.</p>
+                                            <p>Prise en charge rapide des demandes et réclamations formulées.</p>
                                         </li>
                                         <li>
                                             <div class="icon-img">
                                                 <img src="assets/img/small-logos/calendar.png" alt="Temps">
                                             </div>
-                                            <p>Réduction considérable de la durée de traitement Lorem lorem lorem lorem lorem.</p>
+                                            <p>Réduction considérable de la durée de traitement des demandes.</p>
                                         </li>
                                         <li>
                                             <div class="icon-img">
                                                 <img src="assets/img/small-logos/improvment.png" alt="Amélioration">
                                             </div>
-                                            <p>Amélioration de la qualité de traitement de la réclamation Lorem lorem lorem lorem  lorem..</p>
+                                            <p>Amélioration de la réactivité et de la qualité de traitement des demandes reçues.</p>
                                         </li>
                                         <li>
                                             <div class="icon-img">
@@ -138,7 +138,7 @@
                                             <div class="icon-img">
                                                 <img src="assets/img/small-logos/easy.png" alt="Facilitation">
                                             </div>
-                                            <p>Meilleure maitrise de la satisfaction client Lorem lorem lorem lorem lorem.</p>
+                                            <p>Meilleure maitrise du parcours client et amélioration de sa satisfaction.</p>
                                         </li>
                                     </ul>
                                 </div>

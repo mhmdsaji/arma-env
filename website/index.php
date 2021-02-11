@@ -55,7 +55,7 @@
 													<br />d'habitants desservis
 												</div>
 												<div class="home-arma-stat">
-													<span class="number"><span class="number-scroll">6500</span></span>
+													<span class="number"><span class="number-scroll">7000</span></span>
 													<br />collaborateurs
 												</div>
 											</div>
@@ -65,8 +65,8 @@
 								<section class="section full bg-blue white-text text-center">
 									<div class="container">
 										<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">QUI SOMMES-NOUS ?</h2>
-										<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Premier opérateur des services aux collectivitéset aux entreprises au Maroc</h3>
-										<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie et des services. <br>Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques.</p>
+										<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Premier opérateur des services aux collectivités et aux entreprises au Maroc</h3>
+										<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie, du transport et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques :</p>
 										<div class="logos-list">
 											<a href="#" class="wow animated fadeIn" data-wow-delay=".6s"><img src="assets/img/arma-env.jpg" alt="ARMA Environnement"></a>
 											<a href="#" class="wow animated fadeIn" data-wow-delay=".8s"><img src="assets/img/arma-energy.jpg" alt="ARMA Energy"></a>
