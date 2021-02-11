@@ -2065,7 +2065,7 @@ aside .arma-stats {
 .section.white-text .section-title, 
 .section.white-text p, 
 .section.white-text .read-more {
-	color: rgba(255 , 255, 255, .5);
+	color: rgba(255 , 255, 255, .65);
 }
 
 .section.white-text .read-more:hover {
@@ -2304,6 +2304,13 @@ aside .arma-stats {
 
 .arma-project .img-holder {
 	border-radius: 8px;
+}
+
+.opacity-hover {
+    opacity: 0.5;
+}
+.opacity-hover:hover {
+    opacity: 1;
 }
 
 

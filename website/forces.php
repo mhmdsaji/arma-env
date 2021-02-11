@@ -454,9 +454,9 @@ Un suivi par permettant: <br>
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES <span>Qualité reconnue</span></h2>
 							<h3 class="section-subtitle wow animated zoomIn xsmall" data-wow-delay=".4s">Nous nous engageons, à travers nos offres de services, à offrir à nos clients un service de qualité, aligné aux standards internationaux  et s’inscrivant dans une démarche d’amélioration continue et de satisfaction client à tous les niveaux : Qualité, hygiène,  sécurité et  environnement.</p>
 							<div class="iso">
-								<img src="assets/img/icons/9001.png" alt="ISO 9001">
-								<img src="assets/img/icons/45001.png" alt="ISO 45001">
-								<img src="assets/img/icons/14001.png" alt="ISO 14001">
+								<img class="opacity-hover" src="assets/img/icons/9001.png" alt="ISO 9001">
+								<img class="opacity-hover" src="assets/img/icons/45001.png" alt="ISO 45001">
+								<img class="opacity-hover" src="assets/img/icons/14001.png" alt="ISO 14001">
 							</div>
                         </div>
 					</section>

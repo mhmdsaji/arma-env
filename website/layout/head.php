@@ -1,8 +1,8 @@
 <!-- Meta Tags -->
 <meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <!-- Author -->
-<meta name="author" content="aznco"/>
+<meta name="author" content="AZNCO Group // Amine Azariz"/>
 <!-- description -->
 <meta name="description" content=""/>
 <!-- keywords -->
