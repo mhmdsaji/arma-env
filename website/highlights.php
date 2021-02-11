@@ -18,13 +18,13 @@
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">ARMA Enviornnement</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Nos highlights</h3>
-							<p class="wow animated zoomIn" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p class="wow animated zoomIn" data-wow-delay=".6s">Moments forts, actualités ou flashs infos, nous partageons avec vous toutes les nouveautés du Groupe ARMA.</p>
                         </div>
 					</section>
                     <section class="section bg-white text-center">
                         <div class="container">
                             <h3 class="section-subtitle wow animated fadeInLeft" data-wow-delay=".4s">Suivez l'actualité de notre activité</h3>
-                            <p class="mb-50 wow animated fadeInLeft" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>       
+                            <p class="mb-50 wow animated fadeInLeft" data-wow-delay=".4s">En vidéos, photos, ou communiqués de presse, suivez nos highlights et restez connectés à notre actualité.</p>       
                             <div class="row masonry-grid">
                             <div class="col-sm-4 masonry-column">
                                     <div class="arma-project wow animated fadeIn" data-wow-delay=".5s">

@@ -205,31 +205,35 @@
 									<img src="assets/img/icons/optimisation.png" alt="Optimisation">
 									<div class="title-text pr-md-4">
 										<h4>Optimisation des coûts</h4>
-										<p class="small">L'optimisation des coûts d'exploitation et de la qualité du service est l'objectif premier de de notre centre d'excellence orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+										<p class="small">La démarche du centre d’excellence est le résultat d’une projection étudiée sur l’avenir. Son objectif majeur est d’assurer le meilleur rapport qualité/prix  reposant sur :<br>  
+- L’optimisation des coûts d’exploitation<br>
+- La qualité du service pour enfin assurer un meilleur rapport qualité prix.</p>
 									</div>
 								</div>
 								<div class="image-text orange wow animated fadeIn" data-wow-delay=".8s">
 									<img src="assets/img/icons/approvisionnement.png" alt="Approvisionnement">
 									<div class="title-text pr-md-4">
 										<h4>Approvisionnement & Logistique</h4>
-										<p class="small">Suivi et contrôle des données d'approvisionnement, de logisitique et de gestion RH. Contôle permanent des activités opérationnelles. Optimisation des coûts d'exploitation.</p>
+										<p class="small">Le centre d’excellence assure le suivi et le contrôle des données d’approvisionnement et de logistique, à travers le pilotage digitalisé de la chaîne d’approvisionnement:  demandes d'achat, des bons de commande  et des contrats fournisseurs.</p>
 									</div>
 								</div>
 								<div class="image-text blue wow animated fadeIn" data-wow-delay="1s">
 									<img src="assets/img/icons/control.png" alt="control">
 									<div class="title-text pr-md-4">
 										<h4>Contrôle des opérations</h4>
-										<p class="small">Contôle permanent des activités opérationnelles. 
-											Lorem ipsum dolor sit ammet, consectetur adipiscing elit, sed do eiusmod tempor incididupnt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-											Lorem ipsum dolor sit ammet, consectetur.</p>
+										<p class="small">Le centre d’excellence effectue un focus sur le contrôle permanent des activités opérationnelles au niveau des aspects : terrain,  pointage RH et finances , et ce, afin d’assurer l’homogénéité, la qualité et la continuité des services du Groupe ARMA.</p>
 									</div>
 								</div>
 								<div class="image-text green wow animated fadeIn" data-wow-delay="1.2s">
 									<img src="assets/img/icons/maintenance.png" alt="maintenance">
 									<div class="title-text pr-md-4">
 										<h4>maintenance</h4>
-										<p class="small">Gestion de la maintenance du parc de véhicules et de l'inventaire.  Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-											Lorem ipsum dolor sit amet, </p>
+										<p class="small">Le centre d’excellence accompagne l’ensemble de nos équipages face à n’importe quel imprévu ou problème technique, il gère la maintenance du parc de véhicules et son inventaire.
+Un suivi par permettant: <br>
+- L’organisation  des entretiens nécessaires (vidange, réparation…)<br>
+- Le suivi de l’ensemble des machines<br>
+- La centralisation des fiches d’intervention corrective et préventive<br>
+- La gestion du stock de pièces</p>
 									</div>
 								</div>
 							</div>
@@ -303,7 +307,13 @@
 											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#terrain" role="button" aria-expanded="false" aria-controls="terrain"><img src="assets/img/icons/terrain.png" alt="terrain"></a>
 											</div>
-											<p class="collapse small" id="terrain">Suivi de la conformité du service. Vérification de la conformité du stock. Et suivi de l'état des parcs.</p>
+											<p class="collapse small" id="terrain">Le contrôle terrain représente une part importante du travail de notre centre d’excellence. Un audit interne est ainsi réalisé régulièrement afin de vérifier :<br>
+- La conformité du matériel.<br>
+- La conformité et l’excellence de nos services.<br>
+- La propreté de nos sites et locaux.<br>
+- L’état de fonctionnement de l’ensemble de notre matériel<br>
+
+<b>Nos contrôleurs peuvent signaler et traiter en temps réel des anomalies ponctuelles à tout moment en utilisant l’application « CLEAN+ », exclusivement configurée pour nos besoins de contrôle.</b></p>
 										</div>
 										<div class="value mt-md-4">
 											<div class="img-holder no-hover">
@@ -311,7 +321,7 @@
 													<img src="assets/img/icons/pointage.png" alt="pointage">
 												</a>
 											</div>
-											<p class="collapse small" id="pointage">Suivi du pointage journalier des employés et vérification de l'authenticité des données de présence transmises. </p>
+											<p class="collapse small" id="pointage">Le centre d’excellence assure constamment de la discipline de nos employés . Le pointage est ainsi effectué et vérifié quotidiennement par nos équipes qualifiées du centre d’excellence. Notre démarche de vérification estentièrement digitalisée. <b>Tout est réalisé à l’aide du logiciel « My Staff » conçu spécialement pour la centralisation et le contrôle des données d’assiduité et de performance de nos équipes.</b></p>
 										</div>
 										<div class="value">
 											<div class="img-holder no-hover">
@@ -319,7 +329,7 @@
 													<img src="assets/img/icons/finance.png" alt="finance">
 												</a>
 											</div>
-											<p class="collapse small" id="finance">Verification de l'excellence opérationnelle et optimisation des coûts.</p>
+											<p class="collapse small" id="finance">Le centre d’excellence réalise également le premier niveau de contrôle financier du Groupe ARMA. Le département de contrôle financier surveille en direct l’ensemble des données financières. En effet, les analystes décomposent les dépenses par type et réalisent des estimations pour chaque mois et chaque année. <b>Les budgets sont ensuite fixés, et suivis en direct en salle de contrôle afin de vérifier l’excellence opérationnelle et garantir l’optimisation des coûts.</b></p>
 										</div>
 										<div class="value"></div>
 									</div>

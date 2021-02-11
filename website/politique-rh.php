@@ -34,7 +34,7 @@
                                     </div>
                                     <p><b>Un processus d’Intégration personnalisé</b></p>
                                     <p>ARMA s’engage à accompagner l’ensemble de ces nouveaux collaborateurs dans leur prise de fonction. Un parcours d’intégration sur mesure est mis en place en fonction des besoins individuels et de la fonction intégrée. <br>Maillon incontournable dans la vie de nos nouveaux collaborateurs, l’intégration ne se résume pas à une seule journée d’accueil. Elle s’inscrit dans un véritable dispositif d’accompagnement conçu en adéquation avec nos besoins pour faciliter les premiers pas au sein d’ARMA.</p> 
-                                    <img src="assets/img/processus.png" alt="Processus">
+                                    <!-- <img src="assets/img/processus.png" alt="Processus"> -->
                                     <h4 class="small-title">Formation</h4>
                                     <p>ARMA propose des parcours de formation individualisés ajustables au besoin des  nouvelles recrues. <br>Toutes nos formations sont développées autour des compétences métiers sous forme de modules thématiques courts (Système Modulaire) pouvant être réunis pour constituer des cursus professionnalisants.</p>
                                     <div class="img-holder">

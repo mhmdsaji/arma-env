@@ -86,15 +86,99 @@ if (isset($_POST["uid"])) {    // the user has submitted the form
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">ARMA Enviornnement</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">NOUS REJOINDRE</h3>
-							<p class="wow animated zoomIn" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+							<p class="wow animated zoomIn" data-wow-delay=".6s">Chez Le Groupe ARMA , quelle que soit votre mission, vous ferez la différence en concrétisant vos idées enthousiastes afin de créer de la valeur dans un environnement de travail propice au bien-être et à l’accomplissement de soi.</p>
                         </div>
 					</section>
 					<section class="section bg-white text-center">
 						<div class="container">
 						<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".2s">Consultez nos offres d'emplois</h3>
-							<p class="wow animated zoomIn" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+							<p class="wow animated zoomIn" data-wow-delay=".4s">La diversité, le développement de compétences, l’innovation et le bien-être au travail, sont les piliers de base de notre politique RH,  vous permettant ainsi de voir vos projets s’accomplir et de libérer votre potentiel tout en cultivant le leadership, l’excellence et l’agilité,  des valeurs clés qui guident nos actions et challenges au quotidien. Au sein du groupe ARMA, nous fédérons nos équipes autour d’un projet d’entreprise mobilisateur construit sur l’innovation, la création de valeur, l’engagement  sociétale, et le développement d’expertises. Vous vous y voyez déjà ? Envoyez votre candidature et osez l’expérience ARMA !</p>
 							<div class="grid-layout content-wrapper wow fadeIn mt-5" data-wow-delay=".6s">
 								<div class="card-deck mb-4">
+									<div class="card">
+										<div class="card-header">
+											<img class="card-logo" src="assets/img/icons/logo.png" alt="Arma Environnement">
+											<img class="star" src="assets/img/icons/star.png" alt="">
+										</div>
+										<a href="#">
+	                                        <div class="card-body">
+	                                            <h5 class="card-title">Responsable Développement Ressources Humaines</h5>
+	                                            <h6 class="card-subtitle mb-2 text-muted">ARMA Environnement, Rabat</h6>
+	                                        </div>
+	                                        <div class="card-footer">
+	                                            <div class="card-date">LE 01 / 02 / 2021 </div>
+	                                        </div>
+                                    	</a>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<img class="card-logo" src="assets/img/icons/logo.png" alt="Arma Environnement">
+											<img class="star" src="assets/img/icons/star.png" alt="">
+										</div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Responsable Développement Ressources Humaines</h5>
+                                            <h6 class="card-subtitle mb-2 text-muted">ARMA Environnement, Rabat</h6>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="card-date">LE 01 / 02 / 2021 </div>
+                                        </div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<img class="card-logo" src="assets/img/icons/logo.png" alt="Arma Environnement">
+											<img class="star" src="assets/img/icons/star.png" alt="">
+										</div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Responsable Développement Ressources Humaines</h5>
+                                            <h6 class="card-subtitle mb-2 text-muted">ARMA Environnement, Rabat</h6>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="card-date">LE 01 / 02 / 2021 </div>
+                                        </div>
+									</div>	
+                                </div>
+                                <div class="card-deck mb-4">
+									<div class="card">
+										<div class="card-header">
+											<img class="card-logo" src="assets/img/icons/logo.png" alt="Arma Environnement">
+											<img class="star" src="assets/img/icons/star.png" alt="">
+										</div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Responsable Développement Ressources Humaines</h5>
+                                            <h6 class="card-subtitle mb-2 text-muted">ARMA Environnement, Rabat</h6>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="card-date">LE 01 / 02 / 2021 </div>
+                                        </div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<img class="card-logo" src="assets/img/icons/logo.png" alt="Arma Environnement">
+											<img class="star" src="assets/img/icons/star.png" alt="">
+										</div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Responsable Développement Ressources Humaines</h5>
+                                            <h6 class="card-subtitle mb-2 text-muted">ARMA Environnement, Rabat</h6>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="card-date">LE 01 / 02 / 2021 </div>
+                                        </div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<img class="card-logo" src="assets/img/icons/logo.png" alt="Arma Environnement">
+											<img class="star" src="assets/img/icons/star.png" alt="">
+										</div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Responsable Développement Ressources Humaines</h5>
+                                            <h6 class="card-subtitle mb-2 text-muted">ARMA Environnement, Rabat</h6>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="card-date">LE 01 / 02 / 2021 </div>
+                                        </div>
+									</div>	
+                                </div>
+                                <div class="card-deck mb-4">
 									<div class="card">
 										<div class="card-header">
 											<img class="card-logo" src="assets/img/icons/logo.png" alt="Arma Environnement">
@@ -160,6 +244,8 @@ if (isset($_POST["uid"])) {    // the user has submitted the form
 										<label for="objectemail">Offre de candidature*</label>
 										<select name="objectemail" id="objectemail" class="form-control">
 											<option value="Candidature spontanée">Candidature spontanée</option>
+											<option value="CRabat - Responsable Développement Ressources Humaines">Rabat - Responsable Développement Ressources Humaines</option>
+											<option value="Casa - Responsable exploitation">Casa - Responsable exploitation</option>
 										</select>
 									</div>
 

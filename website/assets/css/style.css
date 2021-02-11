@@ -1515,7 +1515,7 @@ li.breadcrumb-item.active {
 .card-footer {
 	background: transparent;
 	border: 0;
-	padding: 10px 1.25rem;
+	padding: 5px 1.25rem 10px;
 	position: relative;
 	text-align: left;
 }

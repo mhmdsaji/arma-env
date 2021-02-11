@@ -51,7 +51,7 @@ $formok = true;
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">ARMA Enviornnement</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Service client 24h/24 - 7j/7</h3>
-							<p class="wow animated zoomIn" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p class="wow animated zoomIn" data-wow-delay=".6s">Vous désirez avoir plus d'informations sur le Groupe ARMA et ses activités, soumettre une demande, une réclamation ou tout simplement nous consulter pour une prestation? Nous sommes à votre écoute 24h/24, 7j/7, et nous serons ravis de répondre à vos besoins et satisfaire vos demandes.</p>
                         </div>
 					</section>
 					<section class="section text-center">
@@ -67,12 +67,12 @@ $formok = true;
 									<p class="small">Notre ligne directe est à votre écoute pour toute consultation ou demande d’information.</p>
 								</div>
 								<div class="image-text red wow animated fadeIn" data-wow-delay=".6s">
-									<img src="assets/img/icons/clean.png" alt="mail">
+									<img src="assets/img/icons/mail.png" alt="mail">
 									<p class="small">Vous pouvez également nous contacter par email à l’adresse suivante : <a href="mailto:contact@arma.ma">contact@arma.ma</a></p>
 								</div>
 								<div class="image-text orange wow animated fadeIn" data-wow-delay=".7s">
 									<img src="assets/img/icons/location.png" alt="location">
-									<p class="small"><b>Adresse</b> : Avenue Mehdi Ben Barka Lot Soumia, Lot N°5 Souissi, Rabat, Maroc. <a href="https://goo.gl/maps/bdMm6ZENUuurPq9B9" target="_blank">(Localiser en cliquant ici)</a></p>
+									<p class="small"><b>Adresse</b> : Avenue Mehdi Ben Barka Lot Soumia, Lot N°5 Souissi, Rabat, Maroc.<br><a href="https://goo.gl/maps/bdMm6ZENUuurPq9B9" target="_blank">(localiser en cliquant ici)</a></p>
 								</div>								
 							</div>
 						</div>
