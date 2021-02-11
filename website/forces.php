@@ -75,21 +75,21 @@
 								<div class="col-md-4">
 									<div class="title-text pr-md-4 mb-md-5">
 										<h4>Engagement</h4>
-										<p class="small">Engagés auprès de nos clients depuis 2011.</p>
+										<p class="small">Engagés auprès de nos clients depuis 2011, nous restons au plus proches des besoins des collectivités et attentes des citoyens en proposant des solutions sur-mesure, capables d’accompagner les villes dans leur développement.</p>
 									</div>
 									<div class="title-text pr-md-4 mb-md-5">
 										<h4>Expertise</h4>
-										<p class="small">Sources d’expertises diversifiées.</p>
+										<p class="small">ARMA Environnement dispose de sources d’expertises diversifiées et spécifiques à chaque métier lui permettant de mettre en œuvre des solutions de performance innovantes et efficaces, testées et éprouvées auprès de diverses villes et collectivités.</p>
 									</div>
 								</div>
 								<div class="col-md-4">
 									<div class="title-text pr-md-4 mb-md-5">
 										<h4>Compréhension</h4>
-										<p class="small">Partenaire des villes avec une compréhension fine de leurs enjeux.</p>
+										<p class="small">Partenaire des villes avec une compréhension fine de leurs enjeux de croissance démographique, d’urbanisation, de défis énergétiques et environnementaux et bien d’autres, ARMA Environnement tient compte de ces différents paramètres dans la conception et la mise en place de solutions adaptées à chaque ville.</p>
 									</div>
 									<div class="title-text pr-md-4 mb-md-5">
-										<h4>développement durable</h4>
-										<p class="small">Intégration du développement durable dans chacun de nos métiers.</p>
+										<h4>Développement durable</h4>
+										<p class="small">Partie intégrante de nos valeurs et de notre stratégie d’entreprise, le développement durable prend part dans tous nos métiers et process. Nous mettons en place des solutions qui respectent l’environnement, totalement intégrées dans un modèle d’économie circulaire.</p>
 									</div>
 								</div>
 							</div>
@@ -305,7 +305,7 @@ Un suivi par permettant: <br>
 									<div class="values">
 										<div class="value">
 											<div class="img-holder no-hover">
-												<a class="value-toggle" data-toggle="collapse" href="#terrain" role="button" aria-expanded="false" aria-controls="terrain"><img src="assets/img/icons/terrain.png" alt="terrain"></a>
+												<a class="value-toggle" data-toggle="collapse" href="#terrain" role="button" aria-expanded="false" aria-controls="terrain"><img src="assets/img/icons/terrain.jpg" alt="terrain"></a>
 											</div>
 											<p class="collapse small" id="terrain">Le contrôle terrain représente une part importante du travail de notre centre d’excellence. Un audit interne est ainsi réalisé régulièrement afin de vérifier :<br>
 - La conformité du matériel.<br>
@@ -318,7 +318,7 @@ Un suivi par permettant: <br>
 										<div class="value mt-md-4">
 											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#pointage" role="button" aria-expanded="false" aria-controls="pointage">
-													<img src="assets/img/icons/pointage.png" alt="pointage">
+													<img src="assets/img/icons/pointage.jpg" alt="pointage">
 												</a>
 											</div>
 											<p class="collapse small" id="pointage">Le centre d’excellence assure constamment de la discipline de nos employés . Le pointage est ainsi effectué et vérifié quotidiennement par nos équipes qualifiées du centre d’excellence. Notre démarche de vérification estentièrement digitalisée. <b>Tout est réalisé à l’aide du logiciel « My Staff » conçu spécialement pour la centralisation et le contrôle des données d’assiduité et de performance de nos équipes.</b></p>
@@ -326,7 +326,7 @@ Un suivi par permettant: <br>
 										<div class="value">
 											<div class="img-holder no-hover">
 												<a class="value-toggle" data-toggle="collapse" href="#finance" role="button" aria-expanded="false" aria-controls="finance">
-													<img src="assets/img/icons/finance.png" alt="finance">
+													<img src="assets/img/icons/finance.jpg" alt="finance">
 												</a>
 											</div>
 											<p class="collapse small" id="finance">Le centre d’excellence réalise également le premier niveau de contrôle financier du Groupe ARMA. Le département de contrôle financier surveille en direct l’ensemble des données financières. En effet, les analystes décomposent les dépenses par type et réalisent des estimations pour chaque mois et chaque année. <b>Les budgets sont ensuite fixés, et suivis en direct en salle de contrôle afin de vérifier l’excellence opérationnelle et garantir l’optimisation des coûts.</b></p>
