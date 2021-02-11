@@ -341,7 +341,7 @@ Un suivi par permettant: <br>
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Service client 24h/24 - 7j/7</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore. </p>
+							<p>Numéro vert, ligne directe ou application web, nous restons connectés à vos besoins et recueillons vos demandes en permanence. </p>
                         </div>
 					</section>
 					<section class="section full text-center">
@@ -354,7 +354,7 @@ Un suivi par permettant: <br>
 								</div>
 								<div class="image-text purple wow animated fadeIn" data-wow-delay=".5s">
 									<img src="assets/img/icons/ask.png" alt="ask">
-									<p class="small">L’application à travers laquelle vous pouvez formuler vos <strong>réclamations</strong>, et suivre leur traitement. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </p>
+									<p class="small">Une application responsive et adaptée à tous les supports, accessible 24h/24 et 7j, qui permet la saisie, l’enregistrement et la gestion des <b>réclamations</b> adressées aux différentes filiales du Groupe ARMA. Vous pouvez suivre le statut de votre réclamation en temps réel.</p>
 								</div>
 								<div class="image-text red wow animated fadeIn" data-wow-delay=".6s">
 									<img src="assets/img/icons/clean.png" alt="Clean">
