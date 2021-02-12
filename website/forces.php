@@ -25,7 +25,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-5 pr-md-5 wow animated fadeInLeft" data-wow-delay=".2s">
-									<h3 class="section-subtitle">L’agilité, facteur clé de création de valeur</h3>
+									<h3 class="section-subtitle w-100">L’agilité, facteur clé de création de valeur</h3>
 									<p>L’agilité est une culture ancrée eu sein du Groupe ARMA, et reflétée à travers notre sens d’écoute de l’environnement et de ses mutations, et notre capacité d’anticipation et de réaction.<br><br>Nous faisons de la coopération, tant en interne qu’en externe vis-à-vis des acteurs de notre environnement, de l’innovation permanente, et de la recherche constante de création de valeur des éléments  importants nous permettant de réagir rapidement aux changements des marchés, mais aussi de répondre aux opportunités pour co-développer sans cesse de nouvelles solutions adaptées au contexte.</p>
 								</div>
 								<div class="col-6 offset-md-1 wow animated fadeInRight" data-wow-delay=".2s">
@@ -70,7 +70,7 @@
 							<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS FORCES</h2>
 							<div class="row">
 								<div class="col-md-4">
-									<h3 class="section-subtitle  pr-md-5 wow animated fadeIn" data-wow-delay=".4s">Expertise et savoir-faire éprouvés</h3>
+									<h3 class="section-subtitle w-100 pr-md-5 wow animated fadeIn" data-wow-delay=".4s">Expertise et savoir-faire éprouvés</h3>
 								</div>
 								<div class="col-md-4">
 									<div class="title-text pr-md-4 mb-md-5">
@@ -106,7 +106,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-5 pr-md-5 wow animated fadeInLeft" data-wow-delay=".2s">
-									<h3 class="section-subtitle">Le CPO Arma Environnement</h3>
+									<h3 class="section-subtitle w-100">Le CPO Arma Environnement</h3>
 									<p>Nos systèmes de pilotage permettent à nos managers de suivre, d’analyser et de conduire en permanence la réalisation de nos projets à travers des outils et des technologies innovantes afin de répondre pertinemment et aux besoins de nos clients et de leur offrir une qualité de service optimale. </p>
 									<div class="section-stats">
 										<div class="section-stat">
@@ -198,7 +198,7 @@
 					<section id="f4" class="section full bg-blue white-text text-center">
 						<div class="container">
 							<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">LE CENTRE D'EXCELLENCE</h2>
-							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Une gestion centralisée pour une qualité <br>de service optimale </h3>
+							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Une gestion centralisée pour une qualité de service optimale </h3>
 							<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Créé en 2016, le centre d’excellence représente une véritable « courroie de transmission », il permet de centraliser un bon nombre de tâches liées principalement au contrôle et à l’approvisionnement des différentes exploitations et filiales au niveau d’une seule entité. Toutes les données  sont gérées au niveau du centre, puis triées et ensuite traitées de manière à optimiser notre qualité de service, nos coûts et nos délais.  Axes de fonctionnement du centre d’excellence :</p>
 							<div class="logos-list align-items-start justify-content-between">
 								<div class="image-text purple wow animated fadeIn" data-wow-delay=".6s">
@@ -242,7 +242,7 @@ Un suivi par permettant: <br>
 					<section class="section bg-white">
                         <div class="container">
                             <h2 class="section-title wow animated fadeIn">NOS FORCES<span>Centre d'excellence</span></h2>
-                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Centre <br>d’approvisionnement</h3>
+                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Centre d’approvisionnement</h3>
                             <div class="row">  
                                 <div class="col-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".2s">                                      
 									<p><strong>Le point de contrôle et de gestion des différents contrats, des commandes et des dépenses du Groupe à travers un système de « Ticketing »</strong></p>
@@ -337,7 +337,7 @@ Un suivi par permettant: <br>
                             </div>
                         </div>
 					</section>
-					<section id="f5" class="section white-text text-center full-bg" style="background-image: url(assets/img/forces.png)">
+					<section id="f5" class="section white-text text-center full-bg" style="background-image: url(assets/img/service-client.png)">
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Service client 24h/24 - 7j/7</h3>
@@ -452,7 +452,7 @@ Un suivi par permettant: <br>
 					<section id="f7" class="section white-text bg-blue">
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES <span>Qualité reconnue</span></h2>
-							<h3 class="section-subtitle wow animated zoomIn xsmall" data-wow-delay=".4s">Nous nous engageons, à travers nos offres de services, à offrir à nos clients un service de qualité, aligné aux standards internationaux  et s’inscrivant dans une démarche d’amélioration continue et de satisfaction client à tous les niveaux : Qualité, hygiène,  sécurité et  environnement.</p>
+							<h3 class="section-subtitle wow animated zoomIn xsmall w-100" data-wow-delay=".4s">Nous nous engageons, à travers nos offres de services, à offrir à nos clients un service de qualité, aligné aux standards internationaux  et s’inscrivant dans une démarche d’amélioration continue et de satisfaction client à tous les niveaux : Qualité, hygiène,  sécurité et  environnement.</h3>
 							<div class="iso">
 								<img class="opacity-hover" src="assets/img/icons/9001.png" alt="ISO 9001">
 								<img class="opacity-hover" src="assets/img/icons/45001.png" alt="ISO 45001">

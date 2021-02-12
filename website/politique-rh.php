@@ -23,7 +23,7 @@
                     </section>
                     <section class="section bg-white">
                         <div class="container">
-                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Politique des <br>ressources humaines</h3>
+                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Politique des ressources humaines</h3>
                             <div class="row">  
                                 <div class="col-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".2s">                                      
                                     <p>Notre politique des ressources humaines correspond à un modèle agile de gestion du capital humain qui place la dimension humaine au centre de ses préoccupations permettant d’attirer, développer et fidéliser les talents tout en optimisant l’efficacité organisationnelle.  Ce modèle agile se manifeste par la volonté de dialogue social, les différentes pratiques managériales valorisant le capital humain qui s’oriente vers l’anticipation et la maîtrise du changement.</p>

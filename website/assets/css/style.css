@@ -2077,6 +2077,10 @@ aside .arma-stats {
     margin-bottom: 30px;
 }
 
+.section:not(.text-center) .section-subtitle {
+    width: 50%;
+}
+
 .section-subtitle.small {
     font-weight: 300;
     font-size: 1.5rem;
@@ -2518,7 +2522,7 @@ footer {
     background-repeat: no-repeat;
     background-position: center;
     min-height: unset;
-    padding: 150px 0;
+    padding: 100px 0;
 }
 
 .full-bg:before {
@@ -2571,7 +2575,7 @@ form .blue-btn:hover, form .blue-btn:focus {
 	position: relative;
 }
 
-.full-bg.after .container:after {
+/* .full-bg.after .container:after {
 	content: "";
 	background-position: 0 0;
 	background-repeat: no-repeat;
@@ -2582,19 +2586,19 @@ form .blue-btn:hover, form .blue-btn:focus {
 	position: absolute;
 	right: 130px;
 	top: 80px;
-}
+} */
 
 .full-bg.after {
     margin-bottom: 80px;
 }
 
-.full-bg.after.mystaff .container:after {
+/* .full-bg.after.mystaff .container:after {
 	background-image: url(../img/content/innov-2.png);
 }
 
 .full-bg.after.ask .container:after {
 	background-image: url(../img/content/innov-1.png);
-}
+} */
 
 .advatages {
     list-style: none;
@@ -2644,6 +2648,21 @@ form .blue-btn:hover, form .blue-btn:focus {
     margin-bottom: 80px;
 }
 
+.app-gallery {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.img-after {
+    width: 260px;
+    height: 525px;
+    display: block;
+    position: absolute;
+    right: 130px;
+    top: 80px;
+}
 
 
 /* ===================================

@@ -23,7 +23,7 @@
                     <div class="home-banner" id="home-banner">
                         <div class="home-banner-wrap">
                             <div class="container">
-                                <h1 class="wow animated zoomIn" data-wow-delay=".6s">Nos solutions et services <br> pour les villes et collectivités </h1>
+                                <h1 class="wow animated zoomIn" data-wow-delay=".6s">Nos solutions et services  pour les villes et collectivités </h1>
                                 <div class="home-arma-stats wow animated fadeIn" data-wow-delay=".4s">
                                     <div class="home-arma-stat">
                                         <span class="number"><span class="number-scroll">27</span> villes</span>
@@ -51,7 +51,7 @@
                     <section class="section bg-white">
                         <div class="container">
                             <h2 class="section-title wow animated fadeIn">NOS PRESTATIONS<span>PROPRETE URBAINE</span></h2>
-                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">ARMA Environnement <br>oeuvre pour des villes <br> durablement plus <br> propres.</h3>
+                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">ARMA Environnement oeuvre pour des villes  durablement plus  propres.</h3>
                             <div class="row">  
                                 <div class="col-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".2s">                                      
                                     <p>Pour le bien-être des citadins, pour l’attrait de votre ville, pour des questions liées à l’hygiène et à l’environnement, il est impératif de confier la propreté urbaine de la ville à un spécialiste. Depuis 2014, ARMA Environnement s’est imposée comme un partenaire de référence en matière de propreté urbaine. De nombreuses villes et collectivités nous font déjà confiance en nous déléguant ce service. Vous aider à garder votre ville propre est notre métier.</p>
@@ -127,7 +127,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-12">
-                                    <h3 class="section-subtitle my-sm-5 wow animated fadeInLeft" data-wow-delay=".26s">Un système de suivi <br>informatisé pour une <br> gestion optimale du <br> service de propreté.</h3>
+                                    <h3 class="section-subtitle my-sm-5 wow animated fadeInLeft" data-wow-delay=".26s">Un système de suivi informatisé pour une  gestion optimale du  service de propreté.</h3>
                                     <div class="arma-suivi pt-3">
                                         <div class="row no-gutters no-gutters">
                                             <div class="col-sm-6">
@@ -212,7 +212,7 @@
                     <section class="section bg-white">
                         <div class="container">
                             <h2 class="section-title wow animated fadeIn">NOS PRESTATIONS<span>EAU ET ASSAINISSEMENT</span></h2>
-                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Offrir une gestion <br>optimale de l'eau</h3>
+                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Offrir une gestion optimale de l'eau</h3>
                             <div class="row">  
                                 <div class="col-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".2s">                                      
                                     <p>La gestion de l’eau est devenue un enjeu de santé publique mais aussi une nécessité pour protéger l’environnement. En effet, face à la croissance de la population et de l’urbanisation, garantir la performance des réseaux d’assainissement s’avère crucial pour entretenir des conditions de vie saines aux habitants.</p>
@@ -286,7 +286,7 @@
                     <section class="section bg-white">
                         <div class="container">
                             <h2 class="section-title wow animated fadeIn">NOS PRESTATIONS<span>Espaces verts</span></h2>
-                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Entretenir la nature <br> au coeur des villes</h3>
+                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Entretenir la nature  au coeur des villes</h3>
                             <div class="row">  
                                 <div class="col-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".2s">                                      
                                     <p>Les espaces verts jouent un rôle fondamental au sein des environnements urbains et rendent nos villes plus attractives. Véritables poumons au sein des villes, les zones végétalisées constituent de réels atouts pour la santé publique, le bien-être des habitants et pour lutter contre les dérèglements climatiques. A cet effet, ARMA Environnement a développé une forte expertise dans la conception, la réalisation et l’entretien des espaces verts. Avec une vision durable de ses ouvrages, ARMA Environnement saura vous conseiller pour vous offrir les services adaptés à la configuration et aux données climatiques de votre ville.</p>
@@ -368,7 +368,7 @@
                     <section class="section bg-white">
                         <div class="container">
                             <h2 class="section-title wow animated fadeIn">NOS PRESTATIONS<span>Éclairage publique</span></h2>
-                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Conjuguer éclairage <br>intelligent et maîtrise<br> du budget</h3>
+                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Conjuguer éclairage intelligent et maîtrise du budget</h3>
                             <div class="row">  
                                 <div class="col-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".2s">                                      
                                     <p>L’éclairage public représente le premier poste en terme de dépenses énergétiques et jusqu’à 40% du budget annuel de la ville. Face à la vétusté des luminaires installés, l’augmentation des coûts d’électricité, l’extension des villes et le besoin permanent en éclairage public, les villes sont amenées à optimiser leurs investissements et leurs coûts d’exploitation à travers le recours à des solutions de gestion de la performance énergétique et l’introduction de nouvelles technologies telles que la LED, le SIG, la GMAO, le Smart Lighting (éclairage dynamique).</p>
@@ -440,7 +440,7 @@
                     <section id="s5" class="section home-banner" style="background-image: url(assets/img/industrial.png)">
                         <div class="home-banner-wrap">
                             <div class="container">
-                                <h1 class="wow animated zoomIn" data-wow-delay=".6s">Nos solutions pour les<br> entreprises et industriels</h1>
+                                <h1 class="wow animated zoomIn" data-wow-delay=".6s">Nos solutions pour les entreprises et industriels</h1>
                                 <div class="home-arma-stats wow animated fadeIn" data-wow-delay=".4s">
                                     <div class="home-arma-stat">
                                         <span class="number"><span class="number-scroll">47</span> clients</span>
@@ -462,7 +462,7 @@
                     <section class="section bg-white">
                         <div class="container">
                             <h2 class="section-title wow animated fadeIn">NOS PRESTATIONS<span>ENTREPRISES ET INDUSTRIELS</span></h2>
-                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Une expertise<br> indéniable dans la<br> gestion des déchets<br> industriels</h3>
+                            <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Une expertise indéniable dans la gestion des déchets industriels</h3>
                             <div class="row">  
                                 <div class="col-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".2s">                                      
                                     <p>ARMA Environnement apporte toute son expertise aux industries pour concevoir un système optimal de gestion de leurs déchets. Délicats et parfois nuisibles pour l’en- vironnement, ces déchets solides et liquides nécessitent un traitement spécifique, dans les meilleures conditions de sécurité et dans le strict respect des règlementations en vigueur. </p>

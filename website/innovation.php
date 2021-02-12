@@ -20,14 +20,15 @@
                                 <div class="col-md-8">
                                     <h2 class="section-title wow animated zoomIn" data-wow-delay=".2s">NOS INNOVATIONS</h2>
                                     <h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s"><img src="assets/img/icons/mystaff.png" alt="My staff" width="290px"></h3>
-                                    <p class="wow animated zoomIn pl-4" data-wow-delay=".6s">Le logiciel de gestion développé par ARMA pour centraliser les<br> données d’assiduité et de performance de son personnel.</p>
+                                    <p class="wow animated zoomIn pl-4" data-wow-delay=".6s">Le logiciel de gestion développé par ARMA pour centraliser les données d’assiduité et de performance de son personnel.</p>
                                 </div>
-                            </div>                            
+                            </div>    
+                            <img class="img-after" src="assets/img/content/innov-2.png" alt="Ask App">                        
                         </div>
                     </section>
                     <section class="section bg-white">
                         <div class="container">
-                            <h3 class="section-subtitle innov-subtitle wow animated fadeInLeft" data-wow-delay=".2s">Une gestion de<br> l'assiduité orientée<br> performance.</h3>
+                            <h3 class="section-subtitle innov-subtitle wow animated fadeInLeft" data-wow-delay=".2s">Une gestion de l'assiduité orientée performance.</h3>
                             <div class="row">
                                 <div class="col-md-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".4s">                                      
                                     <h4 class="small-title mt-0">Fonctionnalités</h4>
@@ -39,7 +40,11 @@
                                         <li>Affichage de la carte des circuits numérotés</li>
                                         <li>Fonction d’ajout rapide d’un remplaçant temporaire</li>
                                     </ul>
-                                    <img class="my-3" src="assets/img/content/innov-3.png" alt="Innovation App">
+                                    <div class="app-gallery my-3 gallery-1">
+                                        <a href="assets/img/content/innov-3.png"><img src="assets/img/content/innov-3.png" alt="My Staff App"></a>
+                                        <a href="assets/img/content/innov-3.png"><img src="assets/img/content/innov-3.png" alt="My Staff App"></a>
+                                        <a href="assets/img/content/innov-3.png"><img src="assets/img/content/innov-3.png" alt="My Staff App"></a>
+                                    </div>
                                 </div>
                                 <div class="col-md-6 px-md-5 wow animated fadeInRight" data-wow-delay=".2s">
                                     <h4 class="small-title mt-0">LES + DE l'application</h4>
@@ -81,13 +86,14 @@
                                     <h2 class="section-title wow animated zoomIn" data-wow-delay=".2s">NOS INNOVATIONS</h2>
                                     <h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s"><img src="assets/img/icons/ask-logo.png" alt="Ask App" width="135px"></h3>
                                     <p class="wow animated zoomIn pl-4" data-wow-delay=".6s">Une application responsive et adaptée à tous les supports<br> qui permet la saisie l’enregistrement et la gestion des<br> réclamations adressées aux différentes filiales du Groupe ARMA.</p>
-                                </div>
-                            </div>                            
+                                </div>                                
+                            </div> 
+                            <img class="img-after" src="assets/img/content/innov-1.png" alt="Ask App">                           
                         </div>
                     </section>
                     <section class="section bg-white">
                         <div class="container">
-                            <h3 class="section-subtitle innov-subtitle wow animated fadeInLeft" data-wow-delay=".2s">Une gestion avancée<br> réclamations, à l'ère<br>du digital.</h3>
+                            <h3 class="section-subtitle innov-subtitle wow animated fadeInLeft" data-wow-delay=".2s">Une gestion avancée réclamations, à l'ère du digital.</h3>
                             <div class="row">
                                 <div class="col-md-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".4s">
                                     <h4 class="small-title mt-0">Fonctionnalités</h4>
@@ -98,7 +104,11 @@
                                         <li>Suivi de la requête depuis sa création jusqu’à sa clôture</li>
                                         <li>Analyse des réclamations grâce au DASHBOARD de l’application</li>
                                     </ul>
-                                    <img class="my-3" src="assets/img/content/innov-4.png" alt="Innovation App">
+                                    <div class="app-gallery my-3 gallery-2">
+                                        <a href="assets/img/content/innov-4.png"><img src="assets/img/content/innov-4.png" alt="Ask App"></a>
+                                        <a href="assets/img/content/innov-4.png"><img src="assets/img/content/innov-4.png" alt="Ask App"></a>
+                                        <a href="assets/img/content/innov-4.png"><img src="assets/img/content/innov-4.png" alt="Ask App"></a>
+                                    </div>
                                 </div>
                                 <div class="col-md-6 px-md-5 wow animated fadeInRight" data-wow-delay=".2s">
                                     <h4 class="small-title mt-0">LES + DE l'application</h4>
