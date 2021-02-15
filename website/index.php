@@ -67,12 +67,17 @@
 										<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">QUI SOMMES-NOUS ?</h2>
 										<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Premier opérateur des services aux collectivités et aux entreprises au Maroc</h3>
 										<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie, du transport et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques :</p>
-										<div class="logos-list">
+										<div class="logos-list mb-50">
 											<a href="#" class="wow animated fadeIn" data-wow-delay=".6s"><img src="assets/img/arma-env.jpg" alt="ARMA Environnement"></a>
 											<a href="#" class="wow animated fadeIn" data-wow-delay=".8s"><img src="assets/img/arma-energy.jpg" alt="ARMA Energy"></a>
 											<a href="#" class="wow animated fadeIn" data-wow-delay="1s"><img src="assets/img/arma-water.jpg" alt="ARMA Water"></a>
 											<a href="#" class="wow animated fadeIn" data-wow-delay="1.2s"><img src="assets/img/axial-facilities.jpg" alt="Axial Facilities"></a>
 										</div>
+										<p class="" data-wow-delay=".4s">
+											<a class=" href="about.php">
+												<span>En savoir plus <i class="las la-arrow-right"></i></span>
+											</a>
+										</p>
 									</div>
 								</section>
 								<section class="section full bg-white">
@@ -80,7 +85,7 @@
 										<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS FORCES</h2>
 										<div class="row">
 											<div class="col-md-6 pr-md-5 wow animated fadeInLeft" data-wow-delay=".4s">
-												<h3 class="section-subtitle">Une organisation globale et intégrée pour créer de la valeur</h3>
+												<h3 class="section-subtitle w-100">Une organisation globale et intégrée pour créer de la valeur</h3>
 												<p>Pour ARMA Environnement, la qualité est un engagement de chaque instant. Le bien-être des habitants est une priorité absolue qui guide chacune de nos actions. Ainsi, notre objectif est de devenir le partenaire de référence des communes et de devancer leurs attentes en matière d’environnement, de services et d’aménagements urbains.</p>
 											</div>
 											<div class="col-md-6 wow animated fadeInRight" data-wow-delay=".4s">
@@ -93,7 +98,7 @@
 													<a href="#"><img src="assets/img/icons/quality.jpg" alt="Quality"></a>
 													<a href="#"><img src="assets/img/icons/agility.jpg" alt="Agility"></a>
 													<a href="#"><img src="assets/img/icons/tech.jpg" alt="Technology"></a>
-													<a class="d-flex" href="#">
+													<a class="d-flex" href="forces.php">
 														<span>En savoir plus sur nos forces <i class="las la-arrow-right"></i></span>
 													</a>
 												</div>

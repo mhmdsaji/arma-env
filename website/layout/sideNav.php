@@ -100,7 +100,7 @@
                                 Assainissement</a>
                             </li>
                             <li class="nav-item"><a class="nav-link menu-child" href="solutions.php#s3">Espaces verts</a></li>
-                            <li class="nav-item"><a class="nav-link menu-child" href="solutions.php#s4">Eclairage publique</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="solutions.php#s4">Eclairage public</a></li>
                             <h6><span>Pour les entreprises et industriels</span></h6>
                             <li class="nav-item"><a class="nav-link menu-child" href="solutions.php#s5">Gestion des déchets industriels</a>
                             </li>

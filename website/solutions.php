@@ -14,7 +14,7 @@
 			<!-- End side nav -->
 			<div id="page-wrapper">
                 <div class="overlay home-overlay">
-                    <div class="overlay-inner" style="background-image: url(assets/img/overlays/16.png);">
+                    <div class="overlay-inner" style="background-image: url(assets/img/overlays/solutions.jpg);">
                         <img src="assets/img/overlays/16.png" alt="background" style="display: none;">
                     </div>
                     <div class="overlay-inner bg-secondary"></div>
@@ -359,15 +359,15 @@
                         </div>
                     </section>
                     <section id="s4" class="section bg-blue white-text text-center has-bg illustration" style="background-image: url(assets/img/electricity.png)">
-                        <div class="container">
+                        <div class="container" style="/*background-color: #1f1353;*/">
                             <h2 class="section-title text-shadow wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
-                            <h3 class="section-subtitle text-shadow wow animated fadeIn" data-wow-delay=".4s">Éclairage publique</h3>
+                            <h3 class="section-subtitle text-shadow wow animated fadeIn" data-wow-delay=".4s">Éclairage public</h3>
                             <p>ARMA Energy accompagne les villes à travers une démarche de conseil, de mise en œuvre, d’entretien et de maintenance de l’éclairage public, lui permettant de mettre en place des contrats de performance et de réaliser des économies d’énergie importantes.</p>
                         </div>
                     </section>
                     <section class="section bg-white">
                         <div class="container">
-                            <h2 class="section-title wow animated fadeIn">NOS PRESTATIONS<span>Éclairage publique</span></h2>
+                            <h2 class="section-title wow animated fadeIn">NOS PRESTATIONS<span>Éclairage public</span></h2>
                             <h3 class="section-subtitle mb-md-5 wow animated fadeInLeft">Conjuguer éclairage intelligent et maîtrise du budget</h3>
                             <div class="row">  
                                 <div class="col-6 px-md-5 wow animated fadeInLeft" data-wow-delay=".2s">                                      
@@ -391,7 +391,7 @@
                                 <div class="col-md-6 px-md-5 wow animated fadeInRight" data-wow-delay=".2s">
                                     <h4 class="small-title mt-0">Mise en oeuvre</h4>
                                     <ul>
-                                        <li>Équipes métier qualifiée</li>
+                                        <li>Équipes métier qualifiées</li>
                                         <li>Planification préventive</li>
                                         <li>Équipement et outillage de qualité</li>
                                         <li>N°Vert et gestion des réclamations clients</li>
