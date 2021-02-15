@@ -2174,7 +2174,7 @@ aside .arma-stats {
 
 .section p {
     font-size: 16px;
-    line-height: 22px;
+    /*line-height: 22px;*/
     color: rgba(0, 0, 0, .7);
     max-width: 850px;
     margin-left: auto;
@@ -2447,7 +2447,7 @@ footer {
 }
 
 .play-video {
-	background-image: url(../img/icons/play.png);
+	/*background-image: url(../img/icons/play.png);*/
 	background-repeat: no-repeat;
 	background-position: 0 0;
 	background-size: contain;

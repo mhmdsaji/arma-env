@@ -42,7 +42,7 @@
 					<section id="chiffres" class="section bg-white full text-center">
 						<div class="container">
 							<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">CHIFFRES CLÉS</h2>
-							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA en chiffres</h3>
+							<h3 class="section-subtitle w-100 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA en chiffres</h3>
 							<p class="mb-50 wow animated zoomIn" data-wow-delay=".5s">Depuis sa création, ARMA Environnement a su confirmer sa position en tant qu’opérateur leader des services aux collectivités et à l’environnement au Maroc. De nombreuses villes et collectivités nous font confiance sur plusieurs aspects de gestion des services.</p>
 							<div class="row">
 								<div class="col-md-10 offset-md-1  wow animated fadeIn" data-wow-delay=".6s">
@@ -151,7 +151,7 @@
 							<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">Notre mission</h2>
 							<div class="row">
 								<div class="col-md-4">
-									<h3 class="section-subtitle  pr-md-5 wow animated fadeIn" data-wow-delay=".4s">Aider les villes à conjuguer croissance urbaine et cadre de vie sain.</h3>
+									<h3 class="section-subtitle w-100 pr-md-5 wow animated fadeIn" data-wow-delay=".4s">Aider les villes à conjuguer croissance urbaine et cadre de vie sain.</h3>
 								</div>
 								<div class="col-md-4">
 									<div class="title-text pr-md-4 mb-md-5">
@@ -187,7 +187,7 @@
 							<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS VALEURS</h2>
 							<div class="row">
 								<div class="col-5 pr-md-5 wow animated fadeInLeft" data-wow-delay=".4s">
-									<h3 class="section-subtitle">Des valeurs au coeur de notre mission</h3>
+									<h3 class="section-subtitle w-100">Des valeurs au coeur de notre mission</h3>
 									<p>Nos valeurs sont ce qui rend notre organisation à la fois unique et singulière. Des valeurs d’entreprise reconnues et partagées par l’ensemble de nos collaborateurs assurent une cohésion au sein de notre entreprise, et  teintent nos relations avec nos clients, nos fournisseurs et nos partenaires. Il est donc important de garder ces valeurs bien vivantes afin d’animer notre culture d’entreprise, c’est ce qui vous nous rassemble tous à la fois.<br><br>
 									Afin de se fixer des standards de haut niveau, ARMA Environnement accorde une importance particulière à la définition des valeurs et règles de conduite qui régissent nos actions et décisions quotidiennes. Celles-ci  constituent un puissant levier de différenciation et de mobilisation des différents acteurs, et véhiculent  une vision d’une entreprise moderne, dynamique, proche de ses clients et engagée envers son écosystème.</p>
 								</div>
@@ -233,7 +233,7 @@
 							<div class="row">
 								<div class="col-md-5">
 									<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">NOS REFERENCES</h2>
-									<h3 class="section-subtitle wow animated fadeIn" data-wow-delay=".4s">Un rayonnement national.</h3>
+									<h3 class="section-subtitle w-100 wow animated fadeIn" data-wow-delay=".4s">Un rayonnement national</h3>
 									<p class="mb-md-5">ARMA Environnement est en mesure d’intervenir sur l’ensemble du territoire marocain grâce à un large réseau qui couvre actuellement 16 villes. Avec une force de frappe de plus de 7000 collaborateurs, vous pourrez compter sur notre réactivité et notre efficacité.
 									</p>									
 									<a class="read-more" href="#references">Découvrez nos références <i class="las la-arrow-down"></i></a>

@@ -71,7 +71,7 @@
 
                             <ul class="menu-children">
 
-                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php#f1">Agilité et force de proposition</a>
+                                <li class="nav-item"><a class="nav-link menu-child" href="forces.php">Agilité et force de proposition</a>
                                 </li>
 
                                 <li class="nav-item"><a class="nav-link menu-child" href="forces.php#f2">Expertise et savoir-faire éprouvés</a></li>
@@ -92,7 +92,7 @@
 
                             <ul class="menu-children">
                                 <h6><span>Pour les villes et collectivités</span></h6>
-                                <li class="nav-item"><a class="nav-link menu-child" href="solutions.php#s1">Propreté urbaine</a>
+                                <li class="nav-item"><a class="nav-link menu-child" href="solutions.php">Propreté urbaine</a>
                                 </li>
                                 <!--<li class="nav-item"><a class="nav-link menu-child" href="presta_villes_dechets.php">Gestion des déchets</a>-->
                                 </li>

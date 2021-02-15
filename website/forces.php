@@ -344,7 +344,7 @@ Un suivi par permettant: <br>
 							<p>Numéro vert, ligne directe ou application web, nous restons connectés à vos besoins et recueillons vos demandes en permanence. </p>
                         </div>
 					</section>
-					<section class="section full text-center">
+					<section class="section text-center">
 						<div class="container">
 							<p class="mb-50 wow animated zoomIn" data-wow-delay=".2s">Le groupe ARMA place le service client au cœur de sa stratégie d’entreprise, et met en place des moyens innovants lui permettant de rester au plus proche de ses clients, recueillir leurs demandes, répondre à leurs besoins ou tout simplement les accompagner et les conseiller dans la mise en place de solutions adaptées à leurs enjeux.</p>
 							<div class="logos-list align-items-start justify-content-between">
