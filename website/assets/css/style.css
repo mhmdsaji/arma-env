@@ -2666,6 +2666,10 @@ form .blue-btn:hover, form .blue-btn:focus {
     margin-bottom: 100px;
 }
 
+.innov-page .innov-logo {
+    height: 50px;
+}
+
 
 /* ===================================
 Media Queries
