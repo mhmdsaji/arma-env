@@ -12,12 +12,12 @@
 			<!-- Side nav -->
 			<?php include 'layout/sideNav.php';?>
 			<!-- End side nav -->
-			<div id="page-wrapper">				
+			<div id="page-wrapper" class="innov-page">				
 				<div class="content-area">
 					<section class="section white-text full-bg after mystaff" style="background-image: url(assets/img/innovation.png)">
                         <div class="container">
                             <div class="row">
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <h2 class="section-title wow animated zoomIn" data-wow-delay=".2s">NOS INNOVATIONS</h2>
                                     <h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s"><img src="assets/img/icons/mystaff.png" alt="My staff" width="290px"></h3>
                                     <p class="wow animated zoomIn pl-4" data-wow-delay=".6s">Le logiciel de gestion développé par ARMA pour centraliser les données d’assiduité et de performance de son personnel.</p>
@@ -82,10 +82,10 @@
                     <section class="section white-text full-bg after ask" style="background-image: url(assets/img/innovation.png)">
                         <div class="container">
                             <div class="row">
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <h2 class="section-title wow animated zoomIn" data-wow-delay=".2s">NOS INNOVATIONS</h2>
                                     <h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s"><img src="assets/img/icons/ask-logo.png" alt="Ask App" width="135px"></h3>
-                                    <p class="wow animated zoomIn pl-4" data-wow-delay=".6s">Une application responsive et adaptée à tous les supports<br> qui permet la saisie l’enregistrement et la gestion des<br> réclamations adressées aux différentes filiales du Groupe ARMA.</p>
+                                    <p class="innov-title-desc wow animated zoomIn pl-4" data-wow-delay=".6s">Une application responsive et adaptée à tous les supports qui permet la saisie l’enregistrement et la gestion des réclamations adressées aux différentes filiales du Groupe ARMA.</p>
                                 </div>                                
                             </div> 
                             <img class="img-after" src="assets/img/content/innov-1.png" alt="Ask App">                           
