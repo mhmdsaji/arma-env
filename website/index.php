@@ -141,15 +141,15 @@
 												<div class="solution wow animated fadeInLeft" data-wow-delay=".6s">
 													<div class="solution-img">
 														<div class="img-holder">
-															<a href="#">
-																<img src="assets/img/digital/mystaff-app.jpg" alt="My staff App">
+															<a href="innovation.php#mystaff">
+																<img src="assets/img/digital/mystaff-app.jpg" alt="MyStaff">
 															</a>
 														</div>
 													</div>
 													<div class="solution-details">
-														<img src="assets/img/digital/mystaff-logo.jpg" alt="My staff logo">
+														<img src="assets/img/digital/mystaff-logo.jpg" alt="MyStaff">
 														<p class="solution-desc">Le logiciel de gestion développé par ARMA pour centraliser les données d’assiduité et de performance de son personnel.</p>
-														<a class="read-more" href="#">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
+														<a class="read-more" href="innovation.php#mystaff">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
 													</div>
 												</div>
 											</div> 
@@ -157,16 +157,16 @@
 												<div class="solution wow animated fadeInRight" data-wow-delay=".6s">
 													<div class="solution-img">
 														<div class="img-holder">
-															<a href="#">
-																<img src="assets/img/digital/clean-app.jpg" alt="Clean+ App">
+															<a href="innovation.php#clean">
+																<img src="assets/img/digital/clean-app.jpg" alt="Clean+">
 															</a>
 														</div>
 														
 													</div>
 													<div class="solution-details">
-														<img src="assets/img/digital/clean-logo.jpg" alt="Clean+ logo">
+														<img src="assets/img/digital/clean-logo.jpg" alt="Clean+">
 														<p class="solution-desc">Application, entièrement configurée pour les besoins de ARMA Holding, permet le traitement en temps réel de tous les problèmes et réclamations effectuées en interne.</p>
-														<a class="read-more" href="#">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
+														<a class="read-more" href="innovation.php#clean">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
 													</div>
 												</div>
 											</div> 
@@ -174,16 +174,16 @@
 												<div class="solution wow animated fadeInLeft mb-md-0" data-wow-delay=".6s">
 													<div class="solution-img">
 														<div class="img-holder">
-															<a href="#">
-																<img src="assets/img/digital/eval-app.jpg" alt="Eval 360 App">
+															<a href="innovation.php#eval">
+																<img src="assets/img/digital/eval-app.jpg" alt="Eval360">
 															</a>
 														</div>
 														
 													</div>
 													<div class="solution-details">
-														<img src="assets/img/digital/eval-logo.jpg" alt="Eval 360 logo" style="height: 65px;">
+														<img src="assets/img/digital/eval-logo.jpg" alt="Eval360" style="height: 65px;">
 														<p class="solution-desc">Une application permettant l’amélioration continue et le suivi en temps réel  de la qualité du service.</p>
-														<a class="read-more" href="#">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
+														<a class="read-more" href="innovation.php#eval">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
 													</div>
 												</div>
 											</div> 
@@ -191,16 +191,16 @@
 												<div class="solution wow animated fadeInRight mb-md-0" data-wow-delay=".6s">
 													<div class="solution-img">
 														<div class="img-holder">
-															<a href="#">
-																<img src="assets/img/digital/ask-app.jpg" alt="Ask App">
+															<a href="innovation.php#ask">
+																<img src="assets/img/digital/ask-app.jpg" alt="Ask">
 															</a>
 														</div>
 														
 													</div>
 													<div class="solution-details">
-														<img src="assets/img/digital/ask-logo.jpg" alt="Ask logo">
+														<img src="assets/img/digital/ask-logo.jpg" alt="Ask">
 														<p class="solution-desc">Une application responsive et adaptée à tous les supports, qui permet la saisie, l’enregistrement et la gestion des réclamations adressées aux différentes filiales du Groupe ARMA.</p>
-														<a class="read-more" href="#">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
+														<a class="read-more" href="innovation.php#ask">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
 													</div>
 												</div>
 											</div>                                    
