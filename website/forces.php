@@ -14,14 +14,14 @@
 			<!-- End side nav -->
 			<div id="page-wrapper">				
 				<div class="content-area">
-					<section class="section white-text text-center full-bg" style="background-image: url(assets/img/forces.png)">
+					<section id="f1" class="section white-text text-center full-bg" style="background-image: url(assets/img/forces.png)">
 						<div class="container">
 							<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Agilité et force de proposition</h3>
 							<p>Partie intégrante de notre organisation, l’agilité nous permet de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
 						</div>
 					</section>
-					<section id="f1" class="section full bg-white">
+					<section class="section full bg-white">
 						<div class="container">
 							<div class="row">
 								<div class="col-5 pr-md-5 wow animated fadeInLeft" data-wow-delay=".2s">
@@ -321,7 +321,7 @@
 														<img src="assets/img/icons/pointage.jpg" alt="pointage">
 													</a>
 												</div>
-												<p class="collapse small" id="pointage">Le centre d’excellence assure constamment de la discipline de nos employés . Le pointage est ainsi effectué et vérifié quotidiennement par nos équipes qualifiées du centre d’excellence. Notre démarche de vérification estentièrement digitalisée. <b>Tout est réalisé à l’aide du logiciel « My Staff » conçu spécialement pour la centralisation et le contrôle des données d’assiduité et de performance de nos équipes.</b></p>
+												<p class="collapse small" id="pointage">Le centre d’excellence assure constamment de la discipline de nos employés. Le pointage est ainsi effectué et vérifié quotidiennement par nos équipes qualifiées du centre d’excellence. Notre démarche de vérification estentièrement digitalisée. <b>Tout est réalisé à l’aide du logiciel « MyStaff » conçu spécialement pour la centralisation et le contrôle des données d’assiduité et de performance de nos équipes.</b></p>
 											</div>
 											<div class="value">
 												<div class="img-holder no-hover">
@@ -337,7 +337,7 @@
 								</div>
 							</div>
 						</section>
-						<section id="f5" class="section white-text text-center full-bg" style="background-image: url(assets/img/service-client.png)">
+						<section id="f6" class="section white-text text-center full-bg" style="background-image: url(assets/img/service-client.png)">
 							<div class="container">
 								<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES</h2>
 								<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Service client 24h/24 - 7j/7</h3>
@@ -367,13 +367,13 @@
 								</div>
 							</div>
 						</section>
-						<section class="section bg-blue white-text">
+						<section id="f5" class="section bg-blue white-text">
 							<div class="container">
 								<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES <span>Respect des engagements</span></h2>
-								<h3 class="section-subtitle wow animated zoomIn small" data-wow-delay=".4s">Nous nous assurons d’honorer nos engagements auprès de nos clients à travers le respect des cahiers des charges ainsi que l’atteinte du niveau de satisfaction attendu.</h3>
+								<h3 class="section-subtitle w-100 wow animated zoomIn small" data-wow-delay=".4s">Nous nous assurons d’honorer nos engagements auprès de nos clients à travers le respect des cahiers des charges ainsi que l’atteinte du niveau de satisfaction attendu.</h3>
 							</div>
 						</section>
-						<section id="f6" class="section bg-white text-center">
+						<section id="f7" class="section bg-white text-center">
 							<div class="container">
 								<h2 class="section-title wow animated fadeIn" data-wow-delay=".2s">Nos forces</h2>
 								<h3 class="section-subtitle wow animated fadeIn" data-wow-delay=".4s">Innovation à la pointe des dernières technologies</h3>
@@ -403,7 +403,7 @@
 														<img src="assets/img/digital/clean-app.jpg" alt="Clean+">
 													</a>
 												</div>
-												
+
 											</div>
 											<div class="solution-details">
 												<img src="assets/img/digital/clean-logo.jpg" alt="Clean+">
@@ -420,7 +420,7 @@
 														<img src="assets/img/digital/eval-app.jpg" alt="Eval360">
 													</a>
 												</div>
-												
+
 											</div>
 											<div class="solution-details">
 												<img src="assets/img/digital/eval-logo.jpg" alt="Eval360" style="height: 65px;">
@@ -437,7 +437,7 @@
 														<img src="assets/img/digital/ask-app.jpg" alt="Ask">
 													</a>
 												</div>
-												
+
 											</div>
 											<div class="solution-details">
 												<img src="assets/img/digital/ask-logo.jpg" alt="Ask">
@@ -449,7 +449,7 @@
 								</div>
 							</div>
 						</section>
-						<section id="f7" class="section white-text bg-blue">
+						<section id="f8" class="section white-text bg-blue">
 							<div class="container">
 								<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">NOS FORCES <span>Qualité reconnue</span></h2>
 								<h3 class="section-subtitle wow animated zoomIn xsmall w-100" data-wow-delay=".4s">Nous nous engageons, à travers nos offres de services, à offrir à nos clients un service de qualité, aligné aux standards internationaux  et s’inscrivant dans une démarche d’amélioration continue et de satisfaction client à tous les niveaux : Qualité, hygiène,  sécurité et  environnement.</h3>

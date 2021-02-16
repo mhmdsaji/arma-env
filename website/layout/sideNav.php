@@ -16,10 +16,10 @@
                     class="lab la-facebook-f"></i></a>
                 </li>
                 <li>
-                    <a href="#" target="_blank"><i class="lab la-instagram"></i></a>
+                    <a href="https://www.instagram.com/arma.environnement/" target="_blank"><i class="lab la-instagram"></i></a>
                 </li>
                 <li>
-                    <a href="#" target="_blank"><i class="lab la-twitter"></i></a>
+                    <a><i class="lab la-twitter"></i></a>
                 </li>
                 <li>
                     <a href="https://www.linkedin.com/company/arma-environnement/" target="_blank">

@@ -22,19 +22,19 @@
 							<div class="logos-list align-items-start justify-content-between">
 								<div class="image-text purple wow animated fadeIn" data-wow-delay=".6s">
 									<img src="assets/img/arma-env.jpg" alt="ARMA Environnement">
-									<p class="small">Services aux collectivités et à l’environnement : Propreté urbaine, gestion des déchets, espaces verts, transport.</p>
+									<p class="small">Leader national des métiers de propreté urbaine et de gestion des déchets, <b>ARMA Environnement</b> opère dans les métiers de services aux collectivités et à l’environnement et s’engage à offrir un service de haute qualité permettant aux habitants d’évoluer dans un cadre de vie sain.</p>
 								</div>
 								<div class="image-text orange wow animated fadeIn" data-wow-delay=".8s">
 									<img src="assets/img/arma-energy.jpg" alt="ARMA Energy">
-									<p class="small">Vous conseille et vous accompagne afin d’adopter les meilleures pratiques en matière d’éclairage public. Qualité, maintenance et gains énergétiques sont nos objectifs prioritaires.</p>
+									<p class="small"><b>ARMA Energy</b> offre une palette de solutions allant du conseil à la mise en œuvre en passant par l’entretien et la maintenance de l‘éclairage public, misant sur la qualité des installations, la maintenance optimisée et le gain en performance énergétique.</p>
 								</div>
 								<div class="image-text blue wow animated fadeIn" data-wow-delay="1s">
 									<img src="assets/img/arma-water.jpg" alt="ARMA Water">
-									<p class="small">Mobilise toute son expérience pour proposer des systèmes innovants dans la collecte et la gestion des eaux usées et pluviales.</p>
+									<p class="small"><b>ARMA Water</b> développe des solutions performantes et fiables de collecte et de traitement des eaux usées et pluviales tout en limitant l’impact des stations sur l’environnement, et en valisant autant que possible la réutilisation des eaux épurées.</p>
 								</div>
 								<div class="image-text green wow animated fadeIn" data-wow-delay="1.2s">
 									<img src="assets/img/axial-facilities.jpg" alt="Axial Facilities">
-									<p class="small">Facility management aux entreprises et industriels. Propose une palette de services qui permet aux entreprises de gagner en performance.</p>
+									<p class="small">Experte dans les métiers du Facility Management, <b>AXIAL Facilities</b>  propose aux entreprises et industriels une offre sur-mesure, globale et intégrée de prestations de services, et s’engage auprès de ses partenaires à garantir le bon fonctionnement des bâtiments, le bien-être et confort des occupants, ainsi que l’amélioration de leur performance organisationnelle.</p>
 								</div>
 							</div>
 						</div>

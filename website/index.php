@@ -90,17 +90,18 @@
 											</div>
 											<div class="col-md-6 wow animated fadeInRight" data-wow-delay=".4s">
 												<div class="icons-list">
-													<a><img src="assets/img/icons/system.jpg" alt="Systems"></a>
-													<a><img src="assets/img/icons/savoir.jpg" alt="Expertise"></a>
-													<a><img src="assets/img/icons/team.jpg" alt="Team"></a>
-													<a><img src="assets/img/icons/organization.jpg" alt="Organization"></a>
-													<a><img src="assets/img/icons/logo.jpg" alt="ARMA"></a>
-													<a><img src="assets/img/icons/quality.jpg" alt="Quality"></a>
-													<a><img src="assets/img/icons/agility.jpg" alt="Agility"></a>
-													<a><img src="assets/img/icons/tech.jpg" alt="Technology"></a>
-													<a class="d-flex" href="forces.php">
+													<a href="forces.php#f1"><img src="assets/img/content/forces/1.jpg" alt="Systems"></a>
+													<a href="forces.php#f2"><img src="assets/img/content/forces/2.jpg" alt="Expertise"></a>
+													<a href="forces.php#f3"><img src="assets/img/content/forces/3.jpg" alt="Team"></a>
+													<a href="forces.php#f4"><img src="assets/img/content/forces/4.jpg" alt="Organization"></a>
+													<a><img src="assets/img/content/forces/logo.jpg" alt="ARMA"></a>
+													<a href="forces.php#f5"><img src="assets/img/content/forces/5.jpg" alt="Quality"></a>
+													<a href="forces.php#f6"><img src="assets/img/content/forces/6.jpg" alt="Agility"></a>
+													<a href="forces.php#f7"><img src="assets/img/content/forces/7.jpg" alt="Technology"></a>
+													<a href="forces.php#f8"><img src="assets/img/content/forces/8.jpg" alt="Technology"></a>
+													<!--<a class="d-flex" href="forces.php">
 														<span>En savoir plus sur nos forces <i class="las la-arrow-right"></i></span>
-													</a>
+													</a>-->
 												</div>
 											</div>
 										</div>

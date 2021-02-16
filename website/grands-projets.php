@@ -18,7 +18,7 @@
 						<div class="container">
 							<h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">ARMA ENVIRONNEMENT</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Nos plus grands projets et réalisations</h3>
-							<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+							<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Elles sont nombreuses à nous faire confiance, et nous ne pouvons en être que fiers. Arma Environnement a inscrit son nom auprès de nombreuses villes et collectivités marocaines, qui ont fait le choix de la performance, de l’innovation et du développement en confiant leurs espaces à un acteur engagé pour leur avenir.</p>
 						</div>
                     </section>
                     <section class="section white-text text-center full-bg" style="background-image: url(assets/img/grands-projets/cover-casablanca.png)">

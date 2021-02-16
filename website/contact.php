@@ -72,7 +72,7 @@ $formok = true;
 								</div>
 								<div class="image-text orange wow animated fadeIn" data-wow-delay=".7s">
 									<img src="assets/img/icons/location.png" alt="location">
-									<p class="small"><b>Adresse</b> : Avenue Mehdi Ben Barka Lot Soumia, Lot N°5 Souissi, Rabat, Maroc.<br><a href="https://goo.gl/maps/bdMm6ZENUuurPq9B9" target="_blank">(localiser en cliquant ici)</a></p>
+									<p class="small"><b>Adresse</b> : Avenue Mehdi Ben Barka Lot Soumia, Lot N°5 Souissi, Rabat, Maroc.<br><a href="https://www.google.com/search?q=arma%20holding&oq=arma+&aqs=chrome.1.69i57j35i39l2j69i60l5.2985j0j7&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk03B1M3wKfIavgeiZ1NPkmii1qQjnQ:1613469254097&rflfq=1&num=10&rldimm=3688009051294175699&lqi=Cgxhcm1hIGhvbGRpbmdaHAoMYXJtYSBob2xkaW5nIgxhcm1hIGhvbGRpbmeSARh3YXN0ZV9tYW5hZ2VtZW50X3NlcnZpY2U&ved=2ahUKEwj87_utke7uAhWQecAKHRdYB90QvS4wAHoECAIQDA&rlst=f#rlfi=hd:;si:3688009051294175699,l,Cgxhcm1hIGhvbGRpbmdaHAoMYXJtYSBob2xkaW5nIgxhcm1hIGhvbGRpbmeSARh3YXN0ZV9tYW5hZ2VtZW50X3NlcnZpY2U;mv:[[33.96500050322764,-6.85208131242194],[33.95908294693839,-6.865899927538119],null,[33.96204177653935,-6.8589906199800295],17]" target="_blank">(Localiser en cliquant ici)</a></p>
 								</div>								
 							</div>
 						</div>
