@@ -41,7 +41,7 @@
                             </div>
                         </div>
                     </div>				
-					<section class="section bg-red white-text text-center has-bg illustration" style="background-image: url(assets/img/clean.png)">
+					<section id="s1" class="section bg-red white-text text-center has-bg illustration" style="background-image: url(assets/img/clean.png)">
                         <div class="container">
                             <h2 class="section-title text-shadow wow animated fadeIn" data-wow-delay=".2s">NOS SOLUTIONS</h2>
                             <h3 class="section-subtitle text-shadow wow animated fadeIn" data-wow-delay=".4s">PROPRETÉ URBAINE</h3>
@@ -437,7 +437,7 @@
                             </div>
                         </div>
                     </section>
-                    <section id="s5" class="section home-banner" style="background-image: url(assets/img/industrial.png)">
+                    <section id="s6" class="section home-banner" style="background-image: url(assets/img/industrial.png)">
                         <div class="home-banner-wrap">
                             <div class="container">
                                 <h1 class="wow animated zoomIn" data-wow-delay=".6s">Nos solutions pour les entreprises et industriels</h1>

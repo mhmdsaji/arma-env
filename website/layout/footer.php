@@ -14,19 +14,19 @@
         <div class="footer-col">
             <h3 class="footer-title">EN SAVOIR PLUS</h3>
             <ul class="footer-list">
-                <li><a href="#" class="footer-link">Qui sommes nous</a></li>
-                <li><a href="#" class="footer-link">Nos forces</a></li>
-                <li><a href="#" class="footer-link">Nos solutions</a></li>
-                <li><a href="#" class="footer-link">Nos grands projets</a></li>
+                <li><a href="about.php" class="footer-link">Qui sommes nous</a></li>
+                <li><a href="forces.php" class="footer-link">Nos forces</a></li>
+                <li><a href="solutions.php" class="footer-link">Nos solutions</a></li>
+                <li><a href="grands-projets.php" class="footer-link">Nos grands projets</a></li>
             </ul>
         </div>
         <div class="footer-col">
             <h3 class="footer-title">NOUS REJOINDRE</h3>
             <ul class="footer-list">
-                <li><a href="#" class="footer-link">Formulaire de contact</a></li>
-                <li><a href="#" class="footer-link">Politique RH</a></li>
-                <li><a href="#" class="footer-link">Nos offres d'emploi</a></li>
-                <li><a href="#" class="footer-link">Candidature spontanée</a></li>
+                <li><a href="contact.php" class="footer-link">Formulaire de contact</a></li>
+                <li><a href="politique-rh.php" class="footer-link">Politique RH</a></li>
+                <li><a href="jobs.php" class="footer-link">Nos offres d'emploi</a></li>
+                <li><a href="jobs.php#s2" class="footer-link">Candidature spontanée</a></li>
             </ul>
         </div>
     </div>

@@ -77,7 +77,7 @@ $formok = true;
 							</div>
 						</div>
 					</section>
-					<section class="section white-text text-center full-bg" style="background-image: url(assets/img/contact.png)">
+					<section class="section white-text text-center full-bg" style="background-image: url(assets/img/contact-cover.jpg)">
                         <div class="container">
                             <h2 class="section-title wow animated fadeInLeft" data-wow-delay=".2s">ARMA Enviornnement</h2>
 							<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Toujours plus proches</h3>

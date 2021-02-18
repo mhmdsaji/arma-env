@@ -2670,6 +2670,13 @@ form .blue-btn:hover, form .blue-btn:focus {
     height: 50px;
 }
 
+.white-link {
+    color: rgba(255,255,255,0.7);
+}
+.white-link:hover {
+    color: rgba(255,255,255,1);
+}
+
 
 /* ===================================
 Media Queries

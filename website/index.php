@@ -68,13 +68,13 @@
 										<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">Premier opérateur des services aux collectivités et aux entreprises au Maroc</h3>
 										<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Le Groupe ARMA opère dans les secteurs de l’environnement, de l’énergie, du transport et des services. Avec une expertise pointue, une exigence de qualité et un fort ancrage national, le Groupe ARMA est structuré autour de quatre métiers qui constituent ses marques :</p>
 										<div class="logos-list mb-50">
-											<a href="#" class="wow animated fadeIn" data-wow-delay=".6s"><img src="assets/img/arma-env.jpg" alt="ARMA Environnement"></a>
-											<a href="#" class="wow animated fadeIn" data-wow-delay=".8s"><img src="assets/img/arma-energy.jpg" alt="ARMA Energy"></a>
-											<a href="#" class="wow animated fadeIn" data-wow-delay="1s"><img src="assets/img/arma-water.jpg" alt="ARMA Water"></a>
-											<a href="#" class="wow animated fadeIn" data-wow-delay="1.2s"><img src="assets/img/axial-facilities.jpg" alt="Axial Facilities"></a>
+											<a href="about.php" class="wow animated fadeIn" data-wow-delay=".6s"><img src="assets/img/arma-env.jpg" alt="ARMA Environnement"></a>
+											<a href="about.php" class="wow animated fadeIn" data-wow-delay=".8s"><img src="assets/img/arma-energy.jpg" alt="ARMA Energy"></a>
+											<a href="about.php" class="wow animated fadeIn" data-wow-delay="1s"><img src="assets/img/arma-water.jpg" alt="ARMA Water"></a>
+											<a href="about.php" class="wow animated fadeIn" data-wow-delay="1.2s"><img src="assets/img/axial-facilities.jpg" alt="Axial Facilities"></a>
 										</div>
 										<p class="" data-wow-delay=".4s">
-											<a class=" href="about.php">
+											<a class="white-link" href="about.php">
 												<span>En savoir plus <i class="las la-arrow-right"></i></span>
 											</a>
 										</p>
@@ -87,6 +87,11 @@
 											<div class="col-md-6 pr-md-5 wow animated fadeInLeft" data-wow-delay=".4s">
 												<h3 class="section-subtitle w-100">Une organisation globale et intégrée pour créer de la valeur</h3>
 												<p>Pour ARMA Environnement, la qualité est un engagement de chaque instant. Le bien-être des habitants est une priorité absolue qui guide chacune de nos actions. Ainsi, notre objectif est de devenir le partenaire de référence des communes et de devancer leurs attentes en matière d’environnement, de services et d’aménagements urbains.</p>
+												<p class="" data-wow-delay=".4s">
+													<a class="" href="forces.php">
+														<span>En savoir plus <i class="las la-arrow-right"></i></span>
+													</a>
+												</p>
 											</div>
 											<div class="col-md-6 wow animated fadeInRight" data-wow-delay=".4s">
 												<div class="icons-list">
@@ -113,23 +118,32 @@
 										<h3 class="section-subtitle wow animated zoomIn" data-wow-delay=".4s">De la stratégie à la mise en œuvre de solutions aux collectivités et industries optimales et adaptées</h3>
 										<p class="mb-50 wow animated zoomIn" data-wow-delay=".4s">Propreté urbaine, gestion des déchets, éclairage public ou encore gestion des espaces verts, ARMA Environnement propose une palette de solutions conçues sur mesure afin d’accompagner les villes dans leur développement et répondre pertinemment à leurs besoins.</p>
 										<div class="arma-solutions wow animated fadeIn" data-wow-delay=".6s" id="arma-solutions">
-											<div class="arma-solution"><a href="#">
-												<div class="img-holder"><img src="assets/img/content/solutions/100.jpg" alt="ARMA Environnement"></div>
+											<div class="arma-solution"><a href="solutions.php#s1">
+												<div class="img-holder"><img src="assets/img/content/solutions/s1.jpg" alt=""></div>
 											</a></div>
-											<div class="arma-solution"><a href="#">
-												<div class="img-holder"><img src="assets/img/content/solutions/102.jpg" alt="ARMA Environnement"></div>
+											<div class="arma-solution"><a href="solutions.php#s2">
+												<div class="img-holder"><img src="assets/img/content/solutions/s2.jpg" alt=""></div>
 											</a></div>
-											<div class="arma-solution"><a href="#">
-												<div class="img-holder"><img src="assets/img/content/solutions/101.jpg" alt="ARMA Environnement"></div>
+											<div class="arma-solution"><a href="solutions.php#s3">
+												<div class="img-holder"><img src="assets/img/content/solutions/s3.jpg" alt=""></div>
 											</a></div>
-											<div class="arma-solution"><a href="#">
-												<div class="img-holder"><img src="assets/img/content/solutions/100.jpg" alt="ARMA Environnement">
+											<div class="arma-solution"><a href="solutions.php#s4">
+												<div class="img-holder"><img src="assets/img/content/solutions/s4.jpg" alt="">
 												</a></div>
 											</div>
-											<div class="arma-solution"><a href="#">
-												<div class="img-holder"><img src="assets/img/content/solutions/101.jpg" alt="ARMA Environnement"></div>
+											<div class="arma-solution"><a href="solutions.php#s5">
+												<div class="img-holder"><img src="assets/img/content/solutions/s5.jpg" alt=""></div>
+											</a></div>
+											<div class="arma-solution"><a href="solutions.php#s6">
+												<div class="img-holder"><img src="assets/img/content/solutions/s6.jpg" alt=""></div>
 											</a></div>
 										</div>
+										<p class="">&nbsp;</p>
+										<p class="" data-wow-delay=".4s">
+											<a class="white-link" href="solutions.php">
+												<span>Découverez nos solutions <i class="las la-arrow-right"></i></span>
+											</a>
+										</p>
 									</div>
 								</section>
 								<section class="section bg-white text-center">
@@ -166,7 +180,7 @@
 													</div>
 													<div class="solution-details">
 														<img src="assets/img/digital/clean-logo.jpg" alt="Clean+">
-														<p class="solution-desc">Application, entièrement configurée pour les besoins de ARMA Holding, permet le traitement en temps réel de tous les problèmes et réclamations effectuées en interne.</p>
+														<p class="solution-desc">Une application entièrement configurée pour les besoins de ARMA Holding, permet le traitement en temps réel de tous les problèmes et réclamations effectuées en interne.</p>
 														<a class="read-more" href="innovation.php#clean">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
 													</div>
 												</div>

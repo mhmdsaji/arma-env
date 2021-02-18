@@ -197,7 +197,13 @@
 											<div class="img-holder">
 												<a class="value-toggle" data-toggle="collapse" href="#agility" role="button" aria-expanded="false" aria-controls="agility"><img src="assets/img/icons/agilite.png" alt="Agility"></a>
 											</div>
-											<p class="collapse small" id="agility">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
+											<p class="collapse small" id="agility">L'agilité s'intègre dans notre
+												organisation afin de nous
+												adapter aux exigences et
+												mutations du marché, et de
+												répondre aux besoins de nos
+												clients en toute flexibilité,
+											créativité et réactivité.</p>
 										</div>
 										<div class="value mt-md-4">
 											<div class="img-holder">
@@ -205,7 +211,11 @@
 													<img src="assets/img/icons/excellence.png" alt="Excellence">
 												</a>
 											</div>
-											<p class="collapse small" id="excellence">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
+											<p class="collapse small" id="excellence">Valeur primordiale,
+												l’excellence se traduit par
+												notre volonté permanente
+												d’apporter le meilleur service
+											possible à nos clients.</p>
 										</div>
 										<div class="value">
 											<div class="img-holder">
@@ -213,7 +223,11 @@
 													<img src="assets/img/icons/leadership.png" alt="Leadership">
 												</a>
 											</div>
-											<p class="collapse small" id="leadership">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
+											<p class="collapse small" id="leadership">Notre Leadership s'exprime à
+												travers notre culture de la
+												performance, de l'exemplarité
+												et la recherche constante
+											d'innovation.</p>
 										</div>
 										<div class="value mt-md-4">
 											<div class="img-holder">
@@ -221,7 +235,19 @@
 													<img src="assets/img/icons/responsability.png" alt="Responsability">
 												</a>
 											</div>
-											<p class="collapse small" id="responsability">L’agilité s’intègre dans notre organisation afin de nous adapter aux exigences et mutations du marché, et de répondre aux besoins de nos clients en toute flexibilité, créativité et réactivité.</p>
+											<p class="collapse small" id="responsability">Notre Responsabilité traduit
+												notre ferme volonté de
+												respecter nos engagements
+												mais également de continuer à
+												s’affirmer en tant qu'acteur
+												citoyen. Notre profond sens de
+												l'éthique ainsi que notre intérêt
+												pour les enjeux sociaux et
+												environnementaux nous ont
+												conduit à construire un modèle
+												de développement durable et
+												profitable pour l'ensemble de
+											notre écosystème.</p>
 										</div>
 									</div>
 								</div>
@@ -261,7 +287,7 @@
 									$vlogos = array_diff(scandir($vlogos_folder), array('.', '..', '.DS_Store'));
 									natsort($vlogos); /* natural sorting, very important, files are ordered */
 									foreach ($vlogos as $vlogo) {
-										echo "<div><img src='content/references/villes/$vlogo' alt=''></div>";
+										echo "<div><img src='$vlogos_folder$vlogo' alt=''></div>";
 									}
 									?>
 								</div>
@@ -279,7 +305,7 @@
 								foreach (array_chunk($logos, 6, true) as $array) {
 									echo '<div class="row pb-20">';
 									foreach($array as $logo) {
-										echo "<div class='col-4 col-md-2 reference'><div class='img-holder'><img src='content/references/entreprises/$logo' alt=''></div></div>";
+										echo "<div class='col-4 col-md-2 reference'><div class='img-holder'><img src='$logos_folder$logo' alt=''></div></div>";
 									}
 									echo '</div>';
 								}

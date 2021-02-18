@@ -358,7 +358,7 @@
 									</div>
 									<div class="image-text red wow animated fadeIn" data-wow-delay=".6s">
 										<img src="assets/img/icons/clean.png" alt="Clean">
-										<p class="small">Application mise à disposition des clients et des équipes afin de suivre la <strong>réalisation des prestations</strong> en temps réel pour une qualité de service optimale.</p>
+										<p class="small">Une application mise à disposition des clients et des équipes afin de suivre la <strong>réalisation des prestations</strong> en temps réel pour une qualité de service optimale.</p>
 									</div>
 									<div class="image-text orange wow animated fadeIn" data-wow-delay=".7s">
 										<img src="assets/img/icons/conseil.png" alt="conseil">
@@ -407,7 +407,7 @@
 											</div>
 											<div class="solution-details">
 												<img src="assets/img/digital/clean-logo.jpg" alt="Clean+">
-												<p class="solution-desc">Application, entièrement configurée pour les besoins de ARMA Holding, permet le traitement en temps réel de tous les problèmes et réclamations effectuées en interne.</p>
+												<p class="solution-desc">Une application entièrement configurée pour les besoins de ARMA Holding, permet le traitement en temps réel de tous les problèmes et réclamations effectuées en interne.</p>
 												<a class="read-more" href="innovation.php#clean">DÉCOUVRIR <i class="las la-arrow-right"></i></a>
 											</div>
 										</div>

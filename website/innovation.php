@@ -181,37 +181,31 @@
                                             <div class="icon-img">
                                                 <img src="assets/img/small-logos/fast.png" alt="Rapidité">
                                             </div>
-                                            <p>Prise en charge rapide des demandes et réclamations formulées.</p>
+                                            <p>Mise en place en temps réel des mesures correctives.</p>
                                         </li>
                                         <li>
                                             <div class="icon-img">
                                                 <img src="assets/img/small-logos/calendar.png" alt="Temps">
                                             </div>
-                                            <p>Réduction considérable de la durée de traitement des demandes.</p>
-                                        </li>
-                                        <li>
-                                            <div class="icon-img">
-                                                <img src="assets/img/small-logos/improvment.png" alt="Amélioration">
-                                            </div>
-                                            <p>Amélioration de la réactivité et de la qualité de traitement des demandes reçues.</p>
-                                        </li>
-                                        <li>
-                                            <div class="icon-img">
-                                                <img src="assets/img/small-logos/responsibility.png" alt="Responsabilisation">
-                                            </div>
-                                            <p>Responsabilisation des collaborateurs selon le circuit attribué.</p>
-                                        </li>
-                                        <li>
-                                            <div class="icon-img">
-                                                <img src="assets/img/small-logos/help.png" alt="Aide à la prise de décision">
-                                            </div>
-                                            <p>Augmentation de la transparence des opérations par des alertes automatisées.</p>
+                                            <p>Optimisation du temps de traitement des non-conformités terrain.</p>
                                         </li>
                                         <li>
                                             <div class="icon-img">
                                                 <img src="assets/img/small-logos/easy.png" alt="Facilitation">
                                             </div>
-                                            <p>Meilleure maitrise du parcours client et amélioration de sa satisfaction.</p>
+                                            <p> Contrôle permanent de la qualité de la prestation.</p>
+                                        </li>
+                                        <li>
+                                            <div class="icon-img">
+                                                <img src="assets/img/small-logos/responsibility.png" alt="Responsabilisation">
+                                            </div>
+                                            <p>Compétitivité à bon escient entre les collaborateurs pour une qualité de service irréprochable.</p>
+                                        </li>
+                                        <li>
+                                            <div class="icon-img">
+                                                <img src="assets/img/small-logos/improvment.png" alt="Amélioration">
+                                            </div>
+                                            <p>Meilleure qualité de service pour nos clients finaux.</p>
                                         </li>
                                     </ul>
                                 </div>
