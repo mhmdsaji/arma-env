@@ -29,97 +29,97 @@
                                 <div class="col-sm-4 masonry-column">
                                     <div class="arma-project wow animated fadeIn" data-wow-delay=".5s">
                                         <div class="img-holder gallery-1">
-                                            <a href="content/highlights/hl1/cover.jpg"><img src="content/highlights/hl1/cover.jpg" alt=""></a>
-                                            <?php 
-                                            /* AUTOMATIQUE LOGOS FROM FOLDER */ 
-                                            $content_folder = 'content/highlights/hl1/';
-                                            $imgs = array_diff(scandir($content_folder), array('.', '..', '.DS_Store'));
+                                            <?php
+                                            $content_folder = 'content/highlights/hl1/gallery';
+                                            /* AUTO GALLERY COMPONENT FROM FOLDER */ 
+                                            echo "<a href='$content_folder/cover.jpg'><img src='$content_folder/cover.jpg'></a>";
+                                            $imgs = array_diff(scandir($content_folder.'/'), array('.', '..', '.DS_Store'));
                                             natsort($imgs); /* natural sorting, very important, files are ordered */
                                             foreach ($imgs as $iimg) {
-                                                echo "<a href='$content_folder$iimg'></a>";
+                                                echo "<a href='$content_folder/$iimg'></a>";
                                             }
                                             ?>
                                         </div>
-                                        <h3 class="title"><a href="#">Démarrage du contrat de gestion des déchets de la Ville de Marrakech</a></h3>
+                                        <h3 class="title">Démarrage du contrat de gestion des déchets de la Ville de Marrakech</h3>
                                     </div>
-                                    <div class="arma-project wow animated fadeIn" data-wow-delay=".8s">
-                                        <div class="img-holder gallery-2">
-                                            <a href="assets/img/media/2.png"><img src="assets/img/media/2.png" alt=""></a>
-                                            <a href="assets/img/overlays/1.jpg"></a>
-                                            <a href="assets/img/overlays/2.jpg"></a>
-                                            <a href="assets/img/overlays/3.jpg"></a>
-                                            <a href="assets/img/overlays/4.jpg"></a>
-                                            <a href="assets/img/overlays/5.jpg"></a>
-                                            <a href="assets/img/overlays/6.jpg"></a>
-                                            <a href="assets/img/overlays/7.jpg"></a>
-                                            <a href="assets/img/overlays/8.jpg"></a>
-                                            <a href="assets/img/overlays/9.jpg"></a>
+                                    <div class="arma-project wow animated fadeIn" data-wow-delay=".5s">
+                                        <div class="img-holder gallery-1">
+                                            <?php
+                                            $content_folder = 'content/highlights/hl4/gallery';
+                                            /* AUTO GALLERY COMPONENT FROM FOLDER */ 
+                                            echo "<a href='$content_folder/cover.jpg'><img src='$content_folder/cover.jpg'></a>";
+                                            $imgs = array_diff(scandir($content_folder.'/'), array('.', '..', '.DS_Store'));
+                                            natsort($imgs); /* natural sorting, very important, files are ordered */
+                                            foreach ($imgs as $iimg) {
+                                                echo "<a href='$content_folder/$iimg'></a>";
+                                            }
+                                            ?>
                                         </div>
-                                        <h3 class="title"><a href="#">ARMA fête ses 9 ans !</a></h3>
-                                    </div>                                        
+                                        <h3 class="title">ARMA fête ses 9 ans !</h3>
+                                    </div>                                       
                                 </div>
                                 <div class="col-sm-4 masonry-column">
                                     <div class="arma-project wow animated fadeIn" data-wow-delay=".6s">
                                         <div class="img-holder gallery-1">
-                                            <a href="assets/img/media/5.png"><img src="assets/img/media/6.png" alt=""></a>
-                                            <a href="assets/img/overlays/1.jpg"></a>
-                                            <a href="assets/img/overlays/2.jpg"></a>
-                                            <a href="assets/img/overlays/3.jpg"></a>
-                                            <a href="assets/img/overlays/4.jpg"></a>
-                                            <a href="assets/img/overlays/5.jpg"></a>
-                                            <a href="assets/img/overlays/6.jpg"></a>
-                                            <a href="assets/img/overlays/7.jpg"></a>
-                                            <a href="assets/img/overlays/8.jpg"></a>
-                                            <a href="assets/img/overlays/9.jpg"></a>
+                                            <?php
+                                            $content_folder = 'content/highlights/hl2/gallery';
+                                            /* AUTO GALLERY COMPONENT FROM FOLDER */ 
+                                            echo "<a href='$content_folder/cover.jpg'><img src='$content_folder/cover.jpg'></a>";
+                                            $imgs = array_diff(scandir($content_folder.'/'), array('.', '..', '.DS_Store'));
+                                            natsort($imgs); /* natural sorting, very important, files are ordered */
+                                            foreach ($imgs as $iimg) {
+                                                echo "<a href='$content_folder/$iimg'></a>";
+                                            }
+                                            ?>
                                         </div>
-                                        <h3 class="title"><a href="#">Lancement du Centre de Pilotage Opérationnel</a></h3>
+                                        <h3 class="title">Lancement du Centre de Pilotage Opérationnel</h3>
                                     </div>
                                     <div class="arma-project wow animated fadeIn" data-wow-delay=".9s">
-                                        <div class="img-holder gallery-2">
-                                            <a href="assets/img/media/2.png"><img src="assets/img/media/1.png" alt=""></a>
-                                            <a href="assets/img/overlays/1.jpg"></a>
-                                            <a href="assets/img/overlays/2.jpg"></a>
-                                            <a href="assets/img/overlays/3.jpg"></a>
-                                            <a href="assets/img/overlays/4.jpg"></a>
-                                            <a href="assets/img/overlays/5.jpg"></a>
-                                            <a href="assets/img/overlays/6.jpg"></a>
-                                            <a href="assets/img/overlays/7.jpg"></a>
-                                            <a href="assets/img/overlays/8.jpg"></a>
-                                            <a href="assets/img/overlays/9.jpg"></a>
+                                        <div class="img-holder gallery-1">
+                                            <?php
+                                            $content_folder = 'content/highlights/hl5/gallery';
+                                            /* AUTO GALLERY COMPONENT FROM FOLDER */ 
+                                            echo "<a href='$content_folder/cover.jpg'><img src='$content_folder/cover.jpg'></a>";
+                                            $imgs = array_diff(scandir($content_folder.'/'), array('.', '..', '.DS_Store'));
+                                            natsort($imgs); /* natural sorting, very important, files are ordered */
+                                            foreach ($imgs as $iimg) {
+                                                echo "<a href='$content_folder/$iimg'></a>";
+                                            }
+                                            ?>
                                         </div>
-                                        <h3 class="title"><a href="#">Ascension Toubkal, des collaborateurs déterminés à porter au sommet le drapeau d'ARMA</a></h3>
+                                        <h3 class="title">Ascension Toubkal, des collaborateurs déterminés à porter au sommet le drapeau d'ARMA</h3>
                                     </div>                                        
                                 </div>
                                 <div class="col-sm-4 masonry-column">
                                     <div class="arma-project wow animated fadeIn" data-wow-delay=".7s">
                                         <div class="img-holder gallery-1">
-                                            <a href="assets/img/media/5.png"><img src="assets/img/media/4.png" alt=""></a>
-                                            <a href="assets/img/overlays/1.jpg"></a>
-                                            <a href="assets/img/overlays/2.jpg"></a>
-                                            <a href="assets/img/overlays/3.jpg"></a>
-                                            <a href="assets/img/overlays/4.jpg"></a>
-                                            <a href="assets/img/overlays/5.jpg"></a>
-                                            <a href="assets/img/overlays/6.jpg"></a>
-                                            <a href="assets/img/overlays/7.jpg"></a>
-                                            <a href="assets/img/overlays/8.jpg"></a>
-                                            <a href="assets/img/overlays/9.jpg"></a>
+                                            <?php
+                                            $content_folder = 'content/highlights/hl3/gallery';
+                                            /* AUTO GALLERY COMPONENT FROM FOLDER */ 
+                                            echo "<a href='$content_folder/cover.jpg'><img src='$content_folder/cover.jpg'></a>";
+                                            $imgs = array_diff(scandir($content_folder.'/'), array('.', '..', '.DS_Store'));
+                                            natsort($imgs); /* natural sorting, very important, files are ordered */
+                                            foreach ($imgs as $iimg) {
+                                                echo "<a href='$content_folder/$iimg'></a>";
+                                            }
+                                            ?>
                                         </div>
-                                        <h3 class="title"><a href="#">L'éducation et l'environnement au coeur d'un partenariat signé entre le Groupe ARMA et TIBU Maroc</a></h3>
+                                        <h3 class="title">L'éducation et l'environnement au coeur d'un partenariat signé entre le Groupe ARMA et TIBU Maroc (<a style="color:red" href="content/highlights/hl3/doc1.pdf">Communiqué PDF</a>)</h3>
                                     </div>
                                     <div class="arma-project wow animated fadeIn" data-wow-delay="1s">
-                                        <div class="img-holder gallery-2">
-                                            <a href="assets/img/media/2.png"><img src="assets/img/media/3.png" alt=""></a>
-                                            <a href="assets/img/overlays/1.jpg"></a>
-                                            <a href="assets/img/overlays/2.jpg"></a>
-                                            <a href="assets/img/overlays/3.jpg"></a>
-                                            <a href="assets/img/overlays/4.jpg"></a>
-                                            <a href="assets/img/overlays/5.jpg"></a>
-                                            <a href="assets/img/overlays/6.jpg"></a>
-                                            <a href="assets/img/overlays/7.jpg"></a>
-                                            <a href="assets/img/overlays/8.jpg"></a>
-                                            <a href="assets/img/overlays/9.jpg"></a>
+                                        <div class="img-holder gallery-1">
+                                            <?php
+                                            $content_folder = 'content/highlights/hl6/gallery';
+                                            /* AUTO GALLERY COMPONENT FROM FOLDER */ 
+                                            echo "<a href='$content_folder/cover.jpg'><img src='$content_folder/cover.jpg'></a>";
+                                            $imgs = array_diff(scandir($content_folder.'/'), array('.', '..', '.DS_Store'));
+                                            natsort($imgs); /* natural sorting, very important, files are ordered */
+                                            foreach ($imgs as $iimg) {
+                                                echo "<a href='$content_folder/$iimg'></a>";
+                                            }
+                                            ?>
                                         </div>
-                                        <h3 class="title"><a href="#">Campagne de sensibilisation aux horaires de collecte nocture à Marrakech</a></h3>
+                                        <h3 class="title">Campagne de sensibilisation aux horaires de collecte nocture à Marrakech</h3>
                                     </div>                                        
                                 </div>
                             </div>
