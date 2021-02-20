@@ -110,13 +110,13 @@
                         <button class="nav-link title scroll">Nos grands projets</button>
 
                         <ul class="menu-children">
-                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#">Propreté de la métropole  Casablanca</a></li>
-                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#">Collecte déchets de la ville de Rabat</a></li>
-                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#">Propreté de la ville de Marrakech</a></li>
-                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#">Propreté de la province d’Ifrane</a></li>
-                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#">Propreté de la ville d’El Jadida</a></li>
-                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#">Éclairage public de la ville de Rabat</a></li>
-                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#industriels">Gestion des déchets industriels</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#gp1">Propreté de la métropole Casablanca</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#gp2">Collecte déchets de la ville de Rabat</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#gp3">Propreté de la ville de Marrakech</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#gp4">Propreté de la province d’Ifrane</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#gp5">Propreté de la ville d’El Jadida</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#gp6">Éclairage public de la ville de Rabat</a></li>
+                            <li class="nav-item"><a class="nav-link menu-child" href="grands-projets.php#industrie">Gestion des déchets industriels</a></li>
                         </ul>
 
                     </li>
