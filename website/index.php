@@ -28,8 +28,8 @@
 			<div id="page-wrapper">
 				<div class="overlay home-overlay">
 					<div class="overlay-inner">
-						<img src="assets/img/home_casablanca.jpg" alt="background" style="display: none;">
-						<video autoplay muted loop preload="auto">
+						<!-- <img src="assets/img/home_casablanca.jpg" alt="background" style="display: none;"> -->
+						<video autoplay muted loop preload="none">
 							<source src="assets/videos/arma-video_v2.mp4" type="video/mp4">
 							</video>
 						</div>

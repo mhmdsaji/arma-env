@@ -57,7 +57,7 @@
                                     <p>Pour le bien-être des citadins, pour l’attrait de votre ville, pour des questions liées à l’hygiène et à l’environnement, il est impératif de confier la propreté urbaine de la ville à un spécialiste. Depuis 2014, ARMA Environnement s’est imposée comme un partenaire de référence en matière de propreté urbaine. De nombreuses villes et collectivités nous font déjà confiance en nous déléguant ce service. Vous aider à garder votre ville propre est notre métier.</p>
                                     <div class="video-container my-5">
                                         <a href="#" class="play-video"></a>
-                                        <video autoplay muted loop preload="auto" style="width: 100%" class="contentVideo">
+                                        <video autoplay muted loop preload="none" style="width: 100%" class="contentVideo">
                                             <source src="assets/videos/solutions/s1-proprete.mp4" type="video/mp4">
                                         </video>
                                     </div>
@@ -219,7 +219,7 @@
                                     <p>ARMA Environnement mobilise toute son expérience pour proposer des systèmes innovants dans la collecte et la gestion des eaux usées et pluviales. En tant qu’acteur responsable, ARMA Environnement cherche à préserver la ressource que constitue l’eau, et étudie notamment le recyclage possible des eaux épurées.</p>
                                     <div class="video-container my-5">
                                         <a href="#" class="play-video"></a>
-                                        <video autoplay muted loop preload="auto" style="width: 100%" class="contentVideo">
+                                        <video autoplay muted loop preload="none" style="width: 100%" class="contentVideo">
                                             <source src="assets/videos/solutions/s2-eau.mp4" type="video/mp4">
                                         </video>
                                     </div>
@@ -292,7 +292,7 @@
                                     <p>Les espaces verts jouent un rôle fondamental au sein des environnements urbains et rendent nos villes plus attractives. Véritables poumons au sein des villes, les zones végétalisées constituent de réels atouts pour la santé publique, le bien-être des habitants et pour lutter contre les dérèglements climatiques. A cet effet, ARMA Environnement a développé une forte expertise dans la conception, la réalisation et l’entretien des espaces verts. Avec une vision durable de ses ouvrages, ARMA Environnement saura vous conseiller pour vous offrir les services adaptés à la configuration et aux données climatiques de votre ville.</p>
                                     <div class="video-container my-5">
                                         <a href="#" class="play-video"></a>
-                                        <video autoplay muted loop preload="auto" style="width: 100%" class="contentVideo">
+                                        <video autoplay muted loop preload="none" style="width: 100%" class="contentVideo">
                                             <source src="assets/videos/solutions/s3-espacesverts.mp4" type="video/mp4">
                                         </video>
                                     </div>
@@ -375,7 +375,7 @@
                                     <p>A cet effet, ARMA Energy accompagne les villes à travers la mise en place de contrats de performance leur permettant de réaliser des économies d’énergie allant jusqu’à 60%.</p>
                                     <div class="video-container my-5">
                                         <a href="#" class="play-video"></a>
-                                        <video autoplay muted loop preload="auto" style="width: 100%" class="contentVideo">
+                                        <video autoplay muted loop preload="none" style="width: 100%" class="contentVideo">
                                             <source src="assets/videos/solutions/s4-eclairage.mp4" type="video/mp4">
                                         </video>
                                     </div>
@@ -469,7 +469,7 @@
                                     <p>ARMA Environnement s’engage aux côtés des entreprises pour leur offrir une prestation globale et personnalisée de valorisation des déchets, tout en veillant à réduire leurs coûts et leur empreinte écologique.</p>
                                     <div class="video-container my-5">
                                         <a href="#" class="play-video"></a>
-                                        <video autoplay muted loop preload="auto" style="width: 100%" class="contentVideo">
+                                        <video autoplay muted loop preload="none" style="width: 100%" class="contentVideo">
                                             <source src="assets/videos/solutions/s5-dechets.mp4" type="video/mp4">
                                         </video>
                                     </div>
