@@ -242,55 +242,55 @@
 											<div class="col-sm-4 masonry-column">
 												<div class="arma-project wow animated fadeIn" data-wow-delay=".8s">
 													<div class="img-holder">
-														<a href="#"><img src="assets/img/grands-projets/casablanca.jpg" alt="Casa"></a>
+														<a href="grands-projets.php#gp1"><img src="assets/img/grands-projets/casablanca.jpg" alt="Casa"></a>
 													</div>
-													<h3 class="title"><a href="#">Propreté de la métropole Casablanca</a></h3>
+													<h3 class="title"><a href="grands-projets.php#gp1">Propreté de la métropole Casablanca</a></h3>
 												</div>
 												<div class="arma-project wow animated fadeIn" data-wow-delay=".95s">
 													<div class="img-holder">
-														<a href="#"><img src="assets/img/grands-projets/jadida.jpg" alt="El Jadida"></a>
+														<a href="grands-projets.php#gp5"><img src="assets/img/grands-projets/jadida.jpg" alt="El Jadida"></a>
 													</div>
-													<h3 class="title"><a href="#">Propreté de la ville d'El Jadida</a></h3>
+													<h3 class="title"><a href="grands-projets.php#gp5">Propreté de la ville d'El Jadida</a></h3>
 												</div>                                        
 											</div>
 											<div class="col-sm-4 masonry-column">
 												<div class="arma-project wow animated fadeIn" data-wow-delay=".9s">
 													<div class="img-holder">
-														<a href="#"><img src="assets/img/grands-projets/rabat-2.jpg" alt="Collecte des déchets de la ville de Rabat"></a>
+														<a href="grands-projets.php#gp2"><img src="assets/img/grands-projets/rabat-2.jpg" alt="Collecte des déchets de la ville de Rabat"></a>
 													</div>
-													<h3 class="title"><a href="#">Collecte des déchets de la ville de Rabat</a></h3>
+													<h3 class="title"><a href="grands-projets.php#gp2">Collecte des déchets de la ville de Rabat</a></h3>
 												</div>
 												<div class="arma-project wow animated fadeIn" data-wow-delay="1s">
 													<div class="img-holder">
-														<a href="#"><img src="assets/img/grands-projets/ifrane.jpg" alt="Maintenance des espaces verts de la ville de Ifrane"></a>
+														<a href="grands-projets.php#gp4"><img src="assets/img/grands-projets/ifrane.jpg" alt="Maintenance des espaces verts de la ville de Ifrane"></a>
 													</div>
-													<h3 class="title"><a href="#">Maintenance des espaces verts de la ville de Ifrane</a></h3>
+													<h3 class="title"><a href="grands-projets.php#gp4">Maintenance des espaces verts de la ville de Ifrane</a></h3>
 												</div>    
 												<div class="arma-project wow animated fadeIn" data-wow-delay="1s">
 													<div class="img-holder">
-														<a href="#"><img src="assets/img/grands-projets/rabat-2.jpg" alt="Maintenance de l'éclairage public de la ville de Rabat"></a>
+														<a href="grands-projets.php#gp6"><img src="assets/img/grands-projets/rabat-2.jpg" alt="Maintenance de l'éclairage public de la ville de Rabat"></a>
 													</div>
-													<h3 class="title"><a href="#">Maintenance de l'éclairage public de la ville de Rabat</a></h3>
+													<h3 class="title"><a href="grands-projets.php#gp6">Maintenance de l'éclairage public de la ville de Rabat</a></h3>
 												</div>                                        
 											</div>
 											<div class="col-sm-4 masonry-column">
 												<div class="arma-project wow animated fadeIn" data-wow-delay=".9s">
 													<div class="img-holder">
-														<a href="#"><img src="assets/img/grands-projets/kesh.jpg" alt="Propreté de la ville de Marrakech"></a>
+														<a href="grands-projets.php#gp3"><img src="assets/img/grands-projets/kesh.jpg" alt="Propreté de la ville de Marrakech"></a>
 													</div>
-													<h3 class="title"><a href="#">Propreté de la ville de Marrakech</a></h3>
+													<h3 class="title"><a href="grands-projets.php#gp3">Propreté de la ville de Marrakech</a></h3>
 												</div>    
 												<div class="arma-project wow animated fadeIn" data-wow-delay="1.05s">
 													<div class="img-holder">
-														<a href="#"><img src="assets/img/grands-projets/ifrane-2.jpg" alt="Propreté de la province de Ifrane"></a>
+														<a href="grands-projets.php#gp4"><img src="assets/img/grands-projets/ifrane-2.jpg" alt="Propreté de la province de Ifrane"></a>
 													</div>
-													<h3 class="title"><a href="#">Propreté de la province de Ifrane</a></h3>
+													<h3 class="title"><a href="grands-projets.php#gp4">Propreté de la province de Ifrane</a></h3>
 												</div>    
 												<div class="arma-project wow animated fadeIn" data-wow-delay="1.15s">
 													<div class="img-holder">
-														<a href="#"><img src="assets/img/grands-projets/industriel.jpg" alt="Gestion des déchets industriels"></a>
+														<a href="grands-projets.php#industrie"><img src="assets/img/grands-projets/industriel.jpg" alt="Gestion des déchets industriels"></a>
 													</div>
-													<h3 class="title"><a href="#">Gestion des déchets industriels</a></h3>
+													<h3 class="title"><a href="grands-projets.php#industrie">Gestion des déchets industriels</a></h3>
 												</div>                                        
 											</div>
 										</div>
